@@ -1,0 +1,60 @@
+{
+  "model_name": "HistGradientBoostingRegressor",
+  "target_horizons": [
+    "7-day",
+    "3-day",
+    "1-day"
+  ],
+  "split_info": {
+    "train_date_range": "2026-07-15 to 2026-09-01",
+    "val_date_range": "2026-09-02 to 2026-09-11",
+    "test_date_range": "2026-09-12 to 2026-09-22",
+    "train_rows": 17640,
+    "val_rows": 3600,
+    "test_rows": 3960,
+    "total_rows": 25200
+  },
+  "metrics_7d": {
+    "train": {
+      "mae": 1.1280519306283325,
+      "rmse": 1.4883424262899392,
+      "r2": 0.9190268494766736
+    },
+    "validation": {
+      "mae": 1.687047250291008,
+      "rmse": 2.2761828044565138,
+      "r2": 0.8086011448637407
+    },
+    "test": {
+      "mae": 1.796022419134634,
+      "rmse": 2.488808028550557,
+      "r2": 0.7439825752051914
+    },
+    "baseline_naive_test": {
+      "mae": 2.2636363636363637,
+      "rmse": 3.1946925683171155,
+      "r2": 0.5781628058548014
+    },
+    "improvement": {
+      "mae_reduction_pct": 20.66,
+      "rmse_reduction_pct": 22.1,
+      "r2_gain": 0.1658
+    }
+  },
+  "metrics_3d": {
+    "test": {
+      "mae": 1.1316590799148587,
+      "rmse": 1.54726890129667,
+      "r2": 0.5704207359234206
+    }
+  },
+  "metrics_1d": {
+    "test": {
+      "mae": 0.6061674300764239,
+      "rmse": 0.8414413875234774,
+      "r2": 0.34443233907075776
+    }
+  },
+  "demand_score_formula": "Demand_Score = min(100.0, max(0.0, (Predicted_7d_Demand / (Available_Hub_Capacity * 0.15 + 1.0)) * 50.0))",
+  "trained_at": "2026-10-03T15:18:29.946883"
+}

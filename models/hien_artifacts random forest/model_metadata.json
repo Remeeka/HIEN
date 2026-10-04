@@ -1,0 +1,49 @@
+{
+    "feature_schema": {
+        "numeric_features": [
+            "product_age_months",
+            "original_product_value",
+            "return_days_after_purchase",
+            "packaging_damage_score",
+            "accessories_expected",
+            "accessories_present",
+            "accessory_completeness_percentage",
+            "missing_accessory_count",
+            "functional_test_available",
+            "physical_damage_score",
+            "visible_defect_count",
+            "return_shipping_distance_km",
+            "handling_history_count",
+            "previous_return_count",
+            "safety_check_required",
+            "manual_inspection_required"
+        ],
+        "categorical_features": [
+            "product_category",
+            "brand",
+            "return_reason",
+            "customer_reported_condition",
+            "packaging_condition",
+            "functional_test_type",
+            "physical_condition",
+            "return_hub_id",
+            "hub_type",
+            "product_risk_level"
+        ]
+    },
+    "target_name": "eligibility_category",
+    "preprocessing_details": {
+        "numeric_imputer": "median",
+        "categorical_imputer": "most_frequent",
+        "scaler": "StandardScaler",
+        "encoder": "OneHotEncoder"
+    },
+    "model_configuration": {
+        "n_estimators": 100,
+        "max_depth": 12,
+        "class_weight": "balanced",
+        "random_state": 42
+    },
+    "dataset_description": "HIEN return evaluation dataset",
+    "model_version": "1.0.0"
+}

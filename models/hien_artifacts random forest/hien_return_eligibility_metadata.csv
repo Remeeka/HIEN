@@ -1,0 +1,38 @@
+feature_name,data_type,description,allowed_values_or_range,feature_kind,used_by_model,can_contain_missing
+product_id,string,Unique product instance / return-record ID,PROD000001..,identifier,No,No
+sku,string,Product SKU (128 SKUs). Excluded from model: high-cardinality and redundant with category + value,SKU_<CAT4>_<nnn>,categorical,No,No
+product_category,string,Product category (32 categories),Headphones; Earbuds; Smartphones; Laptops; Tablets; Smartwatches; Fitness Trackers; Bluetooth Speakers; Soundbars; Monitors; Keyboards; Mice; Chargers; Power Banks; Cameras; Webcams; External Storage; Routers; Smart Home Devices; Gaming Consoles; Televisions; Printers; Kitchen Appliances; Coffee Machines; Air Purifiers; Vacuum Cleaners; Electric Kettles; Irons; Personal Care Devices; Hair Dryers; Fashion Accessories; Home Accessories,categorical,Yes,No
+brand,string,"Synthetic brand name (48 brands, tied to category group)",see data,categorical,Yes,No
+product_age_months,integer,"Months since the SKU was released, at return time (obsolescence proxy)",>=0,numerical,Yes,Yes (random ~1.5%)
+original_product_value,integer,Original selling price in INR,299..~300000,numerical,Yes,No
+return_id,string,Unique return identifier,RET0000001..,identifier,No,No
+return_reason,string,Reason stated at return registration,Changed_Mind; Wrong_Product; Wrong_Size_or_Variant; Damaged_On_Arrival; Product_Not_Working; Missing_Accessory; Packaging_Damaged; Performance_Issue; Duplicate_Order; Other,categorical,Yes,No
+return_days_after_purchase,integer,Days between purchase and return,1..365,numerical,Yes,No
+customer_reported_condition,string,"Customer's own condition rating (noisy, optimistic signal)",Like_New; Good; Fair; Poor; Damaged,categorical,Yes,No
+customer_reported_issue,string,Issue described by the customer. The literal string 'None' means no issue (NOT a missing value),None; Cosmetic_Damage; Physical_Damage; Not_Powering_On; Connectivity_Issue; Missing_Accessory; Performance_Issue; Unknown,categorical,Yes,Yes (random ~2%; blank = missing)
+packaging_condition,string,Condition of retail packaging at intake,Sealed; Excellent; Good; Damaged; Severely_Damaged; Missing,categorical,Yes,No
+packaging_damage_score,integer,"Packaging damage, higher = worse. For packaging_condition=Missing this is a nominal mid-high score",0-100,numerical,Yes,Yes (random ~2%)
+accessories_expected,integer,Number of accessories/components expected in the box,1-4,numerical,Yes,No
+accessories_present,integer,Accessories actually present,0..accessories_expected,numerical,Yes,Yes (random ~2%)
+accessory_completeness_percentage,float,100 * present / expected,0-100,numerical,Yes,Yes (random ~2.5%)
+missing_accessory_count,integer,expected - present,0..accessories_expected,numerical,Yes,Yes (random ~2%)
+functional_test_available,integer,1 if a functional test was run at intake,0/1,binary,Yes,No
+functional_test_passed,integer,1 pass / 0 fail. Blank when no test was run (structurally not applicable; never defaulted to 'pass'),0/1 or blank,binary,Yes,Structural (blank when test_available=0)
+functional_test_score,float,Test score,0-100,numerical,Yes,"Structural when test_available=0, plus random ~2%"
+functional_test_type,string,Kind of functional test performed,Basic_Power_Test; Connectivity_Test; Audio_Test; Display_Test; Battery_Test; Mechanical_Test; Full_Functional_Test; Not_Performed,categorical,Yes,No
+physical_condition,string,Hub inspector's physical condition grade,Excellent; Good; Minor_Wear; Moderate_Damage; Major_Damage; Severe_Damage,categorical,Yes,No
+physical_damage_score,integer,"Hub-assessed physical damage (noise depends on hub type), higher = worse",0-100,numerical,Yes,Yes (random ~1%)
+visible_defect_count,integer,Number of visible defects (>= number of listed types),>=0,numerical,Yes,No
+visible_defect_types,string (multi-label),Pipe-delimited defect types; 'None' = no defect. Multi-hot encoded in the pipeline,None; Scratch; Dent; Crack; Broken_Component; Screen_Damage; Discoloration; Heavy_Wear; Missing_Part; Water_Damage; Connector_Damage; Other,categorical,Yes,No
+return_hub_id,string,Hub that received the return,HUB_001..HUB_020,categorical,Yes,No
+hub_type,string,Type of hub,Store; Access_Point; Warehouse,categorical,Yes,No
+return_shipping_distance_km,float,Customer -> hub distance,0.2-150,numerical,Yes,Yes (random ~1%)
+handling_history_count,integer,"Previous handling events (transfers, re-scans)",0-9,numerical,Yes,Yes (random ~1%)
+previous_return_count,integer,Earlier returns associated with the unit,0-2,numerical,Yes,No
+product_risk_level,string,Safety/risk tier of the SKU,Low; Medium; High,categorical,Yes,No
+safety_check_required,integer,1 if policy requires a safety check,0/1,binary,Yes,No
+safety_check_passed,integer,1 pass / 0 fail. Blank when no safety check was required (not applicable),0/1 or blank,binary,Yes,Structural (blank when check_required=0)
+manual_inspection_required,integer,Workflow flag derived from business rules on observable inputs (+3% random audit). Redundant with other inputs -> excluded from model; use as a separate analysis target,0/1,binary,No,No
+eligibility_category,string,TARGET: preliminary disposition (generated from hidden state + noise),resalable; refurbishment_needed; not_resalable,target,Target,No
+physical_unit_id,string,"Physical-unit identifier used for grouped splitting. 1,000 units appear twice (repeat returns). Not a model feature",UNIT000001..,identifier,No,No
+data_split,string,Pre-assigned stratified + grouped split (70/15/15),train; validation; test,split,No,No

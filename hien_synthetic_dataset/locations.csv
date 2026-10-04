@@ -1,0 +1,41 @@
+location_id,location_type,zone,x_km,y_km,storage_capacity_units,verification_slots_per_day,avg_daily_footfall,dist_to_warehouse_km,hub_enabled
+LOC001,Store,North,15.49,10.1,241,34,1314,18.49,True
+LOC002,Store,West,-8.73,-1.73,377,42,1368,8.9,True
+LOC003,Store,West,28.24,3.91,273,48,568,28.51,True
+LOC004,Store,East,23.59,15.9,324,42,1372,28.45,True
+LOC005,Store,East,16.7,8.08,264,40,439,18.55,True
+LOC006,Store,Central,-18.32,3.21,216,57,922,18.6,True
+LOC007,Store,North,-2.0,3.55,341,30,863,4.07,False
+LOC008,Store,West,-27.37,-11.76,392,45,679,29.79,True
+LOC009,Store,South,-20.74,-28.15,215,43,326,34.97,True
+LOC010,Store,North,10.98,-3.8,344,41,1226,11.62,True
+LOC011,Store,East,14.69,-17.12,215,53,702,22.56,True
+LOC012,Store,Central,28.05,-5.49,329,34,1093,28.58,True
+LOC013,Store,West,-10.45,21.2,347,58,792,23.64,True
+LOC014,Store,West,-7.77,-15.96,262,36,748,17.75,True
+LOC015,Store,West,-1.83,-26.5,334,44,1363,26.56,True
+LOC016,Store,West,-18.63,-13.12,218,43,413,22.79,True
+LOC017,Store,East,-22.2,-12.38,169,54,1183,25.42,True
+LOC018,Store,North,-1.46,9.71,174,40,1196,9.82,True
+LOC019,Store,Central,-16.39,3.42,261,34,755,16.74,False
+LOC020,Store,East,10.19,17.03,375,25,614,19.85,True
+LOC021,Store,East,-3.77,9.86,181,37,306,10.56,True
+LOC022,Store,South,19.96,-5.62,263,53,1424,20.74,True
+LOC023,Store,North,12.02,18.84,326,25,1437,22.35,True
+LOC024,Store,Central,-11.26,-19.98,200,56,589,22.93,True
+LOC025,Store,West,19.94,-28.64,330,43,338,34.9,True
+LOC026,Access Point,West,18.29,-24.6,82,12,91,30.65,True
+LOC027,Access Point,East,-6.75,13.34,70,24,264,14.95,True
+LOC028,Access Point,Central,-12.7,-2.29,61,23,249,12.9,True
+LOC029,Access Point,East,10.95,-20.32,85,11,46,23.08,True
+LOC030,Access Point,East,-21.61,0.06,83,10,226,21.61,True
+LOC031,Access Point,East,-18.01,-20.86,56,17,61,27.56,True
+LOC032,Access Point,South,-29.56,11.78,32,8,232,31.82,True
+LOC033,Access Point,North,17.22,-3.23,43,13,254,17.52,True
+LOC034,Access Point,East,9.89,-7.14,116,15,74,12.2,True
+LOC035,Access Point,Central,12.31,-11.91,67,24,152,17.13,True
+LOC036,Access Point,North,16.84,7.82,73,24,72,18.57,True
+LOC037,Access Point,Central,-2.47,-8.29,72,10,187,8.65,True
+LOC038,Access Point,Central,4.12,-24.74,100,23,281,25.08,True
+LOC039,Access Point,South,-21.61,-22.92,35,9,61,31.5,False
+LOC040,Access Point,West,-23.13,27.71,37,20,143,36.09,True

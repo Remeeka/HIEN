@@ -1,0 +1,23 @@
+parameter,value,unit,explanation
+grid_dimension_km,60x60,km,Synthetic metro simulation area bounding box
+central_warehouse_coord,"(0.0, 0.0)",coordinate,Central Warehouse coordinates at center of grid
+metro_center_latitude,12.9716,degrees,Bengaluru metro area geographic latitude datum
+metro_center_longitude,77.5946,degrees,Bengaluru metro area geographic longitude datum
+max_dwell_time_days,14,days,Max holding duration for local returned inventory before warehouse transfer
+max_hyperlocal_radius_km,10.0,km,Maximum allowable customer delivery radius from a local store hub
+match_score_threshold,70.0,score (0-100),Minimum overall match score required to recommend HIEN Local fulfillment
+match_weight_product,0.40,weight,Weight for product/SKU exact match component
+match_weight_demand,0.20,weight,Weight for local demand score component
+match_weight_distance,0.15,weight,Weight for customer proximity distance component
+match_weight_condition,0.10,weight,Weight for verified return condition component
+match_weight_urgency,0.10,weight,Weight for order SLA / delivery urgency component
+match_weight_cost,0.05,weight,Weight for relative fulfillment cost component
+transportation_cost_per_km_local,3.50,INR / km,Local EV/bike delivery cost rate per kilometer
+transportation_cost_per_km_warehouse,1.20,INR / km,Inter-city / trunk freight cost rate per kilometer
+warehouse_handling_cost_inr,85.00,INR / unit,"Cost of receiving, QA inspecting, and restocking at Central Warehouse"
+local_handling_cost_inr,14.00,INR / unit,Cost of verification and shelf placement at Local Hub Store
+estimated_co2_per_km_local,0.12,kg CO2 / km,Local transport emission factor per kilometer
+estimated_co2_per_km_warehouse,0.12,kg CO2 / km,Warehouse freight emission factor per kilometer
+warehouse_processing_fixed_co2,0.90,kg CO2 / unit,Emissions from automated warehouse sorting and lighting
+average_warehouse_processing_hours,38.2,hours,Average turnaround time for central warehouse order processing and transit
+average_local_verification_hours,4.3,hours,Average turnaround time for local verification and same-day delivery

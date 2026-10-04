@@ -1,0 +1,86 @@
+[
+  {
+    "id": "aud-1791043142005",
+    "timestamp": "2026-10-03T21:29:02.005840",
+    "actor": "David Kim",
+    "role": "QA Inspector",
+    "action": "TRANSFER_RECEIVED",
+    "entityType": "Transfer",
+    "entityId": "TR-2026-4182",
+    "previousState": "Inbound Transit",
+    "newState": "Received at hub-sea-01. Available: 13 (+5)",
+    "result": "SUCCESS"
+  },
+  {
+    "id": "aud-1791043141985",
+    "timestamp": "2026-10-03T21:29:01.985198",
+    "actor": "David Kim",
+    "role": "Logistics",
+    "action": "TRANSFER_DISPATCHED",
+    "entityType": "Transfer",
+    "entityId": "TR-2026-4182",
+    "previousState": "Departed hub-tac-04",
+    "newState": "In transit to hub-sea-01 (5 units)",
+    "result": "SUCCESS"
+  },
+  {
+    "id": "aud-1791043141966",
+    "timestamp": "2026-10-03T21:29:01.966637",
+    "actor": "Order Fulfillment Agent",
+    "role": "Logistics",
+    "action": "ORDER_FULFILLED",
+    "entityType": "LocalOrder",
+    "entityId": "ORD-LIVE-8821",
+    "previousState": "Reserved: 3",
+    "newState": "Reserved: 2 (Total Stock: 10)",
+    "result": "SUCCESS"
+  },
+  {
+    "id": "aud-1791043141946",
+    "timestamp": "2026-10-03T21:29:01.946301",
+    "actor": "Order Fulfillment Agent",
+    "role": "Hub Operator",
+    "action": "ORDER_RESERVED",
+    "entityType": "LocalOrder",
+    "entityId": "ORD-LIVE-8821",
+    "previousState": "Available: 9",
+    "newState": "Available: 8, Reserved: 3",
+    "result": "SUCCESS"
+  },
+  {
+    "id": "aud-1791043141913",
+    "timestamp": "2026-10-03T21:29:01.913637",
+    "actor": "Marcus Vance",
+    "role": "Inspector",
+    "action": "INVENTORY_INCREASE_FROM_RETURN",
+    "entityType": "InventoryItem",
+    "entityId": "hub-sea-01:SKU-AUD-801",
+    "previousState": "Available: 8",
+    "newState": "Available: 9 (+1 from RMA-2026-3091)",
+    "result": "SUCCESS"
+  },
+  {
+    "id": "aud-1791043141912",
+    "timestamp": "2026-10-03T21:29:01.912877",
+    "actor": "Marcus Vance",
+    "role": "Inspector",
+    "action": "PHYSICAL_INSPECTION_APPROVED",
+    "entityType": "PhysicalInspection",
+    "entityId": "RMA-2026-3091",
+    "previousState": "assessment_pending",
+    "newState": "Disposition: APPROVED_RESALE",
+    "result": "SUCCESS"
+  },
+  {
+    "id": "aud-1791043141807",
+    "timestamp": "2026-10-03T21:29:01.807801",
+    "actor": "Intake Associate",
+    "role": "Intake Associate",
+    "action": "RETURN_REGISTERED",
+    "entityType": "ReturnItem",
+    "entityId": "RMA-2026-3091",
+    "previousState": "Unregistered",
+    "newState": "RMA RMA-2026-3091 registered. Pending QA: 1, Available: 8",
+    "result": "SUCCESS"
+  }
+]

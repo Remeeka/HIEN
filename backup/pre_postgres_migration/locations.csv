@@ -1,0 +1,42 @@
+location_id,location_name,city,state,latitude,longitude,x_km,y_km,zone,location_type,storage_capacity_units,current_inventory_units,available_storage_units,verification_slots_per_day,operating_hours,delivery_radius_km,hub_enabled,local_delivery_cost_per_km,warehouse_handling_cost_inr,avg_daily_footfall,dist_to_warehouse_km
+LOC001,HIEN Indiranagar Hub Store,Bengaluru,Karnataka,13.062673,77.737761,15.49,10.1,North,Store,241,134,107,34,08:00 - 22:00,10.0,True,4.5,45.0,1314,18.49
+LOC002,HIEN Koramangala Smart Hub,Bengaluru,Karnataka,12.956,77.513916,-8.73,-1.73,West,Store,377,160,217,42,08:00 - 22:00,10.0,True,4.5,45.0,1368,8.9
+LOC003,HIEN Whitefield Retail Store,Bengaluru,Karnataka,13.006857,77.855598,28.24,3.91,West,Store,273,162,111,48,08:00 - 22:00,10.0,True,4.5,45.0,568,28.51
+LOC004,HIEN Jayanagar HIEN Store,Bengaluru,Karnataka,13.114972,77.812622,23.59,15.9,East,Store,324,171,153,42,08:00 - 22:00,10.0,True,4.5,45.0,1372,28.45
+LOC005,HIEN HSR Layout Express Hub,Bengaluru,Karnataka,13.044458,77.748944,16.7,8.08,East,Store,264,75,189,40,08:00 - 22:00,10.0,True,4.5,45.0,439,18.55
+LOC006,HIEN Electronic City Store,Bengaluru,Karnataka,13.000545,77.425284,-18.32,3.21,Central,Store,216,138,78,57,08:00 - 22:00,10.0,True,4.5,45.0,922,18.6
+LOC007,HIEN Malleshwaram Store,Bengaluru,Karnataka,13.003611,77.576116,-2.0,3.55,North,Store,341,189,152,30,08:00 - 22:00,10.0,False,4.5,45.0,863,4.07
+LOC008,HIEN MG Road Experience Center,Bengaluru,Karnataka,12.865559,77.341643,-27.37,-11.76,West,Store,392,221,171,45,08:00 - 22:00,10.0,True,4.5,45.0,679,29.79
+LOC009,HIEN Hebbal North Hub,Bengaluru,Karnataka,12.717768,77.402918,-20.74,-28.15,South,Store,215,64,151,43,08:00 - 22:00,10.0,True,4.5,45.0,326,34.97
+LOC010,HIEN Marathahalli Retail Hub,Bengaluru,Karnataka,12.937335,77.696079,10.98,-3.8,North,Store,344,147,197,41,08:00 - 22:00,10.0,True,4.5,45.0,1226,11.62
+LOC011,HIEN BTM Layout Store,Bengaluru,Karnataka,12.817227,77.730367,14.69,-17.12,East,Store,215,85,130,53,08:00 - 22:00,10.0,True,4.5,45.0,702,22.56
+LOC012,HIEN Banashankari Smart Store,Bengaluru,Karnataka,12.922096,77.853842,28.05,-5.49,Central,Store,329,204,125,34,08:00 - 22:00,10.0,True,4.5,45.0,1093,28.58
+LOC013,HIEN Rajajinagar Store,Bengaluru,Karnataka,13.162763,77.49802,-10.45,21.2,West,Store,347,176,171,58,08:00 - 22:00,10.0,True,4.5,45.0,792,23.64
+LOC014,HIEN Sarjapur Road Hub,Bengaluru,Karnataka,12.827687,77.522789,-7.77,-15.96,West,Store,262,151,111,36,08:00 - 22:00,10.0,True,4.5,45.0,748,17.75
+LOC015,HIEN Bellandur Retail Point,Bengaluru,Karnataka,12.732646,77.577687,-1.83,-26.5,West,Store,334,142,192,44,08:00 - 22:00,10.0,True,4.5,45.0,1363,26.56
+LOC016,HIEN Yelahanka North Store,Bengaluru,Karnataka,12.853295,77.422419,-18.63,-13.12,West,Store,218,74,144,43,08:00 - 22:00,10.0,True,4.5,45.0,413,22.79
+LOC017,HIEN Kalyan Nagar Hub,Bengaluru,Karnataka,12.859968,77.389424,-22.2,-12.38,East,Store,169,79,90,54,08:00 - 22:00,10.0,True,4.5,45.0,1183,25.42
+LOC018,HIEN Basavanagudi Store,Bengaluru,Karnataka,13.059156,77.581106,-1.46,9.71,North,Store,174,47,127,40,08:00 - 22:00,10.0,True,4.5,45.0,1196,9.82
+LOC019,HIEN JP Nagar Smart Store,Bengaluru,Karnataka,13.002439,77.443121,-16.39,3.42,Central,Store,261,151,110,34,08:00 - 22:00,10.0,False,4.5,45.0,755,16.74
+LOC020,HIEN RT Nagar Hub,Bengaluru,Karnataka,13.125162,77.688777,10.19,17.03,East,Store,375,188,187,25,08:00 - 22:00,10.0,True,4.5,45.0,614,19.85
+LOC021,HIEN Vijayanagar Store,Bengaluru,Karnataka,13.060509,77.559757,-3.77,9.86,East,Store,181,100,81,37,08:00 - 22:00,10.0,True,4.5,45.0,306,10.56
+LOC022,HIEN Kengeri Satellite Hub,Bengaluru,Karnataka,12.920924,77.779073,19.96,-5.62,South,Store,263,103,160,53,08:00 - 22:00,10.0,True,4.5,45.0,1424,20.74
+LOC023,HIEN Hoodi Express Store,Bengaluru,Karnataka,13.141483,77.705691,12.02,18.84,North,Store,326,208,118,25,08:00 - 22:00,10.0,True,4.5,45.0,1437,22.35
+LOC024,HIEN Bannerghatta Hub,Bengaluru,Karnataka,12.791438,77.490533,-11.26,-19.98,Central,Store,200,121,79,56,08:00 - 22:00,10.0,True,4.5,45.0,589,22.93
+LOC025,HIEN Varthur Retail Point,Bengaluru,Karnataka,12.713349,77.778888,19.94,-28.64,West,Store,330,185,145,43,08:00 - 22:00,10.0,True,4.5,45.0,338,34.9
+LOC026,HIEN Kadugodi Access Point,Bengaluru,Karnataka,12.749779,77.763639,18.29,-24.6,West,Access Point,82,26,56,12,09:00 - 21:00,6.0,True,5.2,45.0,91,30.65
+LOC027,HIEN Domlur Pickup Kiosk,Bengaluru,Karnataka,13.091889,77.532216,-6.75,13.34,East,Access Point,70,30,40,24,09:00 - 21:00,6.0,True,5.2,45.0,264,14.95
+LOC028,HIEN Ulsoor Micro Locker,Bengaluru,Karnataka,12.950951,77.477225,-12.7,-2.29,Central,Access Point,61,16,45,23,09:00 - 21:00,6.0,True,5.2,45.0,249,12.9
+LOC029,HIEN Brookefield Access Point,Bengaluru,Karnataka,12.788372,77.695801,10.95,-20.32,East,Access Point,85,26,59,11,09:00 - 21:00,6.0,True,5.2,45.0,46,23.08
+LOC030,HIEN Mahadevapura Drop Kiosk,Bengaluru,Karnataka,12.972141,77.394877,-21.61,0.06,East,Access Point,83,43,40,10,09:00 - 21:00,6.0,True,5.2,45.0,226,21.61
+LOC031,HIEN Thubarahalli Micro Point,Bengaluru,Karnataka,12.783503,77.428149,-18.01,-20.86,East,Access Point,56,30,26,17,09:00 - 21:00,6.0,True,5.2,45.0,61,27.56
+LOC032,HIEN CV Raman Nagar Point,Bengaluru,Karnataka,13.077822,77.321402,-29.56,11.78,South,Access Point,32,20,12,8,09:00 - 21:00,6.0,True,5.2,45.0,232,31.82
+LOC033,HIEN Frazer Town Locker,Bengaluru,Karnataka,12.942475,77.75375,17.22,-3.23,North,Access Point,43,16,27,13,09:00 - 21:00,6.0,True,5.2,45.0,254,17.52
+LOC034,HIEN Adugodi Access Point,Bengaluru,Karnataka,12.907218,77.686005,9.89,-7.14,East,Access Point,116,46,70,15,09:00 - 21:00,6.0,True,5.2,45.0,74,12.2
+LOC035,HIEN Kaggadasapura Kiosk,Bengaluru,Karnataka,12.864206,77.708371,12.31,-11.91,Central,Access Point,67,29,38,24,09:00 - 21:00,6.0,True,5.2,45.0,152,17.13
+LOC036,HIEN Kudlu Gate Micro Hub,Bengaluru,Karnataka,13.042114,77.750238,16.84,7.82,North,Access Point,73,23,50,24,09:00 - 21:00,6.0,True,5.2,45.0,72,18.57
+LOC037,HIEN Singasandra Access Point,Bengaluru,Karnataka,12.896848,77.571772,-2.47,-8.29,Central,Access Point,72,21,51,10,09:00 - 21:00,6.0,True,5.2,45.0,187,8.65
+LOC038,HIEN Nagawara Kiosk,Bengaluru,Karnataka,12.748516,77.632678,4.12,-24.74,Central,Access Point,100,44,56,23,09:00 - 21:00,6.0,True,5.2,45.0,281,25.08
+LOC039,HIEN Peenya Industrial Access Point,Bengaluru,Karnataka,12.764927,77.394877,-21.61,-22.92,South,Access Point,35,11,24,9,09:00 - 21:00,6.0,False,5.2,45.0,61,31.5
+LOC040,HIEN Yeshwanthpur Micro Point,Bengaluru,Karnataka,13.221465,77.380829,-23.13,27.71,West,Access Point,37,19,18,20,09:00 - 21:00,6.0,True,5.2,45.0,143,36.09
+WH001,HIEN Central Distribution Warehouse - Nelamangala,Bengaluru,Karnataka,12.9716,77.5946,0.0,0.0,Central,Central Warehouse,50000,24500,25500,2500,24/7,60.0,True,3.5,85.0,200,0.0

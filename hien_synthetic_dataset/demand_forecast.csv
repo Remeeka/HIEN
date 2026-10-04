@@ -1,0 +1,4003 @@
+location_id,category,week,actual_demand_units,forecast_demand_units
+LOC001,Accessories,0,15,11
+LOC001,Accessories,1,7,4
+LOC001,Accessories,2,4,5
+LOC001,Accessories,3,6,8
+LOC001,Accessories,4,7,5
+LOC001,Accessories,5,10,10
+LOC001,Accessories,6,12,12
+LOC001,Accessories,7,9,6
+LOC001,Accessories,8,10,8
+LOC001,Accessories,9,18,23
+LOC001,Accessories,10,8,10
+LOC001,Accessories,11,9,8
+LOC001,Accessories,12,8,9
+LOC001,Apparel,0,13,12
+LOC001,Apparel,1,21,24
+LOC001,Apparel,2,21,23
+LOC001,Apparel,3,21,31
+LOC001,Apparel,4,27,31
+LOC001,Apparel,5,20,25
+LOC001,Apparel,6,28,34
+LOC001,Apparel,7,24,27
+LOC001,Apparel,8,23,24
+LOC001,Apparel,9,15,17
+LOC001,Apparel,10,22,14
+LOC001,Apparel,11,23,27
+LOC001,Apparel,12,18,18
+LOC001,Beauty,0,10,10
+LOC001,Beauty,1,14,15
+LOC001,Beauty,2,10,10
+LOC001,Beauty,3,9,5
+LOC001,Beauty,4,7,8
+LOC001,Beauty,5,6,5
+LOC001,Beauty,6,11,12
+LOC001,Beauty,7,11,5
+LOC001,Beauty,8,12,15
+LOC001,Beauty,9,11,8
+LOC001,Beauty,10,12,11
+LOC001,Beauty,11,8,6
+LOC001,Beauty,12,11,10
+LOC001,Books,0,7,7
+LOC001,Books,1,8,9
+LOC001,Books,2,4,2
+LOC001,Books,3,2,2
+LOC001,Books,4,10,9
+LOC001,Books,5,7,7
+LOC001,Books,6,5,4
+LOC001,Books,7,7,7
+LOC001,Books,8,7,8
+LOC001,Books,9,5,2
+LOC001,Books,10,8,6
+LOC001,Books,11,4,5
+LOC001,Books,12,11,12
+LOC001,Electronics,0,8,10
+LOC001,Electronics,1,10,8
+LOC001,Electronics,2,17,17
+LOC001,Electronics,3,8,5
+LOC001,Electronics,4,9,10
+LOC001,Electronics,5,10,12
+LOC001,Electronics,6,6,7
+LOC001,Electronics,7,16,18
+LOC001,Electronics,8,10,11
+LOC001,Electronics,9,15,12
+LOC001,Electronics,10,9,8
+LOC001,Electronics,11,17,25
+LOC001,Electronics,12,6,8
+LOC001,Footwear,0,14,13
+LOC001,Footwear,1,13,11
+LOC001,Footwear,2,9,11
+LOC001,Footwear,3,16,16
+LOC001,Footwear,4,8,6
+LOC001,Footwear,5,21,13
+LOC001,Footwear,6,9,10
+LOC001,Footwear,7,15,13
+LOC001,Footwear,8,15,14
+LOC001,Footwear,9,13,12
+LOC001,Footwear,10,8,6
+LOC001,Footwear,11,14,14
+LOC001,Footwear,12,13,14
+LOC001,Home & Kitchen,0,11,11
+LOC001,Home & Kitchen,1,6,4
+LOC001,Home & Kitchen,2,20,16
+LOC001,Home & Kitchen,3,10,9
+LOC001,Home & Kitchen,4,11,15
+LOC001,Home & Kitchen,5,9,12
+LOC001,Home & Kitchen,6,14,13
+LOC001,Home & Kitchen,7,12,12
+LOC001,Home & Kitchen,8,15,14
+LOC001,Home & Kitchen,9,8,6
+LOC001,Home & Kitchen,10,17,16
+LOC001,Home & Kitchen,11,11,11
+LOC001,Home & Kitchen,12,11,11
+LOC001,Sports,0,5,5
+LOC001,Sports,1,7,5
+LOC001,Sports,2,9,10
+LOC001,Sports,3,8,10
+LOC001,Sports,4,6,4
+LOC001,Sports,5,5,5
+LOC001,Sports,6,10,5
+LOC001,Sports,7,1,1
+LOC001,Sports,8,11,11
+LOC001,Sports,9,2,2
+LOC001,Sports,10,6,6
+LOC001,Sports,11,12,13
+LOC001,Sports,12,3,3
+LOC001,Toys,0,6,6
+LOC001,Toys,1,13,11
+LOC001,Toys,2,8,7
+LOC001,Toys,3,11,8
+LOC001,Toys,4,12,12
+LOC001,Toys,5,5,5
+LOC001,Toys,6,5,4
+LOC001,Toys,7,7,6
+LOC001,Toys,8,6,3
+LOC001,Toys,9,9,12
+LOC001,Toys,10,12,11
+LOC001,Toys,11,9,8
+LOC001,Toys,12,7,7
+LOC002,Accessories,0,14,20
+LOC002,Accessories,1,12,11
+LOC002,Accessories,2,4,4
+LOC002,Accessories,3,9,11
+LOC002,Accessories,4,7,8
+LOC002,Accessories,5,17,18
+LOC002,Accessories,6,8,10
+LOC002,Accessories,7,12,14
+LOC002,Accessories,8,10,14
+LOC002,Accessories,9,8,8
+LOC002,Accessories,10,16,11
+LOC002,Accessories,11,8,8
+LOC002,Accessories,12,4,5
+LOC002,Apparel,0,22,20
+LOC002,Apparel,1,18,12
+LOC002,Apparel,2,24,31
+LOC002,Apparel,3,37,47
+LOC002,Apparel,4,26,18
+LOC002,Apparel,5,22,14
+LOC002,Apparel,6,32,38
+LOC002,Apparel,7,26,23
+LOC002,Apparel,8,23,27
+LOC002,Apparel,9,26,35
+LOC002,Apparel,10,26,27
+LOC002,Apparel,11,19,17
+LOC002,Apparel,12,23,31
+LOC002,Beauty,0,13,9
+LOC002,Beauty,1,11,15
+LOC002,Beauty,2,17,21
+LOC002,Beauty,3,13,13
+LOC002,Beauty,4,9,11
+LOC002,Beauty,5,11,12
+LOC002,Beauty,6,11,6
+LOC002,Beauty,7,5,5
+LOC002,Beauty,8,8,8
+LOC002,Beauty,9,14,19
+LOC002,Beauty,10,14,18
+LOC002,Beauty,11,12,14
+LOC002,Beauty,12,9,5
+LOC002,Books,0,10,6
+LOC002,Books,1,7,7
+LOC002,Books,2,6,4
+LOC002,Books,3,6,6
+LOC002,Books,4,10,6
+LOC002,Books,5,11,13
+LOC002,Books,6,11,11
+LOC002,Books,7,6,7
+LOC002,Books,8,5,5
+LOC002,Books,9,4,3
+LOC002,Books,10,4,4
+LOC002,Books,11,3,3
+LOC002,Books,12,5,4
+LOC002,Electronics,0,14,11
+LOC002,Electronics,1,9,10
+LOC002,Electronics,2,10,9
+LOC002,Electronics,3,13,8
+LOC002,Electronics,4,9,7
+LOC002,Electronics,5,10,9
+LOC002,Electronics,6,10,9
+LOC002,Electronics,7,14,13
+LOC002,Electronics,8,6,7
+LOC002,Electronics,9,8,7
+LOC002,Electronics,10,12,9
+LOC002,Electronics,11,12,11
+LOC002,Electronics,12,5,4
+LOC002,Footwear,0,12,13
+LOC002,Footwear,1,18,18
+LOC002,Footwear,2,10,13
+LOC002,Footwear,3,14,15
+LOC002,Footwear,4,9,14
+LOC002,Footwear,5,4,5
+LOC002,Footwear,6,12,16
+LOC002,Footwear,7,17,18
+LOC002,Footwear,8,11,13
+LOC002,Footwear,9,17,17
+LOC002,Footwear,10,13,11
+LOC002,Footwear,11,13,16
+LOC002,Footwear,12,11,9
+LOC002,Home & Kitchen,0,19,15
+LOC002,Home & Kitchen,1,9,12
+LOC002,Home & Kitchen,2,12,11
+LOC002,Home & Kitchen,3,16,15
+LOC002,Home & Kitchen,4,13,12
+LOC002,Home & Kitchen,5,17,18
+LOC002,Home & Kitchen,6,14,13
+LOC002,Home & Kitchen,7,15,15
+LOC002,Home & Kitchen,8,17,15
+LOC002,Home & Kitchen,9,18,24
+LOC002,Home & Kitchen,10,12,11
+LOC002,Home & Kitchen,11,9,10
+LOC002,Home & Kitchen,12,15,20
+LOC002,Sports,0,5,4
+LOC002,Sports,1,9,7
+LOC002,Sports,2,9,6
+LOC002,Sports,3,6,6
+LOC002,Sports,4,4,5
+LOC002,Sports,5,5,5
+LOC002,Sports,6,9,9
+LOC002,Sports,7,6,5
+LOC002,Sports,8,6,5
+LOC002,Sports,9,8,5
+LOC002,Sports,10,2,1
+LOC002,Sports,11,7,10
+LOC002,Sports,12,3,1
+LOC002,Toys,0,7,8
+LOC002,Toys,1,11,17
+LOC002,Toys,2,9,9
+LOC002,Toys,3,10,12
+LOC002,Toys,4,5,4
+LOC002,Toys,5,13,12
+LOC002,Toys,6,6,7
+LOC002,Toys,7,8,7
+LOC002,Toys,8,9,11
+LOC002,Toys,9,10,6
+LOC002,Toys,10,11,12
+LOC002,Toys,11,6,7
+LOC002,Toys,12,9,7
+LOC003,Accessories,0,4,5
+LOC003,Accessories,1,5,4
+LOC003,Accessories,2,6,6
+LOC003,Accessories,3,2,2
+LOC003,Accessories,4,5,6
+LOC003,Accessories,5,4,5
+LOC003,Accessories,6,2,2
+LOC003,Accessories,7,1,0
+LOC003,Accessories,8,2,1
+LOC003,Accessories,9,2,1
+LOC003,Accessories,10,4,3
+LOC003,Accessories,11,6,7
+LOC003,Accessories,12,5,5
+LOC003,Apparel,0,11,13
+LOC003,Apparel,1,9,12
+LOC003,Apparel,2,7,7
+LOC003,Apparel,3,12,7
+LOC003,Apparel,4,10,9
+LOC003,Apparel,5,13,11
+LOC003,Apparel,6,13,11
+LOC003,Apparel,7,3,2
+LOC003,Apparel,8,10,6
+LOC003,Apparel,9,10,12
+LOC003,Apparel,10,8,5
+LOC003,Apparel,11,9,11
+LOC003,Apparel,12,6,10
+LOC003,Beauty,0,5,6
+LOC003,Beauty,1,4,5
+LOC003,Beauty,2,5,5
+LOC003,Beauty,3,5,3
+LOC003,Beauty,4,2,2
+LOC003,Beauty,5,3,3
+LOC003,Beauty,6,8,9
+LOC003,Beauty,7,4,5
+LOC003,Beauty,8,4,5
+LOC003,Beauty,9,4,6
+LOC003,Beauty,10,5,4
+LOC003,Beauty,11,3,3
+LOC003,Beauty,12,4,4
+LOC003,Books,0,5,4
+LOC003,Books,1,3,3
+LOC003,Books,2,4,3
+LOC003,Books,3,1,2
+LOC003,Books,4,3,4
+LOC003,Books,5,3,4
+LOC003,Books,6,1,0
+LOC003,Books,7,3,2
+LOC003,Books,8,1,1
+LOC003,Books,9,6,6
+LOC003,Books,10,4,3
+LOC003,Books,11,1,1
+LOC003,Books,12,1,1
+LOC003,Electronics,0,2,1
+LOC003,Electronics,1,5,3
+LOC003,Electronics,2,7,7
+LOC003,Electronics,3,3,1
+LOC003,Electronics,4,2,2
+LOC003,Electronics,5,5,5
+LOC003,Electronics,6,9,10
+LOC003,Electronics,7,8,5
+LOC003,Electronics,8,3,1
+LOC003,Electronics,9,6,6
+LOC003,Electronics,10,4,3
+LOC003,Electronics,11,3,3
+LOC003,Electronics,12,8,8
+LOC003,Footwear,0,5,5
+LOC003,Footwear,1,9,9
+LOC003,Footwear,2,5,6
+LOC003,Footwear,3,13,11
+LOC003,Footwear,4,7,11
+LOC003,Footwear,5,8,7
+LOC003,Footwear,6,8,10
+LOC003,Footwear,7,7,8
+LOC003,Footwear,8,7,7
+LOC003,Footwear,9,4,2
+LOC003,Footwear,10,4,3
+LOC003,Footwear,11,5,5
+LOC003,Footwear,12,3,3
+LOC003,Home & Kitchen,0,5,3
+LOC003,Home & Kitchen,1,8,10
+LOC003,Home & Kitchen,2,6,3
+LOC003,Home & Kitchen,3,5,6
+LOC003,Home & Kitchen,4,2,2
+LOC003,Home & Kitchen,5,2,2
+LOC003,Home & Kitchen,6,2,1
+LOC003,Home & Kitchen,7,5,3
+LOC003,Home & Kitchen,8,9,4
+LOC003,Home & Kitchen,9,5,6
+LOC003,Home & Kitchen,10,6,6
+LOC003,Home & Kitchen,11,7,9
+LOC003,Home & Kitchen,12,7,6
+LOC003,Sports,0,5,4
+LOC003,Sports,1,7,4
+LOC003,Sports,2,6,5
+LOC003,Sports,3,2,2
+LOC003,Sports,4,5,4
+LOC003,Sports,5,2,3
+LOC003,Sports,6,4,3
+LOC003,Sports,7,2,2
+LOC003,Sports,8,4,4
+LOC003,Sports,9,4,6
+LOC003,Sports,10,2,3
+LOC003,Sports,11,2,2
+LOC003,Sports,12,4,5
+LOC003,Toys,0,3,3
+LOC003,Toys,1,4,3
+LOC003,Toys,2,6,5
+LOC003,Toys,3,3,3
+LOC003,Toys,4,1,1
+LOC003,Toys,5,2,2
+LOC003,Toys,6,3,3
+LOC003,Toys,7,2,2
+LOC003,Toys,8,2,3
+LOC003,Toys,9,3,3
+LOC003,Toys,10,3,3
+LOC003,Toys,11,4,5
+LOC003,Toys,12,1,1
+LOC004,Accessories,0,13,14
+LOC004,Accessories,1,11,12
+LOC004,Accessories,2,13,14
+LOC004,Accessories,3,17,17
+LOC004,Accessories,4,6,6
+LOC004,Accessories,5,8,8
+LOC004,Accessories,6,6,3
+LOC004,Accessories,7,12,14
+LOC004,Accessories,8,2,3
+LOC004,Accessories,9,9,7
+LOC004,Accessories,10,7,8
+LOC004,Accessories,11,9,7
+LOC004,Accessories,12,9,9
+LOC004,Apparel,0,17,26
+LOC004,Apparel,1,20,15
+LOC004,Apparel,2,26,28
+LOC004,Apparel,3,12,14
+LOC004,Apparel,4,29,27
+LOC004,Apparel,5,20,27
+LOC004,Apparel,6,28,27
+LOC004,Apparel,7,11,11
+LOC004,Apparel,8,24,19
+LOC004,Apparel,9,31,34
+LOC004,Apparel,10,17,16
+LOC004,Apparel,11,18,20
+LOC004,Apparel,12,22,22
+LOC004,Beauty,0,9,6
+LOC004,Beauty,1,19,14
+LOC004,Beauty,2,8,9
+LOC004,Beauty,3,19,16
+LOC004,Beauty,4,11,9
+LOC004,Beauty,5,10,7
+LOC004,Beauty,6,8,5
+LOC004,Beauty,7,6,8
+LOC004,Beauty,8,14,17
+LOC004,Beauty,9,10,11
+LOC004,Beauty,10,7,7
+LOC004,Beauty,11,9,12
+LOC004,Beauty,12,7,7
+LOC004,Books,0,9,9
+LOC004,Books,1,9,8
+LOC004,Books,2,6,6
+LOC004,Books,3,7,5
+LOC004,Books,4,11,9
+LOC004,Books,5,11,13
+LOC004,Books,6,7,9
+LOC004,Books,7,7,7
+LOC004,Books,8,8,9
+LOC004,Books,9,11,16
+LOC004,Books,10,7,8
+LOC004,Books,11,1,2
+LOC004,Books,12,3,3
+LOC004,Electronics,0,16,15
+LOC004,Electronics,1,10,14
+LOC004,Electronics,2,7,9
+LOC004,Electronics,3,17,23
+LOC004,Electronics,4,15,14
+LOC004,Electronics,5,8,10
+LOC004,Electronics,6,10,14
+LOC004,Electronics,7,8,8
+LOC004,Electronics,8,9,7
+LOC004,Electronics,9,7,6
+LOC004,Electronics,10,13,17
+LOC004,Electronics,11,11,15
+LOC004,Electronics,12,10,8
+LOC004,Footwear,0,16,11
+LOC004,Footwear,1,12,9
+LOC004,Footwear,2,18,25
+LOC004,Footwear,3,18,19
+LOC004,Footwear,4,15,18
+LOC004,Footwear,5,10,15
+LOC004,Footwear,6,16,16
+LOC004,Footwear,7,15,19
+LOC004,Footwear,8,10,15
+LOC004,Footwear,9,15,11
+LOC004,Footwear,10,11,9
+LOC004,Footwear,11,12,11
+LOC004,Footwear,12,6,6
+LOC004,Home & Kitchen,0,15,13
+LOC004,Home & Kitchen,1,17,21
+LOC004,Home & Kitchen,2,20,23
+LOC004,Home & Kitchen,3,11,8
+LOC004,Home & Kitchen,4,13,13
+LOC004,Home & Kitchen,5,13,9
+LOC004,Home & Kitchen,6,11,13
+LOC004,Home & Kitchen,7,17,21
+LOC004,Home & Kitchen,8,17,9
+LOC004,Home & Kitchen,9,16,9
+LOC004,Home & Kitchen,10,15,15
+LOC004,Home & Kitchen,11,12,9
+LOC004,Home & Kitchen,12,10,8
+LOC004,Sports,0,5,4
+LOC004,Sports,1,10,9
+LOC004,Sports,2,4,5
+LOC004,Sports,3,11,9
+LOC004,Sports,4,4,2
+LOC004,Sports,5,9,6
+LOC004,Sports,6,1,1
+LOC004,Sports,7,7,5
+LOC004,Sports,8,7,8
+LOC004,Sports,9,7,7
+LOC004,Sports,10,6,6
+LOC004,Sports,11,4,3
+LOC004,Sports,12,2,3
+LOC004,Toys,0,7,6
+LOC004,Toys,1,7,8
+LOC004,Toys,2,10,6
+LOC004,Toys,3,9,11
+LOC004,Toys,4,11,16
+LOC004,Toys,5,13,15
+LOC004,Toys,6,4,3
+LOC004,Toys,7,6,6
+LOC004,Toys,8,5,5
+LOC004,Toys,9,17,17
+LOC004,Toys,10,10,12
+LOC004,Toys,11,7,6
+LOC004,Toys,12,11,13
+LOC005,Accessories,0,4,4
+LOC005,Accessories,1,1,1
+LOC005,Accessories,2,1,2
+LOC005,Accessories,3,2,2
+LOC005,Accessories,5,3,3
+LOC005,Accessories,6,4,3
+LOC005,Accessories,7,1,1
+LOC005,Accessories,8,5,6
+LOC005,Accessories,9,3,3
+LOC005,Accessories,10,5,5
+LOC005,Accessories,11,7,7
+LOC005,Accessories,12,2,1
+LOC005,Apparel,0,13,19
+LOC005,Apparel,1,6,7
+LOC005,Apparel,2,7,3
+LOC005,Apparel,3,9,10
+LOC005,Apparel,4,5,4
+LOC005,Apparel,5,8,9
+LOC005,Apparel,6,8,7
+LOC005,Apparel,7,8,11
+LOC005,Apparel,8,11,7
+LOC005,Apparel,9,11,13
+LOC005,Apparel,10,1,0
+LOC005,Apparel,11,8,7
+LOC005,Apparel,12,5,7
+LOC005,Beauty,0,7,7
+LOC005,Beauty,1,7,7
+LOC005,Beauty,2,3,1
+LOC005,Beauty,3,3,3
+LOC005,Beauty,4,3,2
+LOC005,Beauty,5,2,2
+LOC005,Beauty,6,3,2
+LOC005,Beauty,7,1,1
+LOC005,Beauty,8,2,2
+LOC005,Beauty,9,4,4
+LOC005,Beauty,10,3,4
+LOC005,Beauty,11,3,3
+LOC005,Beauty,12,7,6
+LOC005,Books,0,1,2
+LOC005,Books,2,2,3
+LOC005,Books,3,3,4
+LOC005,Books,5,1,1
+LOC005,Books,6,2,2
+LOC005,Books,7,3,0
+LOC005,Books,8,1,1
+LOC005,Books,9,3,5
+LOC005,Books,10,2,2
+LOC005,Books,11,4,4
+LOC005,Books,12,1,1
+LOC005,Electronics,0,6,6
+LOC005,Electronics,1,2,2
+LOC005,Electronics,2,1,0
+LOC005,Electronics,3,4,5
+LOC005,Electronics,4,3,3
+LOC005,Electronics,5,4,5
+LOC005,Electronics,6,6,6
+LOC005,Electronics,7,3,4
+LOC005,Electronics,8,5,6
+LOC005,Electronics,9,4,3
+LOC005,Electronics,10,4,4
+LOC005,Electronics,11,2,2
+LOC005,Electronics,12,1,1
+LOC005,Footwear,0,1,1
+LOC005,Footwear,1,4,7
+LOC005,Footwear,2,8,11
+LOC005,Footwear,3,3,4
+LOC005,Footwear,4,1,2
+LOC005,Footwear,5,3,3
+LOC005,Footwear,6,6,5
+LOC005,Footwear,7,6,6
+LOC005,Footwear,8,3,3
+LOC005,Footwear,9,7,8
+LOC005,Footwear,10,4,6
+LOC005,Footwear,11,4,5
+LOC005,Home & Kitchen,0,4,6
+LOC005,Home & Kitchen,1,3,5
+LOC005,Home & Kitchen,2,3,4
+LOC005,Home & Kitchen,3,7,10
+LOC005,Home & Kitchen,4,5,4
+LOC005,Home & Kitchen,5,8,6
+LOC005,Home & Kitchen,6,5,7
+LOC005,Home & Kitchen,7,6,8
+LOC005,Home & Kitchen,8,5,7
+LOC005,Home & Kitchen,9,4,4
+LOC005,Home & Kitchen,10,3,3
+LOC005,Home & Kitchen,11,2,2
+LOC005,Home & Kitchen,12,5,5
+LOC005,Sports,0,7,7
+LOC005,Sports,1,3,3
+LOC005,Sports,2,5,5
+LOC005,Sports,3,2,3
+LOC005,Sports,4,2,2
+LOC005,Sports,5,7,9
+LOC005,Sports,6,1,1
+LOC005,Sports,7,4,3
+LOC005,Sports,8,1,1
+LOC005,Sports,9,3,2
+LOC005,Sports,10,3,5
+LOC005,Sports,11,6,5
+LOC005,Sports,12,3,7
+LOC005,Toys,0,3,3
+LOC005,Toys,1,1,0
+LOC005,Toys,2,2,3
+LOC005,Toys,4,2,1
+LOC005,Toys,5,1,0
+LOC005,Toys,6,6,6
+LOC005,Toys,7,5,6
+LOC005,Toys,8,3,3
+LOC005,Toys,9,2,1
+LOC005,Toys,11,4,5
+LOC005,Toys,12,1,1
+LOC006,Accessories,0,5,5
+LOC006,Accessories,1,12,10
+LOC006,Accessories,2,5,5
+LOC006,Accessories,3,6,5
+LOC006,Accessories,4,5,6
+LOC006,Accessories,5,5,5
+LOC006,Accessories,6,3,3
+LOC006,Accessories,7,7,11
+LOC006,Accessories,8,4,4
+LOC006,Accessories,9,7,7
+LOC006,Accessories,10,8,4
+LOC006,Accessories,11,6,7
+LOC006,Accessories,12,7,7
+LOC006,Apparel,0,13,8
+LOC006,Apparel,1,12,14
+LOC006,Apparel,2,9,6
+LOC006,Apparel,3,18,18
+LOC006,Apparel,4,18,15
+LOC006,Apparel,5,23,33
+LOC006,Apparel,6,15,19
+LOC006,Apparel,7,14,14
+LOC006,Apparel,8,15,9
+LOC006,Apparel,9,21,27
+LOC006,Apparel,10,13,13
+LOC006,Apparel,11,11,8
+LOC006,Apparel,12,11,13
+LOC006,Beauty,0,10,6
+LOC006,Beauty,1,5,5
+LOC006,Beauty,2,8,7
+LOC006,Beauty,3,5,3
+LOC006,Beauty,4,8,7
+LOC006,Beauty,5,7,6
+LOC006,Beauty,6,7,9
+LOC006,Beauty,7,13,16
+LOC006,Beauty,8,4,4
+LOC006,Beauty,9,8,12
+LOC006,Beauty,10,10,11
+LOC006,Beauty,11,9,6
+LOC006,Beauty,12,5,6
+LOC006,Books,0,2,1
+LOC006,Books,1,4,5
+LOC006,Books,2,6,6
+LOC006,Books,3,2,2
+LOC006,Books,4,7,6
+LOC006,Books,5,3,2
+LOC006,Books,6,6,6
+LOC006,Books,7,7,6
+LOC006,Books,8,4,5
+LOC006,Books,9,2,2
+LOC006,Books,10,6,7
+LOC006,Books,11,5,4
+LOC006,Books,12,3,1
+LOC006,Electronics,0,15,12
+LOC006,Electronics,1,10,13
+LOC006,Electronics,2,6,7
+LOC006,Electronics,3,11,12
+LOC006,Electronics,4,3,2
+LOC006,Electronics,5,8,6
+LOC006,Electronics,6,12,13
+LOC006,Electronics,7,8,7
+LOC006,Electronics,8,10,12
+LOC006,Electronics,9,10,11
+LOC006,Electronics,10,7,7
+LOC006,Electronics,11,7,7
+LOC006,Electronics,12,1,1
+LOC006,Footwear,0,10,6
+LOC006,Footwear,1,12,18
+LOC006,Footwear,2,9,11
+LOC006,Footwear,3,11,12
+LOC006,Footwear,4,10,14
+LOC006,Footwear,5,5,8
+LOC006,Footwear,6,6,9
+LOC006,Footwear,7,9,9
+LOC006,Footwear,8,9,8
+LOC006,Footwear,9,6,7
+LOC006,Footwear,10,12,9
+LOC006,Footwear,11,7,8
+LOC006,Footwear,12,7,9
+LOC006,Home & Kitchen,0,10,9
+LOC006,Home & Kitchen,1,17,12
+LOC006,Home & Kitchen,2,10,9
+LOC006,Home & Kitchen,3,15,20
+LOC006,Home & Kitchen,4,12,9
+LOC006,Home & Kitchen,5,12,12
+LOC006,Home & Kitchen,6,7,4
+LOC006,Home & Kitchen,7,10,9
+LOC006,Home & Kitchen,8,5,4
+LOC006,Home & Kitchen,9,6,6
+LOC006,Home & Kitchen,10,9,7
+LOC006,Home & Kitchen,11,9,9
+LOC006,Home & Kitchen,12,9,9
+LOC006,Sports,0,7,7
+LOC006,Sports,1,2,2
+LOC006,Sports,2,3,4
+LOC006,Sports,3,9,8
+LOC006,Sports,4,2,1
+LOC006,Sports,5,4,4
+LOC006,Sports,6,5,3
+LOC006,Sports,7,4,6
+LOC006,Sports,8,3,5
+LOC006,Sports,9,3,4
+LOC006,Sports,10,5,4
+LOC006,Sports,11,6,5
+LOC006,Sports,12,4,3
+LOC006,Toys,0,5,5
+LOC006,Toys,1,5,5
+LOC006,Toys,2,9,8
+LOC006,Toys,3,5,8
+LOC006,Toys,4,14,12
+LOC006,Toys,5,7,5
+LOC006,Toys,6,4,5
+LOC006,Toys,7,9,10
+LOC006,Toys,8,5,7
+LOC006,Toys,9,3,4
+LOC006,Toys,10,4,3
+LOC006,Toys,11,3,5
+LOC006,Toys,12,6,4
+LOC007,Accessories,0,8,6
+LOC007,Accessories,1,2,2
+LOC007,Accessories,2,6,8
+LOC007,Accessories,3,6,5
+LOC007,Accessories,4,3,2
+LOC007,Accessories,5,6,6
+LOC007,Accessories,6,4,5
+LOC007,Accessories,7,5,6
+LOC007,Accessories,8,2,1
+LOC007,Accessories,9,3,4
+LOC007,Accessories,10,5,6
+LOC007,Accessories,11,3,3
+LOC007,Accessories,12,6,5
+LOC007,Apparel,0,15,15
+LOC007,Apparel,1,17,25
+LOC007,Apparel,2,12,10
+LOC007,Apparel,3,14,3
+LOC007,Apparel,4,17,14
+LOC007,Apparel,5,13,10
+LOC007,Apparel,6,12,10
+LOC007,Apparel,7,9,5
+LOC007,Apparel,8,17,21
+LOC007,Apparel,9,17,21
+LOC007,Apparel,10,16,14
+LOC007,Apparel,11,10,10
+LOC007,Apparel,12,13,11
+LOC007,Beauty,0,5,5
+LOC007,Beauty,1,8,7
+LOC007,Beauty,2,12,12
+LOC007,Beauty,3,8,7
+LOC007,Beauty,4,7,9
+LOC007,Beauty,5,13,14
+LOC007,Beauty,6,10,9
+LOC007,Beauty,7,6,6
+LOC007,Beauty,8,10,12
+LOC007,Beauty,9,7,7
+LOC007,Beauty,10,6,5
+LOC007,Beauty,11,4,5
+LOC007,Beauty,12,4,5
+LOC007,Books,0,5,3
+LOC007,Books,1,4,5
+LOC007,Books,2,2,3
+LOC007,Books,3,3,3
+LOC007,Books,4,6,4
+LOC007,Books,5,6,3
+LOC007,Books,6,6,6
+LOC007,Books,7,2,2
+LOC007,Books,8,4,3
+LOC007,Books,9,1,1
+LOC007,Books,10,3,3
+LOC007,Books,11,2,3
+LOC007,Books,12,4,2
+LOC007,Electronics,0,4,4
+LOC007,Electronics,1,11,15
+LOC007,Electronics,2,6,7
+LOC007,Electronics,3,10,9
+LOC007,Electronics,4,6,3
+LOC007,Electronics,5,7,8
+LOC007,Electronics,6,5,6
+LOC007,Electronics,7,8,7
+LOC007,Electronics,8,7,10
+LOC007,Electronics,9,10,10
+LOC007,Electronics,10,4,5
+LOC007,Electronics,11,6,6
+LOC007,Electronics,12,1,1
+LOC007,Footwear,0,10,4
+LOC007,Footwear,1,9,6
+LOC007,Footwear,2,9,10
+LOC007,Footwear,3,12,12
+LOC007,Footwear,4,8,7
+LOC007,Footwear,5,14,14
+LOC007,Footwear,6,14,16
+LOC007,Footwear,7,7,7
+LOC007,Footwear,8,8,5
+LOC007,Footwear,9,11,9
+LOC007,Footwear,10,4,5
+LOC007,Footwear,11,7,6
+LOC007,Footwear,12,9,9
+LOC007,Home & Kitchen,0,11,14
+LOC007,Home & Kitchen,1,10,8
+LOC007,Home & Kitchen,2,11,12
+LOC007,Home & Kitchen,3,12,10
+LOC007,Home & Kitchen,4,12,10
+LOC007,Home & Kitchen,5,13,13
+LOC007,Home & Kitchen,6,5,4
+LOC007,Home & Kitchen,7,6,9
+LOC007,Home & Kitchen,8,8,6
+LOC007,Home & Kitchen,9,8,6
+LOC007,Home & Kitchen,10,2,2
+LOC007,Home & Kitchen,11,7,9
+LOC007,Home & Kitchen,12,6,6
+LOC007,Sports,0,5,6
+LOC007,Sports,1,4,6
+LOC007,Sports,2,3,3
+LOC007,Sports,3,7,7
+LOC007,Sports,4,1,0
+LOC007,Sports,5,6,8
+LOC007,Sports,6,5,7
+LOC007,Sports,7,5,3
+LOC007,Sports,8,5,6
+LOC007,Sports,9,8,8
+LOC007,Sports,10,3,5
+LOC007,Sports,11,5,3
+LOC007,Sports,12,5,6
+LOC007,Toys,0,8,11
+LOC007,Toys,1,6,8
+LOC007,Toys,2,4,3
+LOC007,Toys,3,11,13
+LOC007,Toys,4,7,7
+LOC007,Toys,5,7,5
+LOC007,Toys,6,6,7
+LOC007,Toys,7,8,9
+LOC007,Toys,8,3,3
+LOC007,Toys,9,5,6
+LOC007,Toys,10,5,3
+LOC007,Toys,11,4,5
+LOC007,Toys,12,3,1
+LOC008,Accessories,0,9,10
+LOC008,Accessories,1,4,6
+LOC008,Accessories,2,5,6
+LOC008,Accessories,3,5,4
+LOC008,Accessories,4,4,6
+LOC008,Accessories,5,7,9
+LOC008,Accessories,6,4,5
+LOC008,Accessories,7,7,9
+LOC008,Accessories,8,3,3
+LOC008,Accessories,9,10,7
+LOC008,Accessories,10,9,6
+LOC008,Accessories,11,4,4
+LOC008,Accessories,12,3,2
+LOC008,Apparel,0,13,12
+LOC008,Apparel,1,10,10
+LOC008,Apparel,2,9,8
+LOC008,Apparel,3,8,8
+LOC008,Apparel,4,12,19
+LOC008,Apparel,5,9,13
+LOC008,Apparel,6,10,8
+LOC008,Apparel,7,15,12
+LOC008,Apparel,8,12,12
+LOC008,Apparel,9,13,13
+LOC008,Apparel,10,6,3
+LOC008,Apparel,11,21,33
+LOC008,Apparel,12,4,4
+LOC008,Beauty,0,6,6
+LOC008,Beauty,1,4,5
+LOC008,Beauty,2,7,6
+LOC008,Beauty,3,3,4
+LOC008,Beauty,4,6,6
+LOC008,Beauty,5,6,6
+LOC008,Beauty,6,10,12
+LOC008,Beauty,7,5,6
+LOC008,Beauty,8,6,6
+LOC008,Beauty,9,4,3
+LOC008,Beauty,10,7,7
+LOC008,Beauty,11,6,9
+LOC008,Beauty,12,2,1
+LOC008,Books,0,3,3
+LOC008,Books,1,3,4
+LOC008,Books,2,4,6
+LOC008,Books,4,4,3
+LOC008,Books,5,6,6
+LOC008,Books,6,1,1
+LOC008,Books,7,3,3
+LOC008,Books,8,4,6
+LOC008,Books,9,3,3
+LOC008,Books,10,5,7
+LOC008,Books,11,5,6
+LOC008,Books,12,4,4
+LOC008,Electronics,0,6,11
+LOC008,Electronics,1,3,2
+LOC008,Electronics,2,9,8
+LOC008,Electronics,3,5,2
+LOC008,Electronics,4,4,3
+LOC008,Electronics,6,2,3
+LOC008,Electronics,7,5,5
+LOC008,Electronics,8,4,4
+LOC008,Electronics,9,3,2
+LOC008,Electronics,10,5,4
+LOC008,Electronics,11,9,8
+LOC008,Electronics,12,8,7
+LOC008,Footwear,0,3,2
+LOC008,Footwear,1,6,8
+LOC008,Footwear,2,9,6
+LOC008,Footwear,3,4,4
+LOC008,Footwear,4,4,3
+LOC008,Footwear,5,6,4
+LOC008,Footwear,6,7,6
+LOC008,Footwear,7,5,4
+LOC008,Footwear,8,4,5
+LOC008,Footwear,9,7,6
+LOC008,Footwear,10,6,7
+LOC008,Footwear,11,7,8
+LOC008,Footwear,12,3,3
+LOC008,Home & Kitchen,0,5,6
+LOC008,Home & Kitchen,1,9,10
+LOC008,Home & Kitchen,2,6,7
+LOC008,Home & Kitchen,3,7,6
+LOC008,Home & Kitchen,4,12,12
+LOC008,Home & Kitchen,5,9,9
+LOC008,Home & Kitchen,6,3,2
+LOC008,Home & Kitchen,7,12,8
+LOC008,Home & Kitchen,8,6,8
+LOC008,Home & Kitchen,9,4,5
+LOC008,Home & Kitchen,10,9,9
+LOC008,Home & Kitchen,11,6,8
+LOC008,Home & Kitchen,12,11,14
+LOC008,Sports,0,4,4
+LOC008,Sports,1,3,4
+LOC008,Sports,2,2,1
+LOC008,Sports,3,2,0
+LOC008,Sports,4,4,3
+LOC008,Sports,5,3,3
+LOC008,Sports,6,8,5
+LOC008,Sports,7,4,5
+LOC008,Sports,8,5,6
+LOC008,Sports,9,1,2
+LOC008,Sports,10,6,7
+LOC008,Sports,11,4,4
+LOC008,Sports,12,1,0
+LOC008,Toys,0,4,5
+LOC008,Toys,1,2,3
+LOC008,Toys,2,4,6
+LOC008,Toys,3,2,2
+LOC008,Toys,5,7,8
+LOC008,Toys,6,7,6
+LOC008,Toys,7,3,2
+LOC008,Toys,8,9,5
+LOC008,Toys,9,2,3
+LOC008,Toys,10,5,4
+LOC008,Toys,11,3,3
+LOC008,Toys,12,5,5
+LOC009,Accessories,0,2,2
+LOC009,Accessories,1,3,3
+LOC009,Accessories,2,5,3
+LOC009,Accessories,3,2,3
+LOC009,Accessories,4,2,2
+LOC009,Accessories,5,4,5
+LOC009,Accessories,6,3,4
+LOC009,Accessories,7,1,2
+LOC009,Accessories,8,3,3
+LOC009,Accessories,9,5,8
+LOC009,Accessories,10,2,1
+LOC009,Accessories,11,2,1
+LOC009,Accessories,12,3,3
+LOC009,Apparel,0,6,8
+LOC009,Apparel,1,8,9
+LOC009,Apparel,2,7,8
+LOC009,Apparel,3,2,3
+LOC009,Apparel,4,4,5
+LOC009,Apparel,5,8,7
+LOC009,Apparel,6,7,8
+LOC009,Apparel,7,6,8
+LOC009,Apparel,8,8,4
+LOC009,Apparel,9,6,2
+LOC009,Apparel,10,5,5
+LOC009,Apparel,11,6,6
+LOC009,Apparel,12,6,5
+LOC009,Beauty,0,2,1
+LOC009,Beauty,1,3,4
+LOC009,Beauty,2,3,2
+LOC009,Beauty,3,3,3
+LOC009,Beauty,4,1,2
+LOC009,Beauty,5,5,6
+LOC009,Beauty,6,4,4
+LOC009,Beauty,7,1,1
+LOC009,Beauty,8,1,1
+LOC009,Beauty,9,5,2
+LOC009,Beauty,11,1,1
+LOC009,Beauty,12,2,2
+LOC009,Books,1,1,0
+LOC009,Books,2,2,1
+LOC009,Books,3,6,6
+LOC009,Books,4,2,3
+LOC009,Books,5,1,1
+LOC009,Books,7,2,2
+LOC009,Books,8,5,5
+LOC009,Books,9,2,0
+LOC009,Books,10,1,1
+LOC009,Books,11,3,3
+LOC009,Electronics,0,4,3
+LOC009,Electronics,1,2,2
+LOC009,Electronics,2,2,1
+LOC009,Electronics,3,1,2
+LOC009,Electronics,4,3,5
+LOC009,Electronics,5,3,2
+LOC009,Electronics,6,3,2
+LOC009,Electronics,7,6,8
+LOC009,Electronics,8,2,2
+LOC009,Electronics,9,3,3
+LOC009,Electronics,10,4,4
+LOC009,Electronics,11,3,1
+LOC009,Electronics,12,4,5
+LOC009,Footwear,0,6,6
+LOC009,Footwear,1,3,2
+LOC009,Footwear,3,3,2
+LOC009,Footwear,4,2,1
+LOC009,Footwear,5,5,4
+LOC009,Footwear,6,5,7
+LOC009,Footwear,7,3,3
+LOC009,Footwear,8,4,4
+LOC009,Footwear,10,3,2
+LOC009,Footwear,11,2,3
+LOC009,Footwear,12,8,7
+LOC009,Home & Kitchen,0,2,2
+LOC009,Home & Kitchen,1,2,0
+LOC009,Home & Kitchen,2,3,4
+LOC009,Home & Kitchen,3,4,3
+LOC009,Home & Kitchen,4,3,3
+LOC009,Home & Kitchen,5,7,8
+LOC009,Home & Kitchen,6,6,5
+LOC009,Home & Kitchen,7,4,4
+LOC009,Home & Kitchen,8,5,5
+LOC009,Home & Kitchen,9,2,3
+LOC009,Home & Kitchen,10,5,5
+LOC009,Home & Kitchen,11,2,4
+LOC009,Home & Kitchen,12,8,9
+LOC009,Sports,0,4,5
+LOC009,Sports,3,3,4
+LOC009,Sports,4,2,3
+LOC009,Sports,7,2,2
+LOC009,Sports,8,2,1
+LOC009,Sports,9,1,2
+LOC009,Sports,10,2,2
+LOC009,Sports,11,6,5
+LOC009,Sports,12,2,3
+LOC009,Toys,1,1,1
+LOC009,Toys,2,1,1
+LOC009,Toys,3,2,2
+LOC009,Toys,4,1,3
+LOC009,Toys,5,3,4
+LOC009,Toys,6,4,5
+LOC009,Toys,7,4,3
+LOC009,Toys,8,3,3
+LOC009,Toys,9,5,5
+LOC009,Toys,10,2,1
+LOC009,Toys,12,4,5
+LOC010,Accessories,0,5,5
+LOC010,Accessories,1,12,14
+LOC010,Accessories,2,7,8
+LOC010,Accessories,3,8,7
+LOC010,Accessories,4,5,8
+LOC010,Accessories,5,6,8
+LOC010,Accessories,6,8,11
+LOC010,Accessories,7,3,3
+LOC010,Accessories,8,3,3
+LOC010,Accessories,9,6,7
+LOC010,Accessories,10,6,5
+LOC010,Accessories,11,6,4
+LOC010,Accessories,12,3,1
+LOC010,Apparel,0,21,18
+LOC010,Apparel,1,18,14
+LOC010,Apparel,2,17,22
+LOC010,Apparel,3,16,13
+LOC010,Apparel,4,16,19
+LOC010,Apparel,5,22,30
+LOC010,Apparel,6,30,21
+LOC010,Apparel,7,26,36
+LOC010,Apparel,8,18,21
+LOC010,Apparel,9,23,33
+LOC010,Apparel,10,20,30
+LOC010,Apparel,11,19,19
+LOC010,Apparel,12,12,9
+LOC010,Beauty,0,16,20
+LOC010,Beauty,1,13,10
+LOC010,Beauty,2,6,3
+LOC010,Beauty,3,7,9
+LOC010,Beauty,4,10,12
+LOC010,Beauty,5,9,7
+LOC010,Beauty,6,7,10
+LOC010,Beauty,7,11,10
+LOC010,Beauty,8,10,10
+LOC010,Beauty,9,9,7
+LOC010,Beauty,10,14,17
+LOC010,Beauty,11,9,11
+LOC010,Beauty,12,8,5
+LOC010,Books,0,4,4
+LOC010,Books,1,8,4
+LOC010,Books,2,6,5
+LOC010,Books,3,7,8
+LOC010,Books,4,9,8
+LOC010,Books,5,5,3
+LOC010,Books,6,5,4
+LOC010,Books,7,5,6
+LOC010,Books,8,7,6
+LOC010,Books,9,7,10
+LOC010,Books,10,6,5
+LOC010,Books,11,7,9
+LOC010,Books,12,5,4
+LOC010,Electronics,0,10,9
+LOC010,Electronics,1,6,8
+LOC010,Electronics,2,13,12
+LOC010,Electronics,3,8,7
+LOC010,Electronics,4,10,9
+LOC010,Electronics,5,4,6
+LOC010,Electronics,6,9,9
+LOC010,Electronics,7,8,8
+LOC010,Electronics,8,4,3
+LOC010,Electronics,9,11,11
+LOC010,Electronics,10,10,11
+LOC010,Electronics,11,13,14
+LOC010,Electronics,12,6,7
+LOC010,Footwear,0,9,11
+LOC010,Footwear,1,15,20
+LOC010,Footwear,2,14,19
+LOC010,Footwear,3,14,12
+LOC010,Footwear,4,10,15
+LOC010,Footwear,5,12,11
+LOC010,Footwear,6,20,15
+LOC010,Footwear,7,13,14
+LOC010,Footwear,8,16,18
+LOC010,Footwear,9,11,13
+LOC010,Footwear,10,10,10
+LOC010,Footwear,11,10,9
+LOC010,Footwear,12,7,6
+LOC010,Home & Kitchen,0,16,16
+LOC010,Home & Kitchen,1,12,12
+LOC010,Home & Kitchen,2,13,16
+LOC010,Home & Kitchen,3,7,8
+LOC010,Home & Kitchen,4,18,18
+LOC010,Home & Kitchen,5,12,14
+LOC010,Home & Kitchen,6,13,11
+LOC010,Home & Kitchen,7,15,19
+LOC010,Home & Kitchen,8,15,14
+LOC010,Home & Kitchen,9,21,21
+LOC010,Home & Kitchen,10,13,12
+LOC010,Home & Kitchen,11,8,7
+LOC010,Home & Kitchen,12,4,3
+LOC010,Sports,0,4,3
+LOC010,Sports,1,4,4
+LOC010,Sports,2,2,3
+LOC010,Sports,3,4,5
+LOC010,Sports,4,6,7
+LOC010,Sports,5,8,9
+LOC010,Sports,6,5,5
+LOC010,Sports,7,5,5
+LOC010,Sports,8,5,5
+LOC010,Sports,9,5,6
+LOC010,Sports,10,5,3
+LOC010,Sports,11,8,6
+LOC010,Toys,0,4,4
+LOC010,Toys,1,10,8
+LOC010,Toys,2,13,10
+LOC010,Toys,3,6,4
+LOC010,Toys,4,12,16
+LOC010,Toys,5,9,12
+LOC010,Toys,6,5,6
+LOC010,Toys,7,9,12
+LOC010,Toys,8,5,7
+LOC010,Toys,9,5,7
+LOC010,Toys,10,8,8
+LOC010,Toys,11,9,11
+LOC010,Toys,12,4,6
+LOC011,Accessories,1,8,5
+LOC011,Accessories,2,4,3
+LOC011,Accessories,3,9,11
+LOC011,Accessories,4,7,6
+LOC011,Accessories,5,5,5
+LOC011,Accessories,6,5,5
+LOC011,Accessories,7,5,4
+LOC011,Accessories,8,5,6
+LOC011,Accessories,9,7,8
+LOC011,Accessories,10,4,5
+LOC011,Accessories,11,3,1
+LOC011,Accessories,12,7,7
+LOC011,Apparel,0,9,9
+LOC011,Apparel,1,7,7
+LOC011,Apparel,2,8,6
+LOC011,Apparel,3,15,16
+LOC011,Apparel,4,14,14
+LOC011,Apparel,5,9,11
+LOC011,Apparel,6,17,18
+LOC011,Apparel,7,6,8
+LOC011,Apparel,8,11,14
+LOC011,Apparel,9,17,15
+LOC011,Apparel,10,11,10
+LOC011,Apparel,11,13,11
+LOC011,Apparel,12,8,9
+LOC011,Beauty,0,3,3
+LOC011,Beauty,1,5,6
+LOC011,Beauty,2,1,1
+LOC011,Beauty,3,8,7
+LOC011,Beauty,4,4,5
+LOC011,Beauty,5,4,4
+LOC011,Beauty,6,7,8
+LOC011,Beauty,7,6,5
+LOC011,Beauty,8,9,8
+LOC011,Beauty,9,5,6
+LOC011,Beauty,10,7,7
+LOC011,Beauty,11,4,3
+LOC011,Beauty,12,4,3
+LOC011,Books,0,6,5
+LOC011,Books,1,8,6
+LOC011,Books,2,2,1
+LOC011,Books,3,4,4
+LOC011,Books,4,4,3
+LOC011,Books,5,3,2
+LOC011,Books,6,6,4
+LOC011,Books,8,6,4
+LOC011,Books,9,3,3
+LOC011,Books,10,4,3
+LOC011,Books,11,1,1
+LOC011,Books,12,3,5
+LOC011,Electronics,0,4,5
+LOC011,Electronics,1,8,9
+LOC011,Electronics,2,5,6
+LOC011,Electronics,3,9,8
+LOC011,Electronics,4,8,7
+LOC011,Electronics,5,6,7
+LOC011,Electronics,6,5,4
+LOC011,Electronics,7,10,14
+LOC011,Electronics,8,5,5
+LOC011,Electronics,9,5,8
+LOC011,Electronics,10,8,5
+LOC011,Electronics,11,6,7
+LOC011,Electronics,12,4,3
+LOC011,Footwear,0,9,10
+LOC011,Footwear,1,12,11
+LOC011,Footwear,2,5,5
+LOC011,Footwear,3,5,3
+LOC011,Footwear,4,8,10
+LOC011,Footwear,5,4,3
+LOC011,Footwear,6,5,6
+LOC011,Footwear,7,11,13
+LOC011,Footwear,8,7,8
+LOC011,Footwear,9,5,6
+LOC011,Footwear,10,8,8
+LOC011,Footwear,11,6,8
+LOC011,Footwear,12,5,6
+LOC011,Home & Kitchen,0,5,7
+LOC011,Home & Kitchen,1,7,6
+LOC011,Home & Kitchen,2,3,3
+LOC011,Home & Kitchen,3,5,4
+LOC011,Home & Kitchen,4,8,7
+LOC011,Home & Kitchen,5,6,8
+LOC011,Home & Kitchen,6,7,7
+LOC011,Home & Kitchen,7,11,13
+LOC011,Home & Kitchen,8,5,8
+LOC011,Home & Kitchen,9,9,7
+LOC011,Home & Kitchen,10,6,4
+LOC011,Home & Kitchen,11,7,9
+LOC011,Home & Kitchen,12,5,5
+LOC011,Sports,0,3,3
+LOC011,Sports,1,4,4
+LOC011,Sports,2,7,8
+LOC011,Sports,3,3,3
+LOC011,Sports,4,6,5
+LOC011,Sports,5,3,4
+LOC011,Sports,6,1,2
+LOC011,Sports,7,4,5
+LOC011,Sports,8,6,5
+LOC011,Sports,9,2,3
+LOC011,Sports,10,3,3
+LOC011,Sports,11,4,4
+LOC011,Sports,12,4,4
+LOC011,Toys,0,2,2
+LOC011,Toys,1,5,3
+LOC011,Toys,2,5,6
+LOC011,Toys,3,3,5
+LOC011,Toys,4,2,1
+LOC011,Toys,5,9,9
+LOC011,Toys,6,3,3
+LOC011,Toys,7,5,6
+LOC011,Toys,8,2,3
+LOC011,Toys,9,1,0
+LOC011,Toys,10,9,6
+LOC011,Toys,11,8,7
+LOC011,Toys,12,5,5
+LOC012,Accessories,0,14,17
+LOC012,Accessories,1,4,5
+LOC012,Accessories,2,8,8
+LOC012,Accessories,3,5,6
+LOC012,Accessories,4,5,3
+LOC012,Accessories,5,9,7
+LOC012,Accessories,6,9,8
+LOC012,Accessories,7,6,4
+LOC012,Accessories,8,7,9
+LOC012,Accessories,9,6,4
+LOC012,Accessories,10,9,10
+LOC012,Accessories,11,10,14
+LOC012,Accessories,12,6,7
+LOC012,Apparel,0,12,8
+LOC012,Apparel,1,14,12
+LOC012,Apparel,2,20,18
+LOC012,Apparel,3,18,14
+LOC012,Apparel,4,18,22
+LOC012,Apparel,5,17,22
+LOC012,Apparel,6,23,21
+LOC012,Apparel,7,14,14
+LOC012,Apparel,8,12,12
+LOC012,Apparel,9,26,23
+LOC012,Apparel,10,13,6
+LOC012,Apparel,11,16,13
+LOC012,Apparel,12,9,9
+LOC012,Beauty,0,5,5
+LOC012,Beauty,1,5,7
+LOC012,Beauty,2,7,7
+LOC012,Beauty,3,6,5
+LOC012,Beauty,4,11,15
+LOC012,Beauty,5,10,12
+LOC012,Beauty,6,10,10
+LOC012,Beauty,7,11,13
+LOC012,Beauty,8,10,7
+LOC012,Beauty,9,10,7
+LOC012,Beauty,10,7,7
+LOC012,Beauty,11,7,10
+LOC012,Beauty,12,8,10
+LOC012,Books,0,12,14
+LOC012,Books,1,3,4
+LOC012,Books,2,5,4
+LOC012,Books,3,7,6
+LOC012,Books,4,4,4
+LOC012,Books,5,4,4
+LOC012,Books,6,7,7
+LOC012,Books,7,8,8
+LOC012,Books,8,10,3
+LOC012,Books,9,6,8
+LOC012,Books,10,7,8
+LOC012,Books,11,4,4
+LOC012,Books,12,5,5
+LOC012,Electronics,0,9,9
+LOC012,Electronics,1,1,1
+LOC012,Electronics,2,10,13
+LOC012,Electronics,3,10,14
+LOC012,Electronics,4,8,10
+LOC012,Electronics,5,11,16
+LOC012,Electronics,6,9,10
+LOC012,Electronics,7,9,6
+LOC012,Electronics,8,15,15
+LOC012,Electronics,9,3,4
+LOC012,Electronics,10,8,7
+LOC012,Electronics,11,8,7
+LOC012,Electronics,12,8,10
+LOC012,Footwear,0,10,10
+LOC012,Footwear,1,15,14
+LOC012,Footwear,2,16,15
+LOC012,Footwear,3,9,10
+LOC012,Footwear,4,14,12
+LOC012,Footwear,5,7,6
+LOC012,Footwear,6,17,12
+LOC012,Footwear,7,8,10
+LOC012,Footwear,8,8,9
+LOC012,Footwear,9,16,20
+LOC012,Footwear,10,8,9
+LOC012,Footwear,11,7,8
+LOC012,Footwear,12,6,7
+LOC012,Home & Kitchen,0,15,17
+LOC012,Home & Kitchen,1,7,9
+LOC012,Home & Kitchen,2,11,13
+LOC012,Home & Kitchen,3,11,8
+LOC012,Home & Kitchen,4,8,11
+LOC012,Home & Kitchen,5,13,11
+LOC012,Home & Kitchen,6,9,7
+LOC012,Home & Kitchen,7,8,9
+LOC012,Home & Kitchen,8,15,17
+LOC012,Home & Kitchen,9,7,9
+LOC012,Home & Kitchen,10,16,18
+LOC012,Home & Kitchen,11,7,6
+LOC012,Home & Kitchen,12,14,11
+LOC012,Sports,0,6,7
+LOC012,Sports,1,8,9
+LOC012,Sports,2,8,8
+LOC012,Sports,3,10,12
+LOC012,Sports,4,4,4
+LOC012,Sports,5,6,6
+LOC012,Sports,6,5,5
+LOC012,Sports,7,4,3
+LOC012,Sports,8,2,2
+LOC012,Sports,9,5,6
+LOC012,Sports,10,4,4
+LOC012,Sports,11,3,3
+LOC012,Sports,12,9,8
+LOC012,Toys,0,10,9
+LOC012,Toys,1,5,3
+LOC012,Toys,2,6,6
+LOC012,Toys,3,6,7
+LOC012,Toys,4,6,6
+LOC012,Toys,5,8,9
+LOC012,Toys,6,6,7
+LOC012,Toys,7,9,11
+LOC012,Toys,8,6,2
+LOC012,Toys,9,6,8
+LOC012,Toys,10,14,18
+LOC012,Toys,11,3,3
+LOC012,Toys,12,5,4
+LOC013,Accessories,0,5,7
+LOC013,Accessories,1,4,6
+LOC013,Accessories,2,6,4
+LOC013,Accessories,3,4,3
+LOC013,Accessories,4,9,8
+LOC013,Accessories,5,5,6
+LOC013,Accessories,6,6,6
+LOC013,Accessories,7,11,12
+LOC013,Accessories,8,1,2
+LOC013,Accessories,9,6,7
+LOC013,Accessories,10,6,7
+LOC013,Accessories,11,7,8
+LOC013,Accessories,12,4,5
+LOC013,Apparel,0,6,5
+LOC013,Apparel,1,11,10
+LOC013,Apparel,2,16,17
+LOC013,Apparel,3,19,21
+LOC013,Apparel,4,12,11
+LOC013,Apparel,5,14,12
+LOC013,Apparel,6,11,8
+LOC013,Apparel,7,16,9
+LOC013,Apparel,8,20,21
+LOC013,Apparel,9,17,19
+LOC013,Apparel,10,17,10
+LOC013,Apparel,11,18,21
+LOC013,Apparel,12,17,13
+LOC013,Beauty,0,2,3
+LOC013,Beauty,1,5,4
+LOC013,Beauty,2,7,6
+LOC013,Beauty,3,4,5
+LOC013,Beauty,4,5,4
+LOC013,Beauty,5,6,5
+LOC013,Beauty,6,8,7
+LOC013,Beauty,7,9,16
+LOC013,Beauty,8,6,8
+LOC013,Beauty,9,8,6
+LOC013,Beauty,10,7,8
+LOC013,Beauty,11,4,3
+LOC013,Beauty,12,4,5
+LOC013,Books,0,7,5
+LOC013,Books,1,5,4
+LOC013,Books,2,1,2
+LOC013,Books,3,7,6
+LOC013,Books,4,4,4
+LOC013,Books,5,4,5
+LOC013,Books,6,2,1
+LOC013,Books,7,3,4
+LOC013,Books,8,2,3
+LOC013,Books,9,2,1
+LOC013,Books,10,3,3
+LOC013,Books,11,2,2
+LOC013,Books,12,2,2
+LOC013,Electronics,0,9,11
+LOC013,Electronics,1,3,3
+LOC013,Electronics,2,6,6
+LOC013,Electronics,3,6,6
+LOC013,Electronics,4,4,5
+LOC013,Electronics,5,8,9
+LOC013,Electronics,6,5,3
+LOC013,Electronics,7,7,9
+LOC013,Electronics,8,12,10
+LOC013,Electronics,9,7,7
+LOC013,Electronics,10,7,5
+LOC013,Electronics,11,6,6
+LOC013,Electronics,12,6,7
+LOC013,Footwear,0,9,8
+LOC013,Footwear,1,7,6
+LOC013,Footwear,2,5,6
+LOC013,Footwear,3,8,5
+LOC013,Footwear,4,8,7
+LOC013,Footwear,5,6,5
+LOC013,Footwear,6,3,2
+LOC013,Footwear,7,7,9
+LOC013,Footwear,8,10,7
+LOC013,Footwear,9,11,13
+LOC013,Footwear,10,10,8
+LOC013,Footwear,11,5,5
+LOC013,Footwear,12,6,9
+LOC013,Home & Kitchen,0,7,6
+LOC013,Home & Kitchen,1,6,5
+LOC013,Home & Kitchen,2,4,4
+LOC013,Home & Kitchen,3,9,11
+LOC013,Home & Kitchen,4,10,14
+LOC013,Home & Kitchen,5,9,7
+LOC013,Home & Kitchen,6,13,12
+LOC013,Home & Kitchen,7,5,3
+LOC013,Home & Kitchen,8,11,11
+LOC013,Home & Kitchen,9,7,8
+LOC013,Home & Kitchen,10,7,5
+LOC013,Home & Kitchen,11,8,10
+LOC013,Home & Kitchen,12,10,8
+LOC013,Sports,0,7,4
+LOC013,Sports,2,2,0
+LOC013,Sports,3,1,2
+LOC013,Sports,4,2,2
+LOC013,Sports,5,4,3
+LOC013,Sports,6,6,4
+LOC013,Sports,7,4,4
+LOC013,Sports,8,5,6
+LOC013,Sports,9,6,5
+LOC013,Sports,10,3,3
+LOC013,Sports,11,4,5
+LOC013,Sports,12,2,3
+LOC013,Toys,0,6,7
+LOC013,Toys,1,9,11
+LOC013,Toys,2,6,7
+LOC013,Toys,3,4,4
+LOC013,Toys,4,6,9
+LOC013,Toys,5,3,2
+LOC013,Toys,6,5,3
+LOC013,Toys,7,4,5
+LOC013,Toys,8,4,3
+LOC013,Toys,9,6,7
+LOC013,Toys,10,5,3
+LOC013,Toys,11,4,2
+LOC013,Toys,12,4,2
+LOC014,Accessories,0,4,5
+LOC014,Accessories,1,5,8
+LOC014,Accessories,2,2,1
+LOC014,Accessories,3,2,1
+LOC014,Accessories,4,5,5
+LOC014,Accessories,5,5,5
+LOC014,Accessories,6,5,6
+LOC014,Accessories,7,7,10
+LOC014,Accessories,8,4,6
+LOC014,Accessories,9,5,4
+LOC014,Accessories,10,2,3
+LOC014,Accessories,11,2,1
+LOC014,Accessories,12,1,0
+LOC014,Apparel,0,8,8
+LOC014,Apparel,1,10,15
+LOC014,Apparel,2,5,5
+LOC014,Apparel,3,11,9
+LOC014,Apparel,4,17,19
+LOC014,Apparel,5,10,9
+LOC014,Apparel,6,14,12
+LOC014,Apparel,7,9,13
+LOC014,Apparel,8,11,10
+LOC014,Apparel,9,9,5
+LOC014,Apparel,10,17,18
+LOC014,Apparel,11,9,7
+LOC014,Apparel,12,13,13
+LOC014,Beauty,0,4,3
+LOC014,Beauty,1,4,5
+LOC014,Beauty,2,7,7
+LOC014,Beauty,3,5,5
+LOC014,Beauty,4,2,2
+LOC014,Beauty,5,6,8
+LOC014,Beauty,6,4,6
+LOC014,Beauty,7,6,6
+LOC014,Beauty,8,11,12
+LOC014,Beauty,9,3,4
+LOC014,Beauty,10,3,4
+LOC014,Beauty,11,3,2
+LOC014,Beauty,12,10,4
+LOC014,Books,0,6,7
+LOC014,Books,1,2,3
+LOC014,Books,2,5,6
+LOC014,Books,3,3,5
+LOC014,Books,4,3,3
+LOC014,Books,5,5,3
+LOC014,Books,6,6,6
+LOC014,Books,7,2,2
+LOC014,Books,8,8,8
+LOC014,Books,9,3,3
+LOC014,Books,10,3,3
+LOC014,Books,11,3,2
+LOC014,Books,12,4,4
+LOC014,Electronics,0,6,8
+LOC014,Electronics,1,7,4
+LOC014,Electronics,2,9,6
+LOC014,Electronics,3,5,5
+LOC014,Electronics,4,7,7
+LOC014,Electronics,5,6,9
+LOC014,Electronics,6,9,10
+LOC014,Electronics,7,8,8
+LOC014,Electronics,8,4,5
+LOC014,Electronics,9,9,10
+LOC014,Electronics,10,13,9
+LOC014,Electronics,11,8,7
+LOC014,Electronics,12,1,1
+LOC014,Footwear,0,12,10
+LOC014,Footwear,1,10,10
+LOC014,Footwear,2,10,10
+LOC014,Footwear,3,11,7
+LOC014,Footwear,4,4,5
+LOC014,Footwear,5,7,6
+LOC014,Footwear,6,14,14
+LOC014,Footwear,7,7,6
+LOC014,Footwear,8,9,6
+LOC014,Footwear,9,10,11
+LOC014,Footwear,10,3,3
+LOC014,Footwear,11,6,6
+LOC014,Footwear,12,4,5
+LOC014,Home & Kitchen,0,8,9
+LOC014,Home & Kitchen,1,9,10
+LOC014,Home & Kitchen,2,6,7
+LOC014,Home & Kitchen,3,5,4
+LOC014,Home & Kitchen,4,3,3
+LOC014,Home & Kitchen,5,9,11
+LOC014,Home & Kitchen,6,13,9
+LOC014,Home & Kitchen,7,11,12
+LOC014,Home & Kitchen,8,9,8
+LOC014,Home & Kitchen,9,6,6
+LOC014,Home & Kitchen,10,8,7
+LOC014,Home & Kitchen,11,7,6
+LOC014,Home & Kitchen,12,7,7
+LOC014,Sports,0,5,5
+LOC014,Sports,1,3,3
+LOC014,Sports,2,7,5
+LOC014,Sports,3,3,3
+LOC014,Sports,5,4,6
+LOC014,Sports,6,3,2
+LOC014,Sports,7,4,4
+LOC014,Sports,8,5,4
+LOC014,Sports,9,3,2
+LOC014,Sports,10,4,6
+LOC014,Sports,12,4,4
+LOC014,Toys,0,2,2
+LOC014,Toys,1,2,1
+LOC014,Toys,2,8,8
+LOC014,Toys,3,5,4
+LOC014,Toys,4,5,5
+LOC014,Toys,5,6,6
+LOC014,Toys,6,6,6
+LOC014,Toys,7,6,5
+LOC014,Toys,8,6,7
+LOC014,Toys,9,3,4
+LOC014,Toys,10,2,2
+LOC014,Toys,11,4,2
+LOC014,Toys,12,3,5
+LOC015,Accessories,0,9,9
+LOC015,Accessories,1,11,14
+LOC015,Accessories,2,9,9
+LOC015,Accessories,3,9,9
+LOC015,Accessories,4,7,6
+LOC015,Accessories,5,6,6
+LOC015,Accessories,6,4,5
+LOC015,Accessories,7,9,12
+LOC015,Accessories,8,8,7
+LOC015,Accessories,9,16,12
+LOC015,Accessories,10,10,10
+LOC015,Accessories,11,8,6
+LOC015,Accessories,12,8,6
+LOC015,Apparel,0,27,29
+LOC015,Apparel,1,29,28
+LOC015,Apparel,2,23,19
+LOC015,Apparel,3,20,23
+LOC015,Apparel,4,26,22
+LOC015,Apparel,5,18,17
+LOC015,Apparel,6,15,17
+LOC015,Apparel,7,18,21
+LOC015,Apparel,8,25,19
+LOC015,Apparel,9,16,12
+LOC015,Apparel,10,14,17
+LOC015,Apparel,11,33,33
+LOC015,Apparel,12,23,25
+LOC015,Beauty,0,8,9
+LOC015,Beauty,1,15,14
+LOC015,Beauty,2,14,10
+LOC015,Beauty,3,11,10
+LOC015,Beauty,4,11,8
+LOC015,Beauty,5,16,13
+LOC015,Beauty,6,7,10
+LOC015,Beauty,7,15,14
+LOC015,Beauty,8,15,14
+LOC015,Beauty,9,12,14
+LOC015,Beauty,10,11,11
+LOC015,Beauty,11,11,8
+LOC015,Beauty,12,12,11
+LOC015,Books,0,5,8
+LOC015,Books,1,7,9
+LOC015,Books,2,8,10
+LOC015,Books,3,10,7
+LOC015,Books,4,3,4
+LOC015,Books,5,7,5
+LOC015,Books,6,7,5
+LOC015,Books,7,9,10
+LOC015,Books,8,7,8
+LOC015,Books,9,3,4
+LOC015,Books,10,6,8
+LOC015,Books,11,9,9
+LOC015,Books,12,3,2
+LOC015,Electronics,0,13,10
+LOC015,Electronics,1,8,9
+LOC015,Electronics,2,8,10
+LOC015,Electronics,3,8,9
+LOC015,Electronics,4,11,11
+LOC015,Electronics,5,14,14
+LOC015,Electronics,6,12,8
+LOC015,Electronics,7,5,4
+LOC015,Electronics,8,18,21
+LOC015,Electronics,9,12,9
+LOC015,Electronics,10,15,10
+LOC015,Electronics,11,10,9
+LOC015,Electronics,12,10,11
+LOC015,Footwear,0,13,17
+LOC015,Footwear,1,10,12
+LOC015,Footwear,2,11,10
+LOC015,Footwear,3,10,12
+LOC015,Footwear,4,20,23
+LOC015,Footwear,5,17,16
+LOC015,Footwear,6,9,7
+LOC015,Footwear,7,7,8
+LOC015,Footwear,8,14,13
+LOC015,Footwear,9,13,12
+LOC015,Footwear,10,13,15
+LOC015,Footwear,11,8,6
+LOC015,Footwear,12,13,10
+LOC015,Home & Kitchen,0,11,9
+LOC015,Home & Kitchen,1,17,19
+LOC015,Home & Kitchen,2,13,13
+LOC015,Home & Kitchen,3,7,4
+LOC015,Home & Kitchen,4,17,16
+LOC015,Home & Kitchen,5,15,16
+LOC015,Home & Kitchen,6,11,10
+LOC015,Home & Kitchen,7,12,6
+LOC015,Home & Kitchen,8,16,11
+LOC015,Home & Kitchen,9,12,13
+LOC015,Home & Kitchen,10,14,14
+LOC015,Home & Kitchen,11,13,11
+LOC015,Home & Kitchen,12,8,8
+LOC015,Sports,0,5,7
+LOC015,Sports,1,13,17
+LOC015,Sports,2,10,11
+LOC015,Sports,3,5,7
+LOC015,Sports,4,4,3
+LOC015,Sports,5,2,3
+LOC015,Sports,6,6,6
+LOC015,Sports,7,5,4
+LOC015,Sports,8,9,11
+LOC015,Sports,9,8,8
+LOC015,Sports,10,3,3
+LOC015,Sports,11,7,8
+LOC015,Sports,12,5,3
+LOC015,Toys,0,9,7
+LOC015,Toys,1,5,6
+LOC015,Toys,2,10,11
+LOC015,Toys,3,5,2
+LOC015,Toys,4,7,11
+LOC015,Toys,5,9,7
+LOC015,Toys,6,8,6
+LOC015,Toys,7,13,14
+LOC015,Toys,8,10,12
+LOC015,Toys,9,5,6
+LOC015,Toys,10,9,13
+LOC015,Toys,11,11,9
+LOC015,Toys,12,6,5
+LOC016,Accessories,1,5,5
+LOC016,Accessories,2,3,4
+LOC016,Accessories,3,3,4
+LOC016,Accessories,4,2,1
+LOC016,Accessories,5,5,4
+LOC016,Accessories,6,3,2
+LOC016,Accessories,7,4,4
+LOC016,Accessories,8,5,4
+LOC016,Accessories,9,2,2
+LOC016,Accessories,11,2,1
+LOC016,Accessories,12,2,2
+LOC016,Apparel,0,3,3
+LOC016,Apparel,1,8,8
+LOC016,Apparel,2,9,11
+LOC016,Apparel,3,9,12
+LOC016,Apparel,4,3,4
+LOC016,Apparel,5,14,15
+LOC016,Apparel,6,6,4
+LOC016,Apparel,7,5,5
+LOC016,Apparel,8,7,8
+LOC016,Apparel,9,7,4
+LOC016,Apparel,10,4,5
+LOC016,Apparel,11,4,5
+LOC016,Apparel,12,11,10
+LOC016,Beauty,0,4,4
+LOC016,Beauty,1,4,5
+LOC016,Beauty,2,2,3
+LOC016,Beauty,3,7,8
+LOC016,Beauty,4,3,4
+LOC016,Beauty,6,4,4
+LOC016,Beauty,7,3,3
+LOC016,Beauty,8,4,4
+LOC016,Beauty,9,3,4
+LOC016,Beauty,11,4,4
+LOC016,Beauty,12,3,3
+LOC016,Books,0,3,4
+LOC016,Books,1,1,2
+LOC016,Books,2,4,5
+LOC016,Books,3,1,0
+LOC016,Books,4,1,2
+LOC016,Books,5,2,2
+LOC016,Books,6,1,1
+LOC016,Books,7,2,2
+LOC016,Books,9,5,5
+LOC016,Books,10,5,5
+LOC016,Books,11,3,3
+LOC016,Books,12,1,1
+LOC016,Electronics,0,3,2
+LOC016,Electronics,1,3,3
+LOC016,Electronics,2,2,1
+LOC016,Electronics,3,3,3
+LOC016,Electronics,4,7,8
+LOC016,Electronics,5,4,4
+LOC016,Electronics,6,2,2
+LOC016,Electronics,7,2,0
+LOC016,Electronics,8,6,6
+LOC016,Electronics,9,9,10
+LOC016,Electronics,10,4,6
+LOC016,Electronics,11,2,2
+LOC016,Electronics,12,3,3
+LOC016,Footwear,0,4,4
+LOC016,Footwear,1,5,7
+LOC016,Footwear,2,4,3
+LOC016,Footwear,3,5,6
+LOC016,Footwear,4,5,3
+LOC016,Footwear,5,4,3
+LOC016,Footwear,6,2,2
+LOC016,Footwear,7,3,3
+LOC016,Footwear,8,1,1
+LOC016,Footwear,9,5,4
+LOC016,Footwear,10,4,5
+LOC016,Footwear,11,6,6
+LOC016,Footwear,12,4,3
+LOC016,Home & Kitchen,0,4,4
+LOC016,Home & Kitchen,1,7,9
+LOC016,Home & Kitchen,2,1,2
+LOC016,Home & Kitchen,3,3,5
+LOC016,Home & Kitchen,4,6,6
+LOC016,Home & Kitchen,5,3,4
+LOC016,Home & Kitchen,6,6,7
+LOC016,Home & Kitchen,7,2,2
+LOC016,Home & Kitchen,8,3,3
+LOC016,Home & Kitchen,9,1,1
+LOC016,Home & Kitchen,10,6,5
+LOC016,Home & Kitchen,11,3,5
+LOC016,Home & Kitchen,12,4,4
+LOC016,Sports,0,1,1
+LOC016,Sports,3,1,0
+LOC016,Sports,4,2,2
+LOC016,Sports,5,3,2
+LOC016,Sports,6,2,1
+LOC016,Sports,7,1,1
+LOC016,Sports,10,1,2
+LOC016,Sports,11,5,7
+LOC016,Sports,12,2,2
+LOC016,Toys,0,3,3
+LOC016,Toys,1,2,1
+LOC016,Toys,2,2,3
+LOC016,Toys,3,3,4
+LOC016,Toys,4,1,1
+LOC016,Toys,5,3,3
+LOC016,Toys,6,2,1
+LOC016,Toys,7,2,2
+LOC016,Toys,8,3,5
+LOC016,Toys,9,6,6
+LOC016,Toys,10,4,3
+LOC016,Toys,11,3,3
+LOC016,Toys,12,2,1
+LOC017,Accessories,0,16,13
+LOC017,Accessories,1,11,11
+LOC017,Accessories,2,8,8
+LOC017,Accessories,3,2,2
+LOC017,Accessories,4,6,4
+LOC017,Accessories,5,7,5
+LOC017,Accessories,6,8,6
+LOC017,Accessories,7,5,4
+LOC017,Accessories,8,9,10
+LOC017,Accessories,9,4,5
+LOC017,Accessories,10,8,7
+LOC017,Accessories,11,6,10
+LOC017,Accessories,12,3,3
+LOC017,Apparel,0,14,14
+LOC017,Apparel,1,17,13
+LOC017,Apparel,2,22,15
+LOC017,Apparel,3,13,10
+LOC017,Apparel,4,16,19
+LOC017,Apparel,5,23,26
+LOC017,Apparel,6,24,33
+LOC017,Apparel,7,13,12
+LOC017,Apparel,8,13,16
+LOC017,Apparel,9,14,16
+LOC017,Apparel,10,16,14
+LOC017,Apparel,11,20,19
+LOC017,Apparel,12,17,17
+LOC017,Beauty,0,5,4
+LOC017,Beauty,1,11,9
+LOC017,Beauty,2,12,12
+LOC017,Beauty,3,6,5
+LOC017,Beauty,4,6,7
+LOC017,Beauty,5,9,8
+LOC017,Beauty,6,10,14
+LOC017,Beauty,7,18,23
+LOC017,Beauty,8,7,7
+LOC017,Beauty,9,9,9
+LOC017,Beauty,10,12,11
+LOC017,Beauty,11,10,10
+LOC017,Beauty,12,9,11
+LOC017,Books,0,3,2
+LOC017,Books,1,2,2
+LOC017,Books,2,7,7
+LOC017,Books,3,4,4
+LOC017,Books,4,4,3
+LOC017,Books,5,8,9
+LOC017,Books,6,3,3
+LOC017,Books,7,3,3
+LOC017,Books,8,5,4
+LOC017,Books,9,6,6
+LOC017,Books,10,6,6
+LOC017,Books,11,9,11
+LOC017,Books,12,9,14
+LOC017,Electronics,0,12,10
+LOC017,Electronics,1,15,17
+LOC017,Electronics,2,10,10
+LOC017,Electronics,3,12,10
+LOC017,Electronics,4,4,2
+LOC017,Electronics,5,12,11
+LOC017,Electronics,6,10,12
+LOC017,Electronics,7,6,7
+LOC017,Electronics,8,7,9
+LOC017,Electronics,9,3,2
+LOC017,Electronics,10,18,21
+LOC017,Electronics,11,6,9
+LOC017,Electronics,12,5,4
+LOC017,Footwear,0,12,16
+LOC017,Footwear,1,6,8
+LOC017,Footwear,2,18,21
+LOC017,Footwear,3,19,21
+LOC017,Footwear,4,12,8
+LOC017,Footwear,5,15,14
+LOC017,Footwear,6,17,18
+LOC017,Footwear,7,10,8
+LOC017,Footwear,8,4,4
+LOC017,Footwear,9,14,13
+LOC017,Footwear,10,14,13
+LOC017,Footwear,11,6,7
+LOC017,Footwear,12,10,10
+LOC017,Home & Kitchen,0,16,16
+LOC017,Home & Kitchen,1,12,10
+LOC017,Home & Kitchen,2,10,13
+LOC017,Home & Kitchen,3,14,12
+LOC017,Home & Kitchen,4,6,8
+LOC017,Home & Kitchen,5,12,16
+LOC017,Home & Kitchen,6,11,15
+LOC017,Home & Kitchen,7,7,8
+LOC017,Home & Kitchen,8,19,17
+LOC017,Home & Kitchen,9,16,11
+LOC017,Home & Kitchen,10,12,14
+LOC017,Home & Kitchen,11,20,18
+LOC017,Home & Kitchen,12,9,9
+LOC017,Sports,0,4,4
+LOC017,Sports,1,6,6
+LOC017,Sports,2,5,4
+LOC017,Sports,3,8,10
+LOC017,Sports,4,14,11
+LOC017,Sports,5,4,4
+LOC017,Sports,6,11,8
+LOC017,Sports,7,9,11
+LOC017,Sports,8,5,4
+LOC017,Sports,9,7,9
+LOC017,Sports,10,6,8
+LOC017,Sports,11,7,6
+LOC017,Sports,12,5,7
+LOC017,Toys,0,6,6
+LOC017,Toys,1,4,4
+LOC017,Toys,2,9,11
+LOC017,Toys,3,7,9
+LOC017,Toys,4,11,11
+LOC017,Toys,5,8,7
+LOC017,Toys,6,5,4
+LOC017,Toys,7,5,4
+LOC017,Toys,8,5,5
+LOC017,Toys,9,7,6
+LOC017,Toys,10,5,6
+LOC017,Toys,11,3,3
+LOC017,Toys,12,9,9
+LOC018,Accessories,0,14,11
+LOC018,Accessories,1,13,12
+LOC018,Accessories,2,3,4
+LOC018,Accessories,3,6,6
+LOC018,Accessories,4,7,10
+LOC018,Accessories,5,6,5
+LOC018,Accessories,6,11,11
+LOC018,Accessories,7,5,6
+LOC018,Accessories,8,4,3
+LOC018,Accessories,9,6,6
+LOC018,Accessories,10,5,3
+LOC018,Accessories,11,4,2
+LOC018,Accessories,12,5,4
+LOC018,Apparel,0,22,13
+LOC018,Apparel,1,15,12
+LOC018,Apparel,2,19,13
+LOC018,Apparel,3,12,13
+LOC018,Apparel,4,14,13
+LOC018,Apparel,5,21,24
+LOC018,Apparel,6,23,24
+LOC018,Apparel,7,15,14
+LOC018,Apparel,8,20,20
+LOC018,Apparel,9,21,23
+LOC018,Apparel,10,21,7
+LOC018,Apparel,11,22,21
+LOC018,Apparel,12,23,29
+LOC018,Beauty,0,14,17
+LOC018,Beauty,1,13,15
+LOC018,Beauty,2,9,9
+LOC018,Beauty,3,11,10
+LOC018,Beauty,4,12,12
+LOC018,Beauty,5,9,9
+LOC018,Beauty,6,9,5
+LOC018,Beauty,7,13,14
+LOC018,Beauty,8,14,9
+LOC018,Beauty,9,11,16
+LOC018,Beauty,10,13,15
+LOC018,Beauty,11,8,7
+LOC018,Beauty,12,4,3
+LOC018,Books,0,6,7
+LOC018,Books,1,7,7
+LOC018,Books,2,6,4
+LOC018,Books,3,5,6
+LOC018,Books,4,7,8
+LOC018,Books,5,5,3
+LOC018,Books,6,7,6
+LOC018,Books,7,10,9
+LOC018,Books,8,10,10
+LOC018,Books,9,7,8
+LOC018,Books,10,6,7
+LOC018,Books,11,4,2
+LOC018,Books,12,4,6
+LOC018,Electronics,0,6,6
+LOC018,Electronics,1,10,8
+LOC018,Electronics,2,17,26
+LOC018,Electronics,3,7,7
+LOC018,Electronics,4,14,10
+LOC018,Electronics,5,14,17
+LOC018,Electronics,6,5,5
+LOC018,Electronics,7,10,13
+LOC018,Electronics,8,8,8
+LOC018,Electronics,9,14,17
+LOC018,Electronics,10,11,12
+LOC018,Electronics,11,9,10
+LOC018,Electronics,12,7,8
+LOC018,Footwear,0,12,15
+LOC018,Footwear,1,16,14
+LOC018,Footwear,2,10,8
+LOC018,Footwear,3,8,8
+LOC018,Footwear,4,10,15
+LOC018,Footwear,5,17,13
+LOC018,Footwear,6,11,16
+LOC018,Footwear,7,14,14
+LOC018,Footwear,8,12,15
+LOC018,Footwear,9,9,9
+LOC018,Footwear,10,10,6
+LOC018,Footwear,11,11,15
+LOC018,Footwear,12,10,10
+LOC018,Home & Kitchen,0,12,13
+LOC018,Home & Kitchen,1,8,6
+LOC018,Home & Kitchen,2,16,21
+LOC018,Home & Kitchen,3,12,15
+LOC018,Home & Kitchen,4,10,8
+LOC018,Home & Kitchen,5,15,18
+LOC018,Home & Kitchen,6,9,8
+LOC018,Home & Kitchen,7,7,9
+LOC018,Home & Kitchen,8,9,10
+LOC018,Home & Kitchen,9,8,9
+LOC018,Home & Kitchen,10,9,6
+LOC018,Home & Kitchen,11,15,11
+LOC018,Home & Kitchen,12,11,9
+LOC018,Sports,0,9,6
+LOC018,Sports,1,5,4
+LOC018,Sports,2,6,9
+LOC018,Sports,3,8,8
+LOC018,Sports,4,5,5
+LOC018,Sports,5,5,5
+LOC018,Sports,6,10,9
+LOC018,Sports,7,5,6
+LOC018,Sports,8,7,6
+LOC018,Sports,9,6,8
+LOC018,Sports,10,1,2
+LOC018,Sports,11,12,9
+LOC018,Sports,12,5,7
+LOC018,Toys,0,8,9
+LOC018,Toys,1,10,8
+LOC018,Toys,2,8,11
+LOC018,Toys,3,1,0
+LOC018,Toys,4,6,5
+LOC018,Toys,5,8,6
+LOC018,Toys,6,8,9
+LOC018,Toys,7,15,19
+LOC018,Toys,8,10,11
+LOC018,Toys,9,8,11
+LOC018,Toys,10,8,8
+LOC018,Toys,11,11,10
+LOC018,Toys,12,6,6
+LOC019,Accessories,0,7,7
+LOC019,Accessories,1,6,5
+LOC019,Accessories,2,4,4
+LOC019,Accessories,3,9,7
+LOC019,Accessories,4,3,4
+LOC019,Accessories,5,3,3
+LOC019,Accessories,6,7,8
+LOC019,Accessories,7,4,4
+LOC019,Accessories,8,4,3
+LOC019,Accessories,9,7,5
+LOC019,Accessories,10,2,2
+LOC019,Accessories,11,2,1
+LOC019,Accessories,12,7,6
+LOC019,Apparel,0,6,5
+LOC019,Apparel,1,11,11
+LOC019,Apparel,2,9,11
+LOC019,Apparel,3,13,12
+LOC019,Apparel,4,10,11
+LOC019,Apparel,5,17,21
+LOC019,Apparel,6,9,9
+LOC019,Apparel,7,17,17
+LOC019,Apparel,8,18,19
+LOC019,Apparel,9,16,18
+LOC019,Apparel,10,10,11
+LOC019,Apparel,11,20,17
+LOC019,Apparel,12,8,7
+LOC019,Beauty,0,4,4
+LOC019,Beauty,1,4,4
+LOC019,Beauty,2,7,5
+LOC019,Beauty,3,7,6
+LOC019,Beauty,4,7,4
+LOC019,Beauty,5,5,2
+LOC019,Beauty,6,3,4
+LOC019,Beauty,7,3,3
+LOC019,Beauty,8,9,9
+LOC019,Beauty,9,5,5
+LOC019,Beauty,10,7,4
+LOC019,Beauty,11,4,5
+LOC019,Beauty,12,9,12
+LOC019,Books,0,4,4
+LOC019,Books,1,5,3
+LOC019,Books,2,3,4
+LOC019,Books,3,3,1
+LOC019,Books,4,3,3
+LOC019,Books,5,5,5
+LOC019,Books,6,6,5
+LOC019,Books,7,3,3
+LOC019,Books,8,4,5
+LOC019,Books,9,8,9
+LOC019,Books,10,3,2
+LOC019,Books,11,2,2
+LOC019,Books,12,3,4
+LOC019,Electronics,0,5,6
+LOC019,Electronics,1,9,9
+LOC019,Electronics,2,5,5
+LOC019,Electronics,3,5,4
+LOC019,Electronics,4,7,7
+LOC019,Electronics,5,9,6
+LOC019,Electronics,6,2,2
+LOC019,Electronics,7,9,13
+LOC019,Electronics,8,4,4
+LOC019,Electronics,9,6,8
+LOC019,Electronics,10,3,3
+LOC019,Electronics,11,14,13
+LOC019,Electronics,12,6,3
+LOC019,Footwear,0,4,5
+LOC019,Footwear,1,10,9
+LOC019,Footwear,2,10,10
+LOC019,Footwear,3,8,8
+LOC019,Footwear,4,5,6
+LOC019,Footwear,5,6,9
+LOC019,Footwear,6,4,5
+LOC019,Footwear,7,6,7
+LOC019,Footwear,8,7,6
+LOC019,Footwear,9,7,7
+LOC019,Footwear,10,5,4
+LOC019,Footwear,11,7,10
+LOC019,Footwear,12,5,5
+LOC019,Home & Kitchen,0,6,6
+LOC019,Home & Kitchen,1,11,10
+LOC019,Home & Kitchen,2,5,4
+LOC019,Home & Kitchen,3,6,5
+LOC019,Home & Kitchen,4,12,13
+LOC019,Home & Kitchen,5,9,11
+LOC019,Home & Kitchen,6,9,9
+LOC019,Home & Kitchen,7,11,11
+LOC019,Home & Kitchen,8,10,11
+LOC019,Home & Kitchen,9,13,17
+LOC019,Home & Kitchen,10,7,7
+LOC019,Home & Kitchen,11,3,3
+LOC019,Home & Kitchen,12,4,4
+LOC019,Sports,0,3,3
+LOC019,Sports,1,4,4
+LOC019,Sports,2,6,8
+LOC019,Sports,3,2,1
+LOC019,Sports,5,3,3
+LOC019,Sports,6,5,5
+LOC019,Sports,7,7,7
+LOC019,Sports,8,2,2
+LOC019,Sports,9,3,4
+LOC019,Sports,10,6,5
+LOC019,Sports,11,5,6
+LOC019,Sports,12,2,2
+LOC019,Toys,0,7,8
+LOC019,Toys,1,6,7
+LOC019,Toys,2,6,7
+LOC019,Toys,3,4,5
+LOC019,Toys,4,7,8
+LOC019,Toys,5,6,7
+LOC019,Toys,6,4,5
+LOC019,Toys,7,6,5
+LOC019,Toys,8,4,3
+LOC019,Toys,9,8,9
+LOC019,Toys,10,7,7
+LOC019,Toys,11,4,3
+LOC019,Toys,12,3,3
+LOC020,Accessories,0,5,4
+LOC020,Accessories,1,2,2
+LOC020,Accessories,2,4,5
+LOC020,Accessories,3,5,3
+LOC020,Accessories,4,2,2
+LOC020,Accessories,5,6,8
+LOC020,Accessories,6,6,8
+LOC020,Accessories,7,2,1
+LOC020,Accessories,8,6,7
+LOC020,Accessories,9,3,2
+LOC020,Accessories,10,2,3
+LOC020,Accessories,11,3,3
+LOC020,Accessories,12,7,8
+LOC020,Apparel,0,8,10
+LOC020,Apparel,1,10,6
+LOC020,Apparel,2,12,8
+LOC020,Apparel,3,10,11
+LOC020,Apparel,4,9,11
+LOC020,Apparel,5,9,10
+LOC020,Apparel,6,13,17
+LOC020,Apparel,7,7,4
+LOC020,Apparel,8,9,8
+LOC020,Apparel,9,6,5
+LOC020,Apparel,10,13,15
+LOC020,Apparel,11,13,11
+LOC020,Apparel,12,3,3
+LOC020,Beauty,0,5,6
+LOC020,Beauty,1,8,5
+LOC020,Beauty,2,7,4
+LOC020,Beauty,3,7,6
+LOC020,Beauty,4,8,7
+LOC020,Beauty,5,5,4
+LOC020,Beauty,6,6,5
+LOC020,Beauty,7,5,5
+LOC020,Beauty,8,5,6
+LOC020,Beauty,9,5,7
+LOC020,Beauty,10,2,3
+LOC020,Beauty,11,2,2
+LOC020,Beauty,12,6,4
+LOC020,Books,0,4,4
+LOC020,Books,1,2,3
+LOC020,Books,2,3,2
+LOC020,Books,3,3,4
+LOC020,Books,4,3,2
+LOC020,Books,5,4,5
+LOC020,Books,6,3,1
+LOC020,Books,7,4,4
+LOC020,Books,8,3,3
+LOC020,Books,9,5,5
+LOC020,Books,10,4,4
+LOC020,Books,11,3,4
+LOC020,Books,12,4,3
+LOC020,Electronics,0,3,4
+LOC020,Electronics,1,8,8
+LOC020,Electronics,2,4,6
+LOC020,Electronics,3,5,6
+LOC020,Electronics,4,8,8
+LOC020,Electronics,5,7,6
+LOC020,Electronics,6,4,4
+LOC020,Electronics,7,3,4
+LOC020,Electronics,8,7,8
+LOC020,Electronics,9,5,5
+LOC020,Electronics,10,4,3
+LOC020,Electronics,11,4,3
+LOC020,Electronics,12,2,1
+LOC020,Footwear,0,5,6
+LOC020,Footwear,1,9,5
+LOC020,Footwear,2,8,8
+LOC020,Footwear,4,8,9
+LOC020,Footwear,5,8,8
+LOC020,Footwear,6,5,4
+LOC020,Footwear,7,4,5
+LOC020,Footwear,8,11,13
+LOC020,Footwear,9,6,6
+LOC020,Footwear,10,1,1
+LOC020,Footwear,11,4,3
+LOC020,Footwear,12,3,4
+LOC020,Home & Kitchen,0,8,9
+LOC020,Home & Kitchen,1,5,2
+LOC020,Home & Kitchen,2,7,7
+LOC020,Home & Kitchen,3,8,6
+LOC020,Home & Kitchen,4,5,6
+LOC020,Home & Kitchen,5,4,4
+LOC020,Home & Kitchen,6,4,4
+LOC020,Home & Kitchen,7,9,6
+LOC020,Home & Kitchen,8,2,1
+LOC020,Home & Kitchen,9,7,8
+LOC020,Home & Kitchen,10,6,4
+LOC020,Home & Kitchen,11,7,6
+LOC020,Home & Kitchen,12,6,7
+LOC020,Sports,0,4,3
+LOC020,Sports,1,2,5
+LOC020,Sports,2,4,4
+LOC020,Sports,3,2,2
+LOC020,Sports,4,2,2
+LOC020,Sports,5,1,0
+LOC020,Sports,6,3,2
+LOC020,Sports,7,1,1
+LOC020,Sports,8,5,6
+LOC020,Sports,9,3,4
+LOC020,Sports,10,4,4
+LOC020,Sports,11,7,8
+LOC020,Sports,12,2,2
+LOC020,Toys,0,4,4
+LOC020,Toys,1,5,4
+LOC020,Toys,2,5,7
+LOC020,Toys,3,2,2
+LOC020,Toys,4,1,1
+LOC020,Toys,5,4,3
+LOC020,Toys,6,4,5
+LOC020,Toys,7,5,6
+LOC020,Toys,8,3,5
+LOC020,Toys,9,5,5
+LOC020,Toys,10,6,3
+LOC020,Toys,11,3,4
+LOC020,Toys,12,3,4
+LOC021,Accessories,0,1,1
+LOC021,Accessories,1,1,2
+LOC021,Accessories,2,3,4
+LOC021,Accessories,3,1,1
+LOC021,Accessories,4,4,5
+LOC021,Accessories,5,3,4
+LOC021,Accessories,6,4,3
+LOC021,Accessories,7,4,2
+LOC021,Accessories,8,2,2
+LOC021,Accessories,9,2,2
+LOC021,Accessories,10,1,2
+LOC021,Accessories,11,3,3
+LOC021,Apparel,0,7,5
+LOC021,Apparel,1,7,7
+LOC021,Apparel,2,11,9
+LOC021,Apparel,3,7,9
+LOC021,Apparel,4,2,3
+LOC021,Apparel,5,5,4
+LOC021,Apparel,6,4,3
+LOC021,Apparel,7,7,4
+LOC021,Apparel,8,8,8
+LOC021,Apparel,9,6,8
+LOC021,Apparel,10,5,5
+LOC021,Apparel,11,2,0
+LOC021,Apparel,12,2,2
+LOC021,Beauty,0,3,4
+LOC021,Beauty,1,2,1
+LOC021,Beauty,2,1,1
+LOC021,Beauty,3,2,1
+LOC021,Beauty,5,5,5
+LOC021,Beauty,6,5,5
+LOC021,Beauty,7,2,2
+LOC021,Beauty,8,3,3
+LOC021,Beauty,9,4,3
+LOC021,Beauty,10,1,1
+LOC021,Beauty,11,4,5
+LOC021,Beauty,12,2,3
+LOC021,Books,1,4,4
+LOC021,Books,2,2,2
+LOC021,Books,3,1,2
+LOC021,Books,5,1,2
+LOC021,Books,6,2,2
+LOC021,Books,7,1,1
+LOC021,Books,8,4,4
+LOC021,Books,11,1,1
+LOC021,Books,12,3,2
+LOC021,Electronics,0,1,1
+LOC021,Electronics,1,1,1
+LOC021,Electronics,2,2,2
+LOC021,Electronics,3,1,1
+LOC021,Electronics,4,4,5
+LOC021,Electronics,5,5,7
+LOC021,Electronics,6,3,2
+LOC021,Electronics,7,1,1
+LOC021,Electronics,8,2,2
+LOC021,Electronics,9,2,3
+LOC021,Electronics,10,6,6
+LOC021,Electronics,11,4,5
+LOC021,Electronics,12,1,0
+LOC021,Footwear,0,2,2
+LOC021,Footwear,2,3,3
+LOC021,Footwear,3,6,7
+LOC021,Footwear,4,3,3
+LOC021,Footwear,5,4,4
+LOC021,Footwear,6,4,4
+LOC021,Footwear,7,2,2
+LOC021,Footwear,8,7,6
+LOC021,Footwear,9,4,4
+LOC021,Footwear,10,3,1
+LOC021,Footwear,11,4,5
+LOC021,Footwear,12,2,3
+LOC021,Home & Kitchen,0,2,1
+LOC021,Home & Kitchen,1,3,4
+LOC021,Home & Kitchen,2,1,1
+LOC021,Home & Kitchen,3,2,2
+LOC021,Home & Kitchen,4,6,6
+LOC021,Home & Kitchen,5,7,6
+LOC021,Home & Kitchen,7,4,4
+LOC021,Home & Kitchen,8,2,1
+LOC021,Home & Kitchen,9,3,3
+LOC021,Home & Kitchen,10,2,2
+LOC021,Home & Kitchen,11,4,4
+LOC021,Home & Kitchen,12,1,1
+LOC021,Sports,0,3,3
+LOC021,Sports,1,4,5
+LOC021,Sports,3,2,2
+LOC021,Sports,4,1,0
+LOC021,Sports,5,2,3
+LOC021,Sports,6,1,1
+LOC021,Sports,7,2,2
+LOC021,Sports,8,1,1
+LOC021,Sports,9,2,3
+LOC021,Sports,10,3,3
+LOC021,Sports,11,1,2
+LOC021,Sports,12,3,2
+LOC021,Toys,0,2,2
+LOC021,Toys,1,3,2
+LOC021,Toys,3,2,3
+LOC021,Toys,4,4,5
+LOC021,Toys,5,1,1
+LOC021,Toys,6,2,2
+LOC021,Toys,7,2,2
+LOC021,Toys,8,3,3
+LOC021,Toys,9,2,1
+LOC021,Toys,10,1,1
+LOC021,Toys,11,3,3
+LOC021,Toys,12,2,2
+LOC022,Accessories,0,8,9
+LOC022,Accessories,1,11,8
+LOC022,Accessories,2,6,3
+LOC022,Accessories,3,7,4
+LOC022,Accessories,4,9,7
+LOC022,Accessories,5,7,8
+LOC022,Accessories,6,5,6
+LOC022,Accessories,7,12,10
+LOC022,Accessories,8,9,10
+LOC022,Accessories,9,13,9
+LOC022,Accessories,10,5,2
+LOC022,Accessories,11,4,4
+LOC022,Accessories,12,5,6
+LOC022,Apparel,0,22,20
+LOC022,Apparel,1,23,27
+LOC022,Apparel,2,26,24
+LOC022,Apparel,3,24,26
+LOC022,Apparel,4,26,23
+LOC022,Apparel,5,28,40
+LOC022,Apparel,6,23,28
+LOC022,Apparel,7,17,13
+LOC022,Apparel,8,19,17
+LOC022,Apparel,9,18,16
+LOC022,Apparel,10,26,17
+LOC022,Apparel,11,22,24
+LOC022,Apparel,12,15,18
+LOC022,Beauty,0,11,12
+LOC022,Beauty,1,12,14
+LOC022,Beauty,2,13,10
+LOC022,Beauty,3,11,8
+LOC022,Beauty,4,10,10
+LOC022,Beauty,5,15,12
+LOC022,Beauty,6,10,8
+LOC022,Beauty,7,10,8
+LOC022,Beauty,8,13,13
+LOC022,Beauty,9,15,12
+LOC022,Beauty,10,15,23
+LOC022,Beauty,11,13,17
+LOC022,Beauty,12,8,5
+LOC022,Books,0,8,8
+LOC022,Books,1,8,11
+LOC022,Books,2,7,8
+LOC022,Books,3,8,6
+LOC022,Books,4,5,6
+LOC022,Books,5,7,5
+LOC022,Books,6,11,7
+LOC022,Books,7,9,8
+LOC022,Books,8,4,4
+LOC022,Books,9,10,10
+LOC022,Books,10,8,7
+LOC022,Books,11,7,7
+LOC022,Books,12,8,9
+LOC022,Electronics,0,11,16
+LOC022,Electronics,1,8,9
+LOC022,Electronics,2,10,10
+LOC022,Electronics,3,9,7
+LOC022,Electronics,4,16,9
+LOC022,Electronics,5,9,11
+LOC022,Electronics,6,9,8
+LOC022,Electronics,7,17,14
+LOC022,Electronics,8,13,12
+LOC022,Electronics,9,8,7
+LOC022,Electronics,10,12,11
+LOC022,Electronics,11,13,14
+LOC022,Electronics,12,12,7
+LOC022,Footwear,0,14,13
+LOC022,Footwear,1,13,15
+LOC022,Footwear,2,15,9
+LOC022,Footwear,3,10,14
+LOC022,Footwear,4,14,12
+LOC022,Footwear,5,10,7
+LOC022,Footwear,6,10,10
+LOC022,Footwear,7,18,21
+LOC022,Footwear,8,13,11
+LOC022,Footwear,9,20,17
+LOC022,Footwear,10,14,15
+LOC022,Footwear,11,10,10
+LOC022,Footwear,12,13,11
+LOC022,Home & Kitchen,0,13,15
+LOC022,Home & Kitchen,1,18,19
+LOC022,Home & Kitchen,2,17,19
+LOC022,Home & Kitchen,3,8,6
+LOC022,Home & Kitchen,4,12,12
+LOC022,Home & Kitchen,5,25,18
+LOC022,Home & Kitchen,6,20,23
+LOC022,Home & Kitchen,7,11,14
+LOC022,Home & Kitchen,8,12,12
+LOC022,Home & Kitchen,9,14,14
+LOC022,Home & Kitchen,10,14,15
+LOC022,Home & Kitchen,11,19,18
+LOC022,Home & Kitchen,12,6,4
+LOC022,Sports,0,4,7
+LOC022,Sports,1,6,5
+LOC022,Sports,2,7,8
+LOC022,Sports,3,4,5
+LOC022,Sports,4,7,4
+LOC022,Sports,5,14,15
+LOC022,Sports,6,9,11
+LOC022,Sports,7,6,6
+LOC022,Sports,8,9,11
+LOC022,Sports,9,9,9
+LOC022,Sports,10,6,4
+LOC022,Sports,11,4,3
+LOC022,Sports,12,10,8
+LOC022,Toys,0,13,14
+LOC022,Toys,1,6,6
+LOC022,Toys,2,12,13
+LOC022,Toys,3,6,7
+LOC022,Toys,4,9,11
+LOC022,Toys,5,5,5
+LOC022,Toys,6,5,4
+LOC022,Toys,7,13,13
+LOC022,Toys,8,12,11
+LOC022,Toys,9,13,8
+LOC022,Toys,10,8,10
+LOC022,Toys,11,10,12
+LOC022,Toys,12,14,15
+LOC023,Accessories,0,12,10
+LOC023,Accessories,1,11,13
+LOC023,Accessories,2,10,7
+LOC023,Accessories,3,10,7
+LOC023,Accessories,4,15,12
+LOC023,Accessories,5,10,8
+LOC023,Accessories,6,12,12
+LOC023,Accessories,7,17,11
+LOC023,Accessories,8,12,10
+LOC023,Accessories,9,6,7
+LOC023,Accessories,10,9,7
+LOC023,Accessories,11,8,8
+LOC023,Accessories,12,10,13
+LOC023,Apparel,0,27,30
+LOC023,Apparel,1,23,33
+LOC023,Apparel,2,22,19
+LOC023,Apparel,3,29,23
+LOC023,Apparel,4,23,23
+LOC023,Apparel,5,28,22
+LOC023,Apparel,6,28,39
+LOC023,Apparel,7,20,21
+LOC023,Apparel,8,28,28
+LOC023,Apparel,9,28,21
+LOC023,Apparel,10,27,30
+LOC023,Apparel,11,15,10
+LOC023,Apparel,12,18,20
+LOC023,Beauty,0,8,10
+LOC023,Beauty,1,17,20
+LOC023,Beauty,2,13,11
+LOC023,Beauty,3,7,8
+LOC023,Beauty,4,14,13
+LOC023,Beauty,5,5,5
+LOC023,Beauty,6,9,11
+LOC023,Beauty,7,12,11
+LOC023,Beauty,8,14,16
+LOC023,Beauty,9,21,29
+LOC023,Beauty,10,8,9
+LOC023,Beauty,11,13,8
+LOC023,Beauty,12,12,12
+LOC023,Books,0,8,9
+LOC023,Books,1,5,6
+LOC023,Books,2,7,5
+LOC023,Books,3,8,6
+LOC023,Books,4,12,13
+LOC023,Books,5,5,4
+LOC023,Books,6,9,8
+LOC023,Books,7,6,8
+LOC023,Books,8,6,7
+LOC023,Books,9,10,7
+LOC023,Books,10,11,5
+LOC023,Books,11,8,7
+LOC023,Books,12,5,4
+LOC023,Electronics,0,11,10
+LOC023,Electronics,1,17,22
+LOC023,Electronics,2,21,27
+LOC023,Electronics,3,19,24
+LOC023,Electronics,4,14,14
+LOC023,Electronics,5,6,5
+LOC023,Electronics,6,8,12
+LOC023,Electronics,7,9,8
+LOC023,Electronics,8,17,19
+LOC023,Electronics,9,15,18
+LOC023,Electronics,10,13,13
+LOC023,Electronics,11,12,14
+LOC023,Electronics,12,5,4
+LOC023,Footwear,0,12,7
+LOC023,Footwear,1,16,18
+LOC023,Footwear,2,18,23
+LOC023,Footwear,3,12,9
+LOC023,Footwear,4,14,13
+LOC023,Footwear,5,18,11
+LOC023,Footwear,6,12,10
+LOC023,Footwear,7,21,21
+LOC023,Footwear,8,12,14
+LOC023,Footwear,9,14,11
+LOC023,Footwear,10,17,20
+LOC023,Footwear,11,14,13
+LOC023,Footwear,12,21,14
+LOC023,Home & Kitchen,0,12,14
+LOC023,Home & Kitchen,1,18,21
+LOC023,Home & Kitchen,2,8,7
+LOC023,Home & Kitchen,3,17,18
+LOC023,Home & Kitchen,4,10,11
+LOC023,Home & Kitchen,5,17,21
+LOC023,Home & Kitchen,6,12,14
+LOC023,Home & Kitchen,7,12,8
+LOC023,Home & Kitchen,8,10,10
+LOC023,Home & Kitchen,9,11,14
+LOC023,Home & Kitchen,10,12,15
+LOC023,Home & Kitchen,11,16,17
+LOC023,Home & Kitchen,12,6,6
+LOC023,Sports,0,12,10
+LOC023,Sports,1,6,7
+LOC023,Sports,2,9,9
+LOC023,Sports,3,9,10
+LOC023,Sports,4,6,6
+LOC023,Sports,5,10,6
+LOC023,Sports,6,6,6
+LOC023,Sports,7,9,9
+LOC023,Sports,8,3,4
+LOC023,Sports,9,7,7
+LOC023,Sports,10,9,12
+LOC023,Sports,11,11,9
+LOC023,Sports,12,11,11
+LOC023,Toys,0,14,14
+LOC023,Toys,1,9,11
+LOC023,Toys,2,8,11
+LOC023,Toys,3,9,6
+LOC023,Toys,4,5,6
+LOC023,Toys,5,13,10
+LOC023,Toys,6,6,7
+LOC023,Toys,7,9,10
+LOC023,Toys,8,9,8
+LOC023,Toys,9,10,13
+LOC023,Toys,10,13,13
+LOC023,Toys,11,11,11
+LOC023,Toys,12,11,9
+LOC024,Accessories,0,6,5
+LOC024,Accessories,1,3,3
+LOC024,Accessories,2,3,2
+LOC024,Accessories,3,4,4
+LOC024,Accessories,4,4,3
+LOC024,Accessories,5,7,4
+LOC024,Accessories,6,2,2
+LOC024,Accessories,7,5,4
+LOC024,Accessories,8,3,4
+LOC024,Accessories,9,5,5
+LOC024,Accessories,10,3,4
+LOC024,Accessories,11,5,4
+LOC024,Accessories,12,8,4
+LOC024,Apparel,0,9,8
+LOC024,Apparel,1,11,5
+LOC024,Apparel,2,2,3
+LOC024,Apparel,3,14,11
+LOC024,Apparel,4,14,16
+LOC024,Apparel,5,18,23
+LOC024,Apparel,6,9,9
+LOC024,Apparel,7,14,12
+LOC024,Apparel,8,4,5
+LOC024,Apparel,9,12,15
+LOC024,Apparel,10,13,11
+LOC024,Apparel,11,10,9
+LOC024,Apparel,12,17,19
+LOC024,Beauty,0,7,4
+LOC024,Beauty,1,3,2
+LOC024,Beauty,2,2,1
+LOC024,Beauty,3,5,7
+LOC024,Beauty,4,6,7
+LOC024,Beauty,5,4,4
+LOC024,Beauty,6,1,1
+LOC024,Beauty,7,6,4
+LOC024,Beauty,8,6,2
+LOC024,Beauty,9,1,1
+LOC024,Beauty,10,6,4
+LOC024,Beauty,11,1,1
+LOC024,Beauty,12,3,3
+LOC024,Books,0,3,3
+LOC024,Books,1,4,5
+LOC024,Books,2,4,4
+LOC024,Books,3,2,2
+LOC024,Books,4,5,7
+LOC024,Books,5,6,7
+LOC024,Books,6,1,2
+LOC024,Books,7,5,3
+LOC024,Books,8,3,1
+LOC024,Books,9,4,3
+LOC024,Books,10,3,3
+LOC024,Books,11,2,1
+LOC024,Books,12,4,4
+LOC024,Electronics,0,6,9
+LOC024,Electronics,1,3,4
+LOC024,Electronics,2,5,5
+LOC024,Electronics,3,4,3
+LOC024,Electronics,4,8,8
+LOC024,Electronics,5,3,2
+LOC024,Electronics,6,13,11
+LOC024,Electronics,7,7,5
+LOC024,Electronics,8,2,1
+LOC024,Electronics,9,6,5
+LOC024,Electronics,10,6,6
+LOC024,Electronics,11,3,3
+LOC024,Electronics,12,4,5
+LOC024,Footwear,0,5,7
+LOC024,Footwear,1,7,4
+LOC024,Footwear,2,4,5
+LOC024,Footwear,3,8,8
+LOC024,Footwear,4,4,4
+LOC024,Footwear,5,9,11
+LOC024,Footwear,6,6,6
+LOC024,Footwear,7,7,7
+LOC024,Footwear,8,7,7
+LOC024,Footwear,9,1,1
+LOC024,Footwear,10,5,4
+LOC024,Footwear,11,3,2
+LOC024,Footwear,12,5,6
+LOC024,Home & Kitchen,0,6,6
+LOC024,Home & Kitchen,1,6,8
+LOC024,Home & Kitchen,2,6,5
+LOC024,Home & Kitchen,3,5,7
+LOC024,Home & Kitchen,4,7,5
+LOC024,Home & Kitchen,5,6,8
+LOC024,Home & Kitchen,6,10,11
+LOC024,Home & Kitchen,7,4,6
+LOC024,Home & Kitchen,8,9,11
+LOC024,Home & Kitchen,9,7,6
+LOC024,Home & Kitchen,10,7,7
+LOC024,Home & Kitchen,11,12,13
+LOC024,Home & Kitchen,12,9,6
+LOC024,Sports,0,3,6
+LOC024,Sports,1,3,3
+LOC024,Sports,2,2,3
+LOC024,Sports,3,3,3
+LOC024,Sports,4,4,2
+LOC024,Sports,5,2,1
+LOC024,Sports,6,2,1
+LOC024,Sports,7,3,3
+LOC024,Sports,8,6,8
+LOC024,Sports,9,2,2
+LOC024,Sports,10,7,7
+LOC024,Sports,11,2,3
+LOC024,Sports,12,1,1
+LOC024,Toys,0,8,5
+LOC024,Toys,1,2,2
+LOC024,Toys,2,4,3
+LOC024,Toys,3,5,5
+LOC024,Toys,4,2,2
+LOC024,Toys,5,3,3
+LOC024,Toys,6,3,2
+LOC024,Toys,7,4,5
+LOC024,Toys,8,3,2
+LOC024,Toys,9,2,1
+LOC024,Toys,10,2,2
+LOC024,Toys,11,3,3
+LOC025,Accessories,0,5,5
+LOC025,Accessories,1,2,2
+LOC025,Accessories,2,3,3
+LOC025,Accessories,3,5,5
+LOC025,Accessories,4,3,3
+LOC025,Accessories,5,2,2
+LOC025,Accessories,6,1,0
+LOC025,Accessories,7,2,3
+LOC025,Accessories,8,4,3
+LOC025,Accessories,10,5,4
+LOC025,Accessories,11,2,3
+LOC025,Accessories,12,1,1
+LOC025,Apparel,0,3,3
+LOC025,Apparel,1,4,4
+LOC025,Apparel,2,7,11
+LOC025,Apparel,3,3,3
+LOC025,Apparel,4,2,4
+LOC025,Apparel,5,7,9
+LOC025,Apparel,6,1,0
+LOC025,Apparel,7,11,9
+LOC025,Apparel,8,3,3
+LOC025,Apparel,9,4,4
+LOC025,Apparel,10,6,6
+LOC025,Apparel,11,7,8
+LOC025,Apparel,12,5,3
+LOC025,Beauty,0,3,2
+LOC025,Beauty,1,6,7
+LOC025,Beauty,2,2,3
+LOC025,Beauty,3,3,5
+LOC025,Beauty,4,4,3
+LOC025,Beauty,5,5,6
+LOC025,Beauty,7,4,5
+LOC025,Beauty,8,5,5
+LOC025,Beauty,9,3,3
+LOC025,Beauty,10,2,2
+LOC025,Beauty,11,2,1
+LOC025,Beauty,12,2,3
+LOC025,Books,0,2,1
+LOC025,Books,1,1,1
+LOC025,Books,2,1,1
+LOC025,Books,3,2,1
+LOC025,Books,4,2,0
+LOC025,Books,5,2,1
+LOC025,Books,8,1,1
+LOC025,Books,9,1,1
+LOC025,Books,10,3,4
+LOC025,Books,11,1,1
+LOC025,Books,12,1,1
+LOC025,Electronics,0,2,1
+LOC025,Electronics,1,2,2
+LOC025,Electronics,3,5,4
+LOC025,Electronics,4,8,8
+LOC025,Electronics,6,2,2
+LOC025,Electronics,7,4,4
+LOC025,Electronics,8,1,1
+LOC025,Electronics,11,6,4
+LOC025,Electronics,12,5,4
+LOC025,Footwear,0,2,1
+LOC025,Footwear,1,4,4
+LOC025,Footwear,2,5,5
+LOC025,Footwear,3,3,2
+LOC025,Footwear,4,4,3
+LOC025,Footwear,5,2,1
+LOC025,Footwear,6,6,6
+LOC025,Footwear,7,2,2
+LOC025,Footwear,9,5,7
+LOC025,Footwear,10,8,7
+LOC025,Footwear,11,1,2
+LOC025,Footwear,12,2,2
+LOC025,Home & Kitchen,0,3,2
+LOC025,Home & Kitchen,1,7,3
+LOC025,Home & Kitchen,3,1,2
+LOC025,Home & Kitchen,4,7,7
+LOC025,Home & Kitchen,5,1,1
+LOC025,Home & Kitchen,6,3,2
+LOC025,Home & Kitchen,8,2,1
+LOC025,Home & Kitchen,9,3,3
+LOC025,Home & Kitchen,11,5,4
+LOC025,Home & Kitchen,12,7,7
+LOC025,Sports,0,4,6
+LOC025,Sports,1,2,2
+LOC025,Sports,2,2,1
+LOC025,Sports,3,2,0
+LOC025,Sports,4,1,1
+LOC025,Sports,5,2,1
+LOC025,Sports,6,3,4
+LOC025,Sports,7,2,2
+LOC025,Sports,8,4,4
+LOC025,Sports,9,3,2
+LOC025,Sports,10,1,2
+LOC025,Sports,11,1,1
+LOC025,Toys,0,1,1
+LOC025,Toys,1,2,1
+LOC025,Toys,2,2,2
+LOC025,Toys,3,2,3
+LOC025,Toys,6,3,4
+LOC025,Toys,7,5,7
+LOC025,Toys,8,1,2
+LOC025,Toys,9,1,0
+LOC025,Toys,10,2,1
+LOC025,Toys,11,2,2
+LOC025,Toys,12,2,1
+LOC026,Accessories,3,1,0
+LOC026,Accessories,5,1,3
+LOC026,Accessories,6,1,1
+LOC026,Accessories,10,2,1
+LOC026,Apparel,0,1,1
+LOC026,Apparel,1,2,2
+LOC026,Apparel,2,2,2
+LOC026,Apparel,4,1,1
+LOC026,Apparel,5,2,2
+LOC026,Apparel,7,1,2
+LOC026,Apparel,8,1,1
+LOC026,Apparel,10,3,2
+LOC026,Apparel,11,2,1
+LOC026,Apparel,12,1,1
+LOC026,Beauty,0,1,2
+LOC026,Beauty,1,1,2
+LOC026,Beauty,8,1,1
+LOC026,Beauty,10,2,1
+LOC026,Beauty,12,1,0
+LOC026,Books,0,2,1
+LOC026,Books,1,1,1
+LOC026,Books,2,1,2
+LOC026,Books,4,1,0
+LOC026,Electronics,1,1,1
+LOC026,Electronics,2,2,0
+LOC026,Electronics,3,2,3
+LOC026,Electronics,6,2,1
+LOC026,Electronics,8,1,1
+LOC026,Electronics,9,1,0
+LOC026,Electronics,10,3,4
+LOC026,Footwear,1,1,1
+LOC026,Footwear,3,3,1
+LOC026,Footwear,4,1,1
+LOC026,Footwear,5,1,1
+LOC026,Footwear,7,2,3
+LOC026,Footwear,8,1,2
+LOC026,Footwear,9,2,3
+LOC026,Footwear,10,1,2
+LOC026,Footwear,11,2,2
+LOC026,Home & Kitchen,0,1,2
+LOC026,Home & Kitchen,1,2,2
+LOC026,Home & Kitchen,2,1,1
+LOC026,Home & Kitchen,4,1,1
+LOC026,Home & Kitchen,5,2,1
+LOC026,Home & Kitchen,6,1,1
+LOC026,Home & Kitchen,7,2,2
+LOC026,Home & Kitchen,8,1,2
+LOC026,Home & Kitchen,10,1,1
+LOC026,Home & Kitchen,11,1,1
+LOC026,Home & Kitchen,12,2,2
+LOC026,Sports,7,1,1
+LOC026,Sports,8,1,1
+LOC026,Sports,9,1,1
+LOC026,Sports,11,1,1
+LOC026,Toys,2,1,0
+LOC026,Toys,3,3,3
+LOC026,Toys,4,1,2
+LOC026,Toys,5,1,0
+LOC026,Toys,6,2,3
+LOC026,Toys,8,1,0
+LOC026,Toys,9,1,1
+LOC026,Toys,10,3,3
+LOC026,Toys,12,1,0
+LOC027,Accessories,0,2,3
+LOC027,Accessories,1,1,0
+LOC027,Accessories,2,3,4
+LOC027,Accessories,3,2,1
+LOC027,Accessories,5,1,1
+LOC027,Accessories,6,1,1
+LOC027,Accessories,7,3,3
+LOC027,Accessories,8,1,1
+LOC027,Accessories,9,2,2
+LOC027,Accessories,10,2,3
+LOC027,Accessories,11,1,1
+LOC027,Accessories,12,2,2
+LOC027,Apparel,0,5,6
+LOC027,Apparel,1,2,2
+LOC027,Apparel,2,8,5
+LOC027,Apparel,3,7,10
+LOC027,Apparel,4,6,3
+LOC027,Apparel,5,4,4
+LOC027,Apparel,6,4,3
+LOC027,Apparel,7,3,3
+LOC027,Apparel,8,10,9
+LOC027,Apparel,9,2,3
+LOC027,Apparel,10,4,3
+LOC027,Apparel,11,5,5
+LOC027,Apparel,12,1,1
+LOC027,Beauty,0,2,2
+LOC027,Beauty,1,3,2
+LOC027,Beauty,2,2,2
+LOC027,Beauty,3,5,6
+LOC027,Beauty,4,1,1
+LOC027,Beauty,5,3,2
+LOC027,Beauty,6,3,3
+LOC027,Beauty,7,2,2
+LOC027,Beauty,8,1,1
+LOC027,Beauty,9,1,1
+LOC027,Beauty,10,4,3
+LOC027,Beauty,11,4,2
+LOC027,Beauty,12,1,2
+LOC027,Books,0,3,3
+LOC027,Books,1,1,0
+LOC027,Books,2,5,5
+LOC027,Books,4,3,3
+LOC027,Books,6,1,1
+LOC027,Books,7,1,1
+LOC027,Books,8,1,1
+LOC027,Books,11,1,0
+LOC027,Electronics,1,4,4
+LOC027,Electronics,2,1,2
+LOC027,Electronics,3,3,4
+LOC027,Electronics,4,3,3
+LOC027,Electronics,5,2,2
+LOC027,Electronics,6,1,0
+LOC027,Electronics,7,6,4
+LOC027,Electronics,8,1,1
+LOC027,Electronics,9,3,4
+LOC027,Electronics,10,1,2
+LOC027,Electronics,11,1,1
+LOC027,Electronics,12,1,2
+LOC027,Footwear,0,5,5
+LOC027,Footwear,1,5,4
+LOC027,Footwear,2,2,3
+LOC027,Footwear,3,2,1
+LOC027,Footwear,4,3,3
+LOC027,Footwear,5,4,2
+LOC027,Footwear,6,4,4
+LOC027,Footwear,7,5,5
+LOC027,Footwear,8,1,2
+LOC027,Footwear,9,3,3
+LOC027,Footwear,10,3,4
+LOC027,Footwear,11,4,5
+LOC027,Home & Kitchen,0,2,1
+LOC027,Home & Kitchen,1,1,1
+LOC027,Home & Kitchen,2,1,2
+LOC027,Home & Kitchen,3,2,3
+LOC027,Home & Kitchen,4,1,0
+LOC027,Home & Kitchen,5,3,4
+LOC027,Home & Kitchen,6,2,2
+LOC027,Home & Kitchen,7,5,7
+LOC027,Home & Kitchen,8,1,0
+LOC027,Home & Kitchen,9,3,3
+LOC027,Home & Kitchen,10,2,2
+LOC027,Home & Kitchen,11,1,0
+LOC027,Home & Kitchen,12,5,5
+LOC027,Sports,0,2,2
+LOC027,Sports,1,1,2
+LOC027,Sports,3,1,0
+LOC027,Sports,4,1,1
+LOC027,Sports,5,2,3
+LOC027,Sports,6,3,3
+LOC027,Sports,9,1,1
+LOC027,Sports,10,3,3
+LOC027,Sports,12,3,3
+LOC027,Toys,0,2,2
+LOC027,Toys,1,2,3
+LOC027,Toys,2,1,0
+LOC027,Toys,3,1,0
+LOC027,Toys,6,3,3
+LOC027,Toys,7,1,3
+LOC027,Toys,8,1,2
+LOC027,Toys,9,1,1
+LOC027,Toys,10,2,1
+LOC027,Toys,11,3,4
+LOC028,Accessories,0,4,5
+LOC028,Accessories,1,1,1
+LOC028,Accessories,2,1,0
+LOC028,Accessories,3,2,3
+LOC028,Accessories,4,2,2
+LOC028,Accessories,5,2,3
+LOC028,Accessories,6,1,1
+LOC028,Accessories,7,2,2
+LOC028,Accessories,11,3,3
+LOC028,Apparel,0,4,5
+LOC028,Apparel,1,4,5
+LOC028,Apparel,2,2,2
+LOC028,Apparel,3,4,3
+LOC028,Apparel,4,2,1
+LOC028,Apparel,5,5,5
+LOC028,Apparel,6,4,3
+LOC028,Apparel,7,6,4
+LOC028,Apparel,8,5,4
+LOC028,Apparel,9,3,3
+LOC028,Apparel,10,4,4
+LOC028,Apparel,11,4,5
+LOC028,Apparel,12,3,2
+LOC028,Beauty,1,4,5
+LOC028,Beauty,2,1,2
+LOC028,Beauty,4,2,2
+LOC028,Beauty,5,4,3
+LOC028,Beauty,6,6,4
+LOC028,Beauty,7,2,2
+LOC028,Beauty,8,3,3
+LOC028,Beauty,9,2,2
+LOC028,Beauty,11,2,3
+LOC028,Books,1,2,4
+LOC028,Books,2,2,3
+LOC028,Books,3,4,3
+LOC028,Books,4,1,1
+LOC028,Books,5,1,1
+LOC028,Books,9,4,3
+LOC028,Books,10,2,1
+LOC028,Electronics,0,3,5
+LOC028,Electronics,1,1,0
+LOC028,Electronics,2,1,1
+LOC028,Electronics,3,3,3
+LOC028,Electronics,6,1,2
+LOC028,Electronics,7,4,3
+LOC028,Electronics,8,3,4
+LOC028,Electronics,9,4,3
+LOC028,Electronics,10,4,4
+LOC028,Electronics,11,1,1
+LOC028,Electronics,12,2,4
+LOC028,Footwear,0,3,4
+LOC028,Footwear,1,3,5
+LOC028,Footwear,2,5,7
+LOC028,Footwear,3,1,1
+LOC028,Footwear,4,1,1
+LOC028,Footwear,5,2,2
+LOC028,Footwear,6,2,1
+LOC028,Footwear,7,2,1
+LOC028,Footwear,8,3,2
+LOC028,Footwear,9,1,0
+LOC028,Footwear,10,3,3
+LOC028,Footwear,11,1,0
+LOC028,Home & Kitchen,0,1,1
+LOC028,Home & Kitchen,1,2,3
+LOC028,Home & Kitchen,2,2,1
+LOC028,Home & Kitchen,3,2,2
+LOC028,Home & Kitchen,4,3,4
+LOC028,Home & Kitchen,5,2,2
+LOC028,Home & Kitchen,7,1,0
+LOC028,Home & Kitchen,8,5,4
+LOC028,Home & Kitchen,9,5,5
+LOC028,Home & Kitchen,10,1,1
+LOC028,Home & Kitchen,11,3,4
+LOC028,Sports,0,4,4
+LOC028,Sports,1,1,0
+LOC028,Sports,5,3,3
+LOC028,Sports,7,1,2
+LOC028,Sports,8,1,1
+LOC028,Sports,9,1,2
+LOC028,Toys,0,3,4
+LOC028,Toys,1,2,2
+LOC028,Toys,2,1,1
+LOC028,Toys,3,3,3
+LOC028,Toys,4,1,0
+LOC028,Toys,5,2,4
+LOC028,Toys,6,1,2
+LOC028,Toys,7,2,2
+LOC028,Toys,8,2,4
+LOC028,Toys,10,2,2
+LOC028,Toys,11,1,0
+LOC028,Toys,12,2,2
+LOC029,Accessories,8,1,0
+LOC029,Accessories,10,2,1
+LOC029,Accessories,11,1,1
+LOC029,Apparel,0,2,2
+LOC029,Apparel,2,2,2
+LOC029,Apparel,3,1,1
+LOC029,Apparel,5,1,1
+LOC029,Apparel,6,1,1
+LOC029,Apparel,7,1,2
+LOC029,Apparel,8,2,1
+LOC029,Apparel,9,1,1
+LOC029,Apparel,12,1,2
+LOC029,Beauty,4,2,2
+LOC029,Beauty,7,1,2
+LOC029,Beauty,9,1,2
+LOC029,Beauty,10,2,2
+LOC029,Beauty,12,1,1
+LOC029,Books,7,1,1
+LOC029,Books,8,1,1
+LOC029,Books,9,1,1
+LOC029,Electronics,1,1,1
+LOC029,Electronics,2,3,4
+LOC029,Electronics,4,1,1
+LOC029,Electronics,6,2,3
+LOC029,Electronics,9,1,0
+LOC029,Electronics,10,1,0
+LOC029,Footwear,7,1,1
+LOC029,Footwear,11,1,1
+LOC029,Footwear,12,1,1
+LOC029,Home & Kitchen,0,3,1
+LOC029,Home & Kitchen,1,1,0
+LOC029,Home & Kitchen,3,1,2
+LOC029,Home & Kitchen,4,2,2
+LOC029,Home & Kitchen,7,1,1
+LOC029,Home & Kitchen,9,4,4
+LOC029,Sports,4,1,2
+LOC029,Sports,5,1,1
+LOC029,Sports,6,1,1
+LOC029,Toys,0,1,2
+LOC029,Toys,4,3,1
+LOC029,Toys,10,1,1
+LOC029,Toys,12,1,2
+LOC030,Accessories,0,1,1
+LOC030,Accessories,1,2,1
+LOC030,Accessories,2,3,2
+LOC030,Accessories,3,3,3
+LOC030,Accessories,5,2,2
+LOC030,Accessories,7,3,3
+LOC030,Accessories,8,1,2
+LOC030,Accessories,9,1,1
+LOC030,Accessories,10,5,4
+LOC030,Apparel,1,6,10
+LOC030,Apparel,2,6,6
+LOC030,Apparel,3,2,2
+LOC030,Apparel,4,2,2
+LOC030,Apparel,5,2,3
+LOC030,Apparel,6,7,8
+LOC030,Apparel,7,6,5
+LOC030,Apparel,8,5,5
+LOC030,Apparel,9,1,0
+LOC030,Apparel,10,4,3
+LOC030,Apparel,11,6,6
+LOC030,Apparel,12,2,2
+LOC030,Beauty,0,3,3
+LOC030,Beauty,1,1,1
+LOC030,Beauty,3,1,1
+LOC030,Beauty,4,2,2
+LOC030,Beauty,5,1,2
+LOC030,Beauty,6,5,5
+LOC030,Beauty,7,2,3
+LOC030,Beauty,9,3,3
+LOC030,Beauty,10,5,7
+LOC030,Beauty,11,4,4
+LOC030,Beauty,12,2,1
+LOC030,Books,1,1,1
+LOC030,Books,2,1,2
+LOC030,Books,3,1,1
+LOC030,Books,5,1,0
+LOC030,Books,6,2,1
+LOC030,Books,7,2,2
+LOC030,Books,11,4,5
+LOC030,Books,12,1,2
+LOC030,Electronics,1,4,3
+LOC030,Electronics,3,2,2
+LOC030,Electronics,5,2,1
+LOC030,Electronics,6,4,4
+LOC030,Electronics,7,2,2
+LOC030,Electronics,8,4,3
+LOC030,Electronics,9,3,4
+LOC030,Electronics,10,5,2
+LOC030,Electronics,11,3,2
+LOC030,Electronics,12,3,2
+LOC030,Footwear,0,2,2
+LOC030,Footwear,1,2,2
+LOC030,Footwear,2,1,2
+LOC030,Footwear,3,2,1
+LOC030,Footwear,4,1,2
+LOC030,Footwear,5,3,4
+LOC030,Footwear,6,6,5
+LOC030,Footwear,7,2,2
+LOC030,Footwear,8,3,3
+LOC030,Footwear,9,3,3
+LOC030,Footwear,10,2,1
+LOC030,Footwear,11,3,3
+LOC030,Home & Kitchen,0,2,2
+LOC030,Home & Kitchen,1,4,3
+LOC030,Home & Kitchen,2,2,3
+LOC030,Home & Kitchen,3,3,3
+LOC030,Home & Kitchen,4,5,5
+LOC030,Home & Kitchen,5,4,4
+LOC030,Home & Kitchen,6,2,2
+LOC030,Home & Kitchen,7,2,0
+LOC030,Home & Kitchen,9,1,1
+LOC030,Home & Kitchen,10,3,4
+LOC030,Home & Kitchen,11,3,4
+LOC030,Home & Kitchen,12,3,2
+LOC030,Sports,1,1,1
+LOC030,Sports,2,3,4
+LOC030,Sports,3,3,2
+LOC030,Sports,5,2,2
+LOC030,Sports,6,2,2
+LOC030,Sports,7,1,1
+LOC030,Sports,9,1,1
+LOC030,Sports,10,2,2
+LOC030,Sports,11,1,2
+LOC030,Sports,12,1,1
+LOC030,Toys,2,1,1
+LOC030,Toys,3,1,1
+LOC030,Toys,4,1,1
+LOC030,Toys,6,1,0
+LOC030,Toys,7,1,1
+LOC030,Toys,8,2,2
+LOC030,Toys,9,1,2
+LOC030,Toys,11,3,3
+LOC031,Accessories,4,1,1
+LOC031,Accessories,5,1,0
+LOC031,Accessories,7,1,1
+LOC031,Apparel,0,2,1
+LOC031,Apparel,2,2,3
+LOC031,Apparel,5,2,2
+LOC031,Apparel,6,1,1
+LOC031,Apparel,8,3,2
+LOC031,Apparel,10,3,2
+LOC031,Apparel,11,4,3
+LOC031,Apparel,12,1,2
+LOC031,Beauty,7,1,1
+LOC031,Beauty,8,1,2
+LOC031,Books,0,1,1
+LOC031,Books,10,1,1
+LOC031,Books,12,1,2
+LOC031,Electronics,0,1,0
+LOC031,Electronics,4,3,5
+LOC031,Electronics,6,1,0
+LOC031,Electronics,9,1,1
+LOC031,Footwear,0,2,2
+LOC031,Footwear,1,2,1
+LOC031,Footwear,3,1,0
+LOC031,Footwear,6,2,2
+LOC031,Footwear,7,2,2
+LOC031,Footwear,9,1,1
+LOC031,Footwear,11,1,1
+LOC031,Footwear,12,2,1
+LOC031,Home & Kitchen,1,2,2
+LOC031,Home & Kitchen,2,1,0
+LOC031,Home & Kitchen,3,3,4
+LOC031,Home & Kitchen,8,1,0
+LOC031,Sports,2,1,1
+LOC031,Sports,3,1,1
+LOC031,Sports,4,1,1
+LOC031,Sports,7,2,2
+LOC031,Sports,11,1,1
+LOC031,Toys,5,1,1
+LOC031,Toys,6,2,0
+LOC032,Accessories,0,4,3
+LOC032,Accessories,1,2,2
+LOC032,Accessories,2,2,3
+LOC032,Accessories,3,2,1
+LOC032,Accessories,4,1,1
+LOC032,Accessories,5,1,2
+LOC032,Accessories,6,1,1
+LOC032,Accessories,7,2,1
+LOC032,Accessories,9,1,0
+LOC032,Accessories,10,1,1
+LOC032,Accessories,11,5,5
+LOC032,Apparel,0,4,3
+LOC032,Apparel,1,3,3
+LOC032,Apparel,2,4,4
+LOC032,Apparel,3,8,8
+LOC032,Apparel,4,6,4
+LOC032,Apparel,5,4,5
+LOC032,Apparel,6,3,4
+LOC032,Apparel,7,3,2
+LOC032,Apparel,8,1,1
+LOC032,Apparel,9,5,6
+LOC032,Apparel,10,1,1
+LOC032,Apparel,11,4,4
+LOC032,Apparel,12,7,7
+LOC032,Beauty,1,1,1
+LOC032,Beauty,2,2,3
+LOC032,Beauty,4,3,2
+LOC032,Beauty,6,1,2
+LOC032,Beauty,7,3,4
+LOC032,Beauty,8,2,1
+LOC032,Beauty,9,4,6
+LOC032,Beauty,10,1,1
+LOC032,Beauty,11,1,1
+LOC032,Books,0,1,1
+LOC032,Books,1,2,2
+LOC032,Books,3,1,0
+LOC032,Books,6,2,2
+LOC032,Books,7,1,2
+LOC032,Books,8,1,1
+LOC032,Books,9,2,1
+LOC032,Books,10,1,1
+LOC032,Books,12,1,1
+LOC032,Electronics,0,1,1
+LOC032,Electronics,1,1,2
+LOC032,Electronics,3,2,2
+LOC032,Electronics,4,1,2
+LOC032,Electronics,5,2,2
+LOC032,Electronics,6,1,1
+LOC032,Electronics,7,2,2
+LOC032,Electronics,8,1,3
+LOC032,Electronics,9,1,1
+LOC032,Electronics,11,5,3
+LOC032,Electronics,12,3,4
+LOC032,Footwear,0,3,4
+LOC032,Footwear,2,3,4
+LOC032,Footwear,3,1,1
+LOC032,Footwear,4,5,3
+LOC032,Footwear,5,1,2
+LOC032,Footwear,6,4,4
+LOC032,Footwear,7,4,4
+LOC032,Footwear,8,2,3
+LOC032,Footwear,9,2,1
+LOC032,Footwear,10,3,3
+LOC032,Footwear,11,2,2
+LOC032,Footwear,12,2,3
+LOC032,Home & Kitchen,0,1,1
+LOC032,Home & Kitchen,1,1,2
+LOC032,Home & Kitchen,2,2,2
+LOC032,Home & Kitchen,3,3,3
+LOC032,Home & Kitchen,4,3,4
+LOC032,Home & Kitchen,5,3,4
+LOC032,Home & Kitchen,7,7,6
+LOC032,Home & Kitchen,8,4,5
+LOC032,Home & Kitchen,9,5,6
+LOC032,Home & Kitchen,10,3,2
+LOC032,Home & Kitchen,11,4,4
+LOC032,Sports,0,2,3
+LOC032,Sports,1,1,1
+LOC032,Sports,2,2,3
+LOC032,Sports,3,1,0
+LOC032,Sports,4,2,3
+LOC032,Sports,5,2,3
+LOC032,Sports,6,1,2
+LOC032,Sports,7,1,1
+LOC032,Sports,8,3,2
+LOC032,Sports,11,2,3
+LOC032,Sports,12,2,2
+LOC032,Toys,0,4,5
+LOC032,Toys,1,2,2
+LOC032,Toys,2,5,4
+LOC032,Toys,3,2,4
+LOC032,Toys,4,1,1
+LOC032,Toys,5,2,3
+LOC032,Toys,7,1,2
+LOC032,Toys,9,1,0
+LOC032,Toys,10,2,3
+LOC032,Toys,11,1,1
+LOC032,Toys,12,1,0
+LOC033,Accessories,0,1,1
+LOC033,Accessories,2,2,2
+LOC033,Accessories,3,2,2
+LOC033,Accessories,5,3,4
+LOC033,Accessories,6,1,0
+LOC033,Accessories,7,1,2
+LOC033,Accessories,8,2,3
+LOC033,Accessories,10,4,5
+LOC033,Accessories,11,2,2
+LOC033,Accessories,12,2,2
+LOC033,Apparel,0,1,0
+LOC033,Apparel,1,8,8
+LOC033,Apparel,2,1,1
+LOC033,Apparel,3,5,7
+LOC033,Apparel,4,4,4
+LOC033,Apparel,5,3,3
+LOC033,Apparel,6,7,7
+LOC033,Apparel,7,2,3
+LOC033,Apparel,8,6,6
+LOC033,Apparel,9,5,5
+LOC033,Apparel,10,3,2
+LOC033,Apparel,11,3,1
+LOC033,Apparel,12,3,4
+LOC033,Beauty,0,2,1
+LOC033,Beauty,1,4,5
+LOC033,Beauty,2,2,2
+LOC033,Beauty,3,4,4
+LOC033,Beauty,4,5,4
+LOC033,Beauty,5,2,2
+LOC033,Beauty,6,2,2
+LOC033,Beauty,7,2,1
+LOC033,Beauty,9,2,2
+LOC033,Beauty,10,3,3
+LOC033,Beauty,11,5,2
+LOC033,Beauty,12,1,1
+LOC033,Books,0,3,3
+LOC033,Books,1,1,1
+LOC033,Books,4,3,3
+LOC033,Books,5,1,1
+LOC033,Books,7,3,4
+LOC033,Books,8,1,2
+LOC033,Books,10,2,3
+LOC033,Books,11,3,3
+LOC033,Books,12,2,2
+LOC033,Electronics,0,1,1
+LOC033,Electronics,1,4,4
+LOC033,Electronics,2,2,1
+LOC033,Electronics,3,5,6
+LOC033,Electronics,4,3,3
+LOC033,Electronics,5,4,5
+LOC033,Electronics,6,5,4
+LOC033,Electronics,8,1,0
+LOC033,Electronics,9,4,4
+LOC033,Electronics,10,2,3
+LOC033,Electronics,12,3,2
+LOC033,Footwear,0,3,3
+LOC033,Footwear,1,2,2
+LOC033,Footwear,2,5,5
+LOC033,Footwear,3,5,6
+LOC033,Footwear,4,3,3
+LOC033,Footwear,5,4,4
+LOC033,Footwear,6,2,3
+LOC033,Footwear,7,3,3
+LOC033,Footwear,8,1,1
+LOC033,Footwear,9,4,4
+LOC033,Footwear,10,5,4
+LOC033,Footwear,11,2,1
+LOC033,Footwear,12,1,1
+LOC033,Home & Kitchen,0,1,2
+LOC033,Home & Kitchen,1,1,1
+LOC033,Home & Kitchen,2,4,4
+LOC033,Home & Kitchen,3,3,3
+LOC033,Home & Kitchen,4,2,2
+LOC033,Home & Kitchen,5,2,2
+LOC033,Home & Kitchen,6,4,3
+LOC033,Home & Kitchen,7,2,2
+LOC033,Home & Kitchen,8,1,2
+LOC033,Home & Kitchen,9,3,2
+LOC033,Home & Kitchen,10,5,6
+LOC033,Home & Kitchen,11,2,3
+LOC033,Home & Kitchen,12,2,4
+LOC033,Sports,1,1,1
+LOC033,Sports,2,1,0
+LOC033,Sports,3,1,0
+LOC033,Sports,5,1,1
+LOC033,Sports,7,3,1
+LOC033,Sports,8,2,2
+LOC033,Sports,10,2,2
+LOC033,Sports,11,1,1
+LOC033,Sports,12,3,3
+LOC033,Toys,0,3,4
+LOC033,Toys,1,1,1
+LOC033,Toys,2,3,4
+LOC033,Toys,3,4,4
+LOC033,Toys,4,1,1
+LOC033,Toys,6,1,1
+LOC033,Toys,7,3,3
+LOC033,Toys,8,3,3
+LOC033,Toys,9,2,1
+LOC033,Toys,10,2,1
+LOC033,Toys,11,1,0
+LOC033,Toys,12,2,2
+LOC034,Accessories,1,1,1
+LOC034,Accessories,2,1,1
+LOC034,Accessories,4,1,1
+LOC034,Accessories,5,1,1
+LOC034,Accessories,9,1,2
+LOC034,Accessories,10,3,4
+LOC034,Accessories,11,2,2
+LOC034,Apparel,0,1,0
+LOC034,Apparel,4,1,1
+LOC034,Apparel,5,1,0
+LOC034,Apparel,7,3,3
+LOC034,Apparel,8,1,1
+LOC034,Apparel,10,1,2
+LOC034,Apparel,11,2,3
+LOC034,Apparel,12,2,2
+LOC034,Beauty,2,2,2
+LOC034,Beauty,5,1,0
+LOC034,Beauty,8,2,1
+LOC034,Beauty,10,1,1
+LOC034,Beauty,11,1,0
+LOC034,Beauty,12,2,2
+LOC034,Books,3,1,0
+LOC034,Books,5,1,2
+LOC034,Books,12,1,0
+LOC034,Electronics,2,2,3
+LOC034,Electronics,6,1,2
+LOC034,Electronics,8,2,2
+LOC034,Electronics,9,1,1
+LOC034,Electronics,10,1,0
+LOC034,Electronics,11,1,2
+LOC034,Footwear,0,1,1
+LOC034,Footwear,1,1,1
+LOC034,Footwear,2,1,1
+LOC034,Footwear,3,2,3
+LOC034,Footwear,7,1,0
+LOC034,Footwear,8,1,0
+LOC034,Footwear,11,1,1
+LOC034,Footwear,12,1,0
+LOC034,Home & Kitchen,0,1,1
+LOC034,Home & Kitchen,3,1,1
+LOC034,Home & Kitchen,4,1,0
+LOC034,Home & Kitchen,6,1,2
+LOC034,Home & Kitchen,7,1,1
+LOC034,Home & Kitchen,9,1,2
+LOC034,Home & Kitchen,11,2,3
+LOC034,Sports,2,1,1
+LOC034,Sports,5,1,1
+LOC034,Sports,7,1,2
+LOC034,Sports,8,2,1
+LOC034,Sports,10,1,1
+LOC034,Toys,1,1,1
+LOC034,Toys,3,1,1
+LOC034,Toys,4,2,1
+LOC034,Toys,6,2,2
+LOC034,Toys,8,1,2
+LOC034,Toys,9,1,0
+LOC034,Toys,11,1,1
+LOC034,Toys,12,1,2
+LOC035,Accessories,0,1,2
+LOC035,Accessories,1,2,2
+LOC035,Accessories,2,1,1
+LOC035,Accessories,3,1,1
+LOC035,Accessories,5,1,1
+LOC035,Accessories,6,1,1
+LOC035,Accessories,8,2,2
+LOC035,Accessories,11,1,0
+LOC035,Apparel,0,2,2
+LOC035,Apparel,1,2,1
+LOC035,Apparel,2,3,2
+LOC035,Apparel,3,1,1
+LOC035,Apparel,4,2,1
+LOC035,Apparel,5,3,4
+LOC035,Apparel,6,1,1
+LOC035,Apparel,7,1,2
+LOC035,Apparel,8,4,3
+LOC035,Apparel,9,6,5
+LOC035,Apparel,10,2,2
+LOC035,Apparel,11,2,2
+LOC035,Apparel,12,1,2
+LOC035,Beauty,0,1,3
+LOC035,Beauty,1,2,2
+LOC035,Beauty,2,2,2
+LOC035,Beauty,3,2,2
+LOC035,Beauty,4,3,3
+LOC035,Beauty,5,1,0
+LOC035,Beauty,7,3,2
+LOC035,Beauty,8,1,1
+LOC035,Beauty,10,1,2
+LOC035,Beauty,11,2,2
+LOC035,Beauty,12,1,2
+LOC035,Books,3,1,1
+LOC035,Books,5,1,0
+LOC035,Books,7,3,5
+LOC035,Books,8,2,2
+LOC035,Books,9,2,1
+LOC035,Books,11,1,1
+LOC035,Books,12,1,1
+LOC035,Electronics,0,4,5
+LOC035,Electronics,1,2,2
+LOC035,Electronics,2,1,2
+LOC035,Electronics,3,1,1
+LOC035,Electronics,4,3,1
+LOC035,Electronics,5,2,2
+LOC035,Electronics,6,1,0
+LOC035,Electronics,11,1,1
+LOC035,Electronics,12,2,2
+LOC035,Footwear,0,1,1
+LOC035,Footwear,1,1,2
+LOC035,Footwear,2,1,0
+LOC035,Footwear,3,2,2
+LOC035,Footwear,6,3,5
+LOC035,Footwear,7,1,1
+LOC035,Footwear,8,3,1
+LOC035,Footwear,9,3,3
+LOC035,Footwear,10,1,1
+LOC035,Footwear,12,2,3
+LOC035,Home & Kitchen,0,2,3
+LOC035,Home & Kitchen,1,3,3
+LOC035,Home & Kitchen,2,3,1
+LOC035,Home & Kitchen,3,2,0
+LOC035,Home & Kitchen,4,2,2
+LOC035,Home & Kitchen,5,1,2
+LOC035,Home & Kitchen,7,1,1
+LOC035,Home & Kitchen,8,1,2
+LOC035,Home & Kitchen,10,3,4
+LOC035,Home & Kitchen,12,1,1
+LOC035,Sports,0,1,0
+LOC035,Sports,1,2,2
+LOC035,Sports,2,1,1
+LOC035,Sports,3,1,1
+LOC035,Sports,6,1,1
+LOC035,Sports,7,1,1
+LOC035,Sports,8,1,1
+LOC035,Sports,10,1,2
+LOC035,Sports,11,1,1
+LOC035,Sports,12,1,1
+LOC035,Toys,1,1,0
+LOC035,Toys,3,2,2
+LOC035,Toys,4,4,4
+LOC035,Toys,8,1,1
+LOC035,Toys,9,1,1
+LOC035,Toys,10,1,1
+LOC036,Accessories,1,1,1
+LOC036,Accessories,3,1,1
+LOC036,Accessories,4,1,1
+LOC036,Accessories,8,1,1
+LOC036,Accessories,9,1,0
+LOC036,Apparel,1,4,4
+LOC036,Apparel,2,1,1
+LOC036,Apparel,4,1,1
+LOC036,Apparel,5,2,3
+LOC036,Apparel,6,1,0
+LOC036,Apparel,7,1,1
+LOC036,Apparel,8,2,1
+LOC036,Apparel,10,1,1
+LOC036,Apparel,11,2,2
+LOC036,Beauty,0,1,0
+LOC036,Beauty,2,1,1
+LOC036,Beauty,5,5,5
+LOC036,Beauty,7,1,1
+LOC036,Books,4,1,2
+LOC036,Books,9,1,2
+LOC036,Books,11,1,1
+LOC036,Electronics,2,1,1
+LOC036,Electronics,3,2,3
+LOC036,Electronics,6,2,2
+LOC036,Electronics,7,1,1
+LOC036,Electronics,8,2,3
+LOC036,Electronics,9,1,1
+LOC036,Electronics,12,1,1
+LOC036,Footwear,4,1,1
+LOC036,Footwear,5,1,1
+LOC036,Footwear,8,1,0
+LOC036,Footwear,10,2,2
+LOC036,Footwear,11,2,2
+LOC036,Footwear,12,3,3
+LOC036,Home & Kitchen,2,1,1
+LOC036,Home & Kitchen,3,1,1
+LOC036,Home & Kitchen,4,1,1
+LOC036,Home & Kitchen,5,1,1
+LOC036,Home & Kitchen,7,1,1
+LOC036,Home & Kitchen,10,1,1
+LOC036,Home & Kitchen,11,1,0
+LOC036,Sports,3,2,2
+LOC036,Sports,6,1,0
+LOC036,Sports,7,1,0
+LOC036,Sports,9,1,1
+LOC036,Sports,10,1,1
+LOC036,Toys,1,2,2
+LOC036,Toys,4,1,2
+LOC036,Toys,8,2,3
+LOC037,Accessories,0,1,1
+LOC037,Accessories,1,3,2
+LOC037,Accessories,2,1,2
+LOC037,Accessories,4,2,2
+LOC037,Accessories,5,1,0
+LOC037,Accessories,6,1,1
+LOC037,Accessories,7,2,2
+LOC037,Accessories,8,3,4
+LOC037,Accessories,9,2,2
+LOC037,Accessories,11,1,0
+LOC037,Apparel,0,4,5
+LOC037,Apparel,1,1,0
+LOC037,Apparel,2,5,5
+LOC037,Apparel,3,3,4
+LOC037,Apparel,4,4,5
+LOC037,Apparel,5,2,1
+LOC037,Apparel,6,3,3
+LOC037,Apparel,7,1,2
+LOC037,Apparel,8,2,3
+LOC037,Apparel,9,1,1
+LOC037,Apparel,11,3,3
+LOC037,Apparel,12,2,3
+LOC037,Beauty,0,3,2
+LOC037,Beauty,2,1,1
+LOC037,Beauty,3,1,2
+LOC037,Beauty,4,2,2
+LOC037,Beauty,6,2,2
+LOC037,Beauty,7,3,2
+LOC037,Beauty,8,1,1
+LOC037,Beauty,10,3,4
+LOC037,Beauty,11,1,2
+LOC037,Beauty,12,2,3
+LOC037,Books,1,2,2
+LOC037,Books,2,1,2
+LOC037,Books,6,1,1
+LOC037,Books,7,2,1
+LOC037,Books,10,1,1
+LOC037,Books,11,1,0
+LOC037,Electronics,0,1,1
+LOC037,Electronics,1,4,6
+LOC037,Electronics,2,3,2
+LOC037,Electronics,3,3,3
+LOC037,Electronics,4,3,4
+LOC037,Electronics,5,1,1
+LOC037,Electronics,8,1,1
+LOC037,Electronics,9,2,2
+LOC037,Electronics,10,2,3
+LOC037,Electronics,11,2,2
+LOC037,Electronics,12,1,1
+LOC037,Footwear,0,1,1
+LOC037,Footwear,1,4,2
+LOC037,Footwear,2,1,1
+LOC037,Footwear,3,3,4
+LOC037,Footwear,5,1,1
+LOC037,Footwear,6,1,1
+LOC037,Footwear,7,3,4
+LOC037,Footwear,8,1,1
+LOC037,Footwear,9,6,6
+LOC037,Footwear,10,3,4
+LOC037,Footwear,11,3,2
+LOC037,Footwear,12,3,4
+LOC037,Home & Kitchen,0,1,1
+LOC037,Home & Kitchen,1,2,4
+LOC037,Home & Kitchen,2,1,2
+LOC037,Home & Kitchen,4,2,1
+LOC037,Home & Kitchen,5,2,1
+LOC037,Home & Kitchen,6,4,5
+LOC037,Home & Kitchen,7,1,0
+LOC037,Home & Kitchen,8,1,0
+LOC037,Home & Kitchen,9,2,1
+LOC037,Home & Kitchen,10,1,1
+LOC037,Home & Kitchen,11,1,2
+LOC037,Home & Kitchen,12,2,3
+LOC037,Sports,1,1,2
+LOC037,Sports,2,1,1
+LOC037,Sports,3,2,2
+LOC037,Sports,6,1,1
+LOC037,Sports,8,1,2
+LOC037,Sports,12,2,2
+LOC037,Toys,0,1,1
+LOC037,Toys,1,1,1
+LOC037,Toys,2,2,2
+LOC037,Toys,3,1,2
+LOC037,Toys,4,3,3
+LOC037,Toys,5,3,3
+LOC037,Toys,7,1,1
+LOC037,Toys,8,2,1
+LOC037,Toys,10,3,2
+LOC037,Toys,11,3,4
+LOC037,Toys,12,2,2
+LOC038,Accessories,0,2,2
+LOC038,Accessories,1,4,5
+LOC038,Accessories,2,3,4
+LOC038,Accessories,3,2,1
+LOC038,Accessories,4,1,2
+LOC038,Accessories,5,2,2
+LOC038,Accessories,7,2,2
+LOC038,Accessories,8,2,2
+LOC038,Accessories,9,2,0
+LOC038,Accessories,10,4,4
+LOC038,Accessories,11,1,0
+LOC038,Accessories,12,3,4
+LOC038,Apparel,0,6,6
+LOC038,Apparel,1,7,6
+LOC038,Apparel,2,3,5
+LOC038,Apparel,3,4,3
+LOC038,Apparel,4,4,2
+LOC038,Apparel,5,7,6
+LOC038,Apparel,6,12,11
+LOC038,Apparel,7,6,8
+LOC038,Apparel,8,7,4
+LOC038,Apparel,9,6,7
+LOC038,Apparel,10,4,4
+LOC038,Apparel,11,4,6
+LOC038,Apparel,12,5,4
+LOC038,Beauty,0,2,2
+LOC038,Beauty,1,1,1
+LOC038,Beauty,2,1,1
+LOC038,Beauty,3,3,3
+LOC038,Beauty,5,2,2
+LOC038,Beauty,6,1,0
+LOC038,Beauty,7,1,1
+LOC038,Beauty,8,1,2
+LOC038,Beauty,10,3,2
+LOC038,Beauty,11,2,3
+LOC038,Beauty,12,4,4
+LOC038,Books,0,1,1
+LOC038,Books,1,2,1
+LOC038,Books,2,1,1
+LOC038,Books,3,2,2
+LOC038,Books,4,1,1
+LOC038,Books,5,1,1
+LOC038,Books,6,2,2
+LOC038,Books,7,1,1
+LOC038,Books,8,1,2
+LOC038,Books,11,1,1
+LOC038,Books,12,1,1
+LOC038,Electronics,0,1,1
+LOC038,Electronics,1,3,3
+LOC038,Electronics,2,1,1
+LOC038,Electronics,3,2,3
+LOC038,Electronics,5,1,1
+LOC038,Electronics,6,3,5
+LOC038,Electronics,7,3,4
+LOC038,Electronics,8,1,1
+LOC038,Electronics,9,3,4
+LOC038,Electronics,10,3,4
+LOC038,Electronics,11,1,0
+LOC038,Electronics,12,5,7
+LOC038,Footwear,0,3,4
+LOC038,Footwear,1,2,2
+LOC038,Footwear,3,3,2
+LOC038,Footwear,4,3,2
+LOC038,Footwear,6,1,1
+LOC038,Footwear,7,4,0
+LOC038,Footwear,8,3,2
+LOC038,Footwear,9,4,3
+LOC038,Footwear,10,1,2
+LOC038,Footwear,12,2,2
+LOC038,Home & Kitchen,0,3,2
+LOC038,Home & Kitchen,1,4,6
+LOC038,Home & Kitchen,2,2,3
+LOC038,Home & Kitchen,3,1,1
+LOC038,Home & Kitchen,4,3,2
+LOC038,Home & Kitchen,5,3,4
+LOC038,Home & Kitchen,6,6,7
+LOC038,Home & Kitchen,7,5,7
+LOC038,Home & Kitchen,8,2,2
+LOC038,Home & Kitchen,9,2,1
+LOC038,Home & Kitchen,10,2,4
+LOC038,Home & Kitchen,11,3,3
+LOC038,Home & Kitchen,12,4,3
+LOC038,Sports,2,3,2
+LOC038,Sports,3,1,0
+LOC038,Sports,4,1,2
+LOC038,Sports,5,1,2
+LOC038,Sports,6,1,1
+LOC038,Sports,7,4,5
+LOC038,Sports,8,3,3
+LOC038,Sports,9,1,0
+LOC038,Sports,11,2,1
+LOC038,Sports,12,1,1
+LOC038,Toys,0,2,1
+LOC038,Toys,1,3,3
+LOC038,Toys,2,2,1
+LOC038,Toys,3,1,1
+LOC038,Toys,4,1,1
+LOC038,Toys,5,3,4
+LOC038,Toys,6,1,1
+LOC038,Toys,7,3,3
+LOC038,Toys,8,1,1
+LOC038,Toys,9,7,7
+LOC038,Toys,10,3,4
+LOC038,Toys,11,3,4
+LOC038,Toys,12,1,2
+LOC039,Accessories,0,1,1
+LOC039,Accessories,1,1,0
+LOC039,Accessories,8,1,0
+LOC039,Accessories,9,1,1
+LOC039,Accessories,10,1,2
+LOC039,Accessories,11,1,1
+LOC039,Apparel,2,1,2
+LOC039,Apparel,3,1,1
+LOC039,Apparel,4,1,1
+LOC039,Apparel,5,3,3
+LOC039,Apparel,6,2,2
+LOC039,Apparel,7,1,1
+LOC039,Apparel,8,1,2
+LOC039,Apparel,9,1,1
+LOC039,Apparel,11,2,1
+LOC039,Apparel,12,1,2
+LOC039,Beauty,3,1,2
+LOC039,Beauty,4,1,2
+LOC039,Beauty,6,1,1
+LOC039,Beauty,8,1,0
+LOC039,Beauty,9,1,1
+LOC039,Books,1,1,1
+LOC039,Books,7,1,1
+LOC039,Books,8,1,2
+LOC039,Books,10,2,1
+LOC039,Books,11,1,1
+LOC039,Electronics,4,3,3
+LOC039,Electronics,6,1,1
+LOC039,Electronics,7,1,0
+LOC039,Electronics,9,1,1
+LOC039,Electronics,12,1,1
+LOC039,Footwear,3,1,3
+LOC039,Footwear,5,1,1
+LOC039,Footwear,6,1,2
+LOC039,Footwear,10,1,2
+LOC039,Footwear,12,1,1
+LOC039,Home & Kitchen,1,3,2
+LOC039,Home & Kitchen,4,1,1
+LOC039,Home & Kitchen,5,1,2
+LOC039,Home & Kitchen,6,1,0
+LOC039,Home & Kitchen,8,1,0
+LOC039,Home & Kitchen,10,1,0
+LOC039,Home & Kitchen,11,2,1
+LOC039,Home & Kitchen,12,2,2
+LOC039,Sports,1,1,0
+LOC039,Sports,2,1,1
+LOC039,Sports,10,2,1
+LOC039,Toys,4,2,2
+LOC039,Toys,5,1,1
+LOC039,Toys,9,1,2
+LOC039,Toys,12,1,1
+LOC040,Accessories,0,1,0
+LOC040,Accessories,1,2,2
+LOC040,Accessories,2,2,2
+LOC040,Accessories,3,1,1
+LOC040,Accessories,4,3,4
+LOC040,Accessories,6,1,1
+LOC040,Accessories,8,1,1
+LOC040,Accessories,9,1,1
+LOC040,Accessories,11,1,1
+LOC040,Apparel,0,1,1
+LOC040,Apparel,1,1,2
+LOC040,Apparel,2,3,3
+LOC040,Apparel,3,3,4
+LOC040,Apparel,5,1,1
+LOC040,Apparel,6,3,2
+LOC040,Apparel,7,1,1
+LOC040,Apparel,8,3,3
+LOC040,Apparel,10,2,2
+LOC040,Apparel,11,4,3
+LOC040,Apparel,12,5,5
+LOC040,Beauty,0,4,4
+LOC040,Beauty,3,1,1
+LOC040,Beauty,5,2,1
+LOC040,Beauty,6,1,0
+LOC040,Beauty,7,1,0
+LOC040,Beauty,11,2,1
+LOC040,Beauty,12,2,1
+LOC040,Books,0,2,1
+LOC040,Books,1,1,1
+LOC040,Books,3,1,2
+LOC040,Books,6,1,1
+LOC040,Books,7,2,4
+LOC040,Books,8,1,1
+LOC040,Books,10,2,1
+LOC040,Books,11,1,1
+LOC040,Electronics,1,1,2
+LOC040,Electronics,2,2,3
+LOC040,Electronics,3,1,1
+LOC040,Electronics,4,1,1
+LOC040,Electronics,6,2,2
+LOC040,Electronics,9,4,5
+LOC040,Electronics,10,3,2
+LOC040,Electronics,11,1,2
+LOC040,Electronics,12,1,1
+LOC040,Footwear,0,2,2
+LOC040,Footwear,1,1,1
+LOC040,Footwear,2,1,2
+LOC040,Footwear,7,3,2
+LOC040,Footwear,8,3,3
+LOC040,Footwear,9,2,2
+LOC040,Footwear,10,1,1
+LOC040,Footwear,11,2,3
+LOC040,Footwear,12,1,2
+LOC040,Home & Kitchen,0,1,0
+LOC040,Home & Kitchen,1,2,2
+LOC040,Home & Kitchen,2,2,1
+LOC040,Home & Kitchen,3,1,1
+LOC040,Home & Kitchen,5,4,4
+LOC040,Home & Kitchen,6,1,1
+LOC040,Home & Kitchen,7,1,1
+LOC040,Home & Kitchen,8,1,0
+LOC040,Home & Kitchen,10,2,2
+LOC040,Home & Kitchen,11,2,2
+LOC040,Home & Kitchen,12,1,2
+LOC040,Sports,1,1,1
+LOC040,Sports,2,2,1
+LOC040,Sports,8,1,1
+LOC040,Sports,10,1,0
+LOC040,Toys,0,2,2
+LOC040,Toys,2,2,1
+LOC040,Toys,3,2,2
+LOC040,Toys,4,1,1
+LOC040,Toys,5,2,2
+LOC040,Toys,6,2,2
+LOC040,Toys,9,1,1
+LOC040,Toys,12,2,4

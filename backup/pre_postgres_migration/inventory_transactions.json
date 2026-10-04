@@ -1,0 +1,74 @@
+[
+  {
+    "id": "tx-1791043142005",
+    "sku": "SKU-AUD-801",
+    "hub_id": "hub-sea-01",
+    "quantity_delta": 5,
+    "from_state": "IN_TRANSIT",
+    "to_state": "AVAILABLE_SELLABLE",
+    "reason": "TRANSFER_RECEIVED",
+    "reference_id": "TR-2026-4182",
+    "actor": "David Kim",
+    "timestamp": "2026-10-03T21:29:02.005825"
+  },
+  {
+    "id": "tx-1791043141985",
+    "sku": "SKU-AUD-801",
+    "hub_id": "hub-tac-04",
+    "quantity_delta": -5,
+    "from_state": "SOURCE_HUB",
+    "to_state": "IN_TRANSIT",
+    "reason": "TRANSFER_DISPATCHED",
+    "reference_id": "TR-2026-4182",
+    "actor": "David Kim",
+    "timestamp": "2026-10-03T21:29:01.985183"
+  },
+  {
+    "id": "tx-1791043141966",
+    "sku": "SKU-AUD-801",
+    "hub_id": "hub-sea-01",
+    "quantity_delta": -1,
+    "from_state": "RESERVED",
+    "to_state": "FULFILLED_CUSTOMER",
+    "reason": "ORDER_FULFILLED",
+    "reference_id": "ORD-LIVE-8821",
+    "actor": "Order Fulfillment Agent",
+    "timestamp": "2026-10-03T21:29:01.966621"
+  },
+  {
+    "id": "tx-1791043141946",
+    "sku": "SKU-AUD-801",
+    "hub_id": "hub-sea-01",
+    "quantity_delta": -1,
+    "from_state": "AVAILABLE_SELLABLE",
+    "to_state": "RESERVED",
+    "reason": "ORDER_RESERVED",
+    "reference_id": "ORD-LIVE-8821",
+    "actor": "Order Fulfillment Agent",
+    "timestamp": "2026-10-03T21:29:01.946285"
+  },
+  {
+    "id": "tx-1791043141912",
+    "sku": "SKU-AUD-801",
+    "hub_id": "hub-sea-01",
+    "quantity_delta": 1,
+    "from_state": "PENDING_QA",
+    "to_state": "AVAILABLE_SELLABLE",
+    "reason": "RETURN_RESTOCK",
+    "reference_id": "RMA-2026-3091",
+    "actor": "Marcus Vance",
+    "timestamp": "2026-10-03T21:29:01.912845"
+  },
+  {
+    "id": "tx-1791043141807",
+    "sku": "SKU-AUD-801",
+    "hub_id": "hub-sea-01",
+    "quantity_delta": 1,
+    "from_state": "CUSTOMER",
+    "to_state": "PENDING_QA",
+    "reason": "RETURN_REGISTERED",
+    "reference_id": "RMA-2026-3091",
+    "actor": "Intake Associate",
+    "timestamp": "2026-10-03T21:29:01.807792"
+  }
+]

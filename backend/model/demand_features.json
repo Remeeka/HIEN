@@ -1,0 +1,136 @@
+{
+  "all_features": [
+    "location_id",
+    "category",
+    "zone",
+    "location_type",
+    "day_of_week",
+    "day_of_month",
+    "month",
+    "week_of_year",
+    "is_weekend",
+    "lag_1_demand",
+    "lag_2_demand",
+    "lag_3_demand",
+    "lag_7_demand",
+    "lag_14_demand",
+    "rolling_mean_7",
+    "rolling_std_7",
+    "rolling_mean_14",
+    "rolling_mean_30",
+    "historical_demand_7d",
+    "historical_demand_14d",
+    "historical_demand_30d",
+    "historical_order_count_7d",
+    "storage_capacity_units",
+    "current_inventory_units",
+    "available_storage_units",
+    "utilization_rate",
+    "dist_to_warehouse_km",
+    "avg_daily_footfall",
+    "avg_unit_price",
+    "avg_weight_kg",
+    "avg_demand_weight",
+    "hygiene_sensitive",
+    "fragile"
+  ],
+  "categorical_features": [
+    "location_id",
+    "category",
+    "zone",
+    "location_type"
+  ],
+  "numeric_features": [
+    "day_of_week",
+    "day_of_month",
+    "month",
+    "week_of_year",
+    "is_weekend",
+    "lag_1_demand",
+    "lag_2_demand",
+    "lag_3_demand",
+    "lag_7_demand",
+    "lag_14_demand",
+    "rolling_mean_7",
+    "rolling_std_7",
+    "rolling_mean_14",
+    "rolling_mean_30",
+    "historical_demand_7d",
+    "historical_demand_14d",
+    "historical_demand_30d",
+    "historical_order_count_7d",
+    "storage_capacity_units",
+    "current_inventory_units",
+    "available_storage_units",
+    "utilization_rate",
+    "dist_to_warehouse_km",
+    "avg_daily_footfall",
+    "avg_unit_price",
+    "avg_weight_kg",
+    "avg_demand_weight",
+    "hygiene_sensitive",
+    "fragile"
+  ],
+  "feature_importances": [
+    {
+      "feature": "location_id",
+      "importance": 0.547
+    },
+    {
+      "feature": "rolling_mean_30",
+      "importance": 0.4338
+    },
+    {
+      "feature": "category",
+      "importance": 0.2617
+    },
+    {
+      "feature": "rolling_mean_14",
+      "importance": 0.0355
+    },
+    {
+      "feature": "rolling_mean_7",
+      "importance": 0.0207
+    },
+    {
+      "feature": "avg_daily_footfall",
+      "importance": 0.0163
+    },
+    {
+      "feature": "historical_demand_30d",
+      "importance": 0.0105
+    },
+    {
+      "feature": "rolling_std_7",
+      "importance": 0.0089
+    },
+    {
+      "feature": "avg_demand_weight",
+      "importance": 0.0035
+    },
+    {
+      "feature": "day_of_month",
+      "importance": 0.001
+    },
+    {
+      "feature": "lag_3_demand",
+      "importance": 0.0009
+    },
+    {
+      "feature": "dist_to_warehouse_km",
+      "importance": 0.0009
+    },
+    {
+      "feature": "lag_2_demand",
+      "importance": 0.0008
+    },
+    {
+      "feature": "utilization_rate",
+      "importance": 0.0007
+    },
+    {
+      "feature": "current_inventory_units",
+      "importance": 0.0005
+    }
+  ]
+}

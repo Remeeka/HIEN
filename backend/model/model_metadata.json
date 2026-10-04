@@ -1,0 +1,99 @@
+{
+  "model_type": "Random Forest Classifier Pipeline",
+  "training_samples": 4900,
+  "validation_samples": 1050,
+  "test_samples": 1050,
+  "metrics": {
+    "accuracy": 0.9629,
+    "precision": 0.9196,
+    "recall": 1.0,
+    "f1_score": 0.9581,
+    "roc_auc": 0.9944,
+    "confusion_matrix": {
+      "true_negative": 565,
+      "false_positive": 39,
+      "false_negative": 0,
+      "true_positive": 446
+    }
+  },
+  "feature_cols": [
+    "product_category",
+    "unit_price",
+    "return_reason",
+    "days_since_purchase",
+    "ai_condition_grade",
+    "ai_confidence",
+    "ai_fraud_risk_score",
+    "has_original_packaging",
+    "accessories_complete",
+    "functional_test_result",
+    "hygiene_sensitive",
+    "fragile",
+    "local_demand_score",
+    "previous_return_count",
+    "distance_to_nearest_hub_km",
+    "storage_capacity_available"
+  ],
+  "top_feature_importances": [
+    {
+      "feature": "ai_confidence",
+      "importance": 0.235
+    },
+    {
+      "feature": "ai_condition_grade_Minor Wear",
+      "importance": 0.1589
+    },
+    {
+      "feature": "functional_test_result_Pass",
+      "importance": 0.1073
+    },
+    {
+      "feature": "ai_condition_grade_New/Sealed",
+      "importance": 0.1041
+    },
+    {
+      "feature": "ai_condition_grade_Damaged",
+      "importance": 0.0758
+    },
+    {
+      "feature": "ai_condition_grade_Like New",
+      "importance": 0.071
+    },
+    {
+      "feature": "functional_test_result_Fail",
+      "importance": 0.0514
+    },
+    {
+      "feature": "product_category_Beauty",
+      "importance": 0.0508
+    },
+    {
+      "feature": "hygiene_sensitive",
+      "importance": 0.0416
+    },
+    {
+      "feature": "storage_capacity_available",
+      "importance": 0.0228
+    },
+    {
+      "feature": "ai_fraud_risk_score",
+      "importance": 0.0128
+    },
+    {
+      "feature": "local_demand_score",
+      "importance": 0.0093
+    },
+    {
+      "feature": "unit_price",
+      "importance": 0.008
+    },
+    {
+      "feature": "distance_to_nearest_hub_km",
+      "importance": 0.0073
+    },
+    {
+      "feature": "functional_test_result_Minor Flaw",
+      "importance": 0.0071
+    }
+  ]
+}

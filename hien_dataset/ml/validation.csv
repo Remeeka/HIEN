@@ -1,0 +1,1051 @@
+return_id,product_id,product_category,unit_price,return_reason,days_since_purchase,ai_condition_grade,ai_confidence,ai_fraud_risk_score,has_original_packaging,accessories_complete,functional_test_result,hygiene_sensitive,fragile,local_demand_score,previous_return_count,distance_to_nearest_hub_km,storage_capacity_available,eligibility_label
+RET000155,SKU0090,Books,24.67,Better price found,13,Like New,0.969,0.005,1,1,Minor Flaw,0,0,0.602,2,3.57,160,1
+RET002119,SKU0006,Apparel,16.83,Changed mind,19,Damaged,0.84,0.202,1,1,Fail,0,0,0.79,3,1.03,160,0
+RET006306,SKU0013,Apparel,49.2,Size/fit,17,Like New,0.821,0.187,1,0,Minor Flaw,0,0,0.789,0,1.83,118,1
+RET003759,SKU0126,Accessories,12.15,Better price found,11,Damaged,0.694,0.0,0,0,Fail,0,0,0.26,4,2.08,151,0
+RET003979,SKU0050,Home & Kitchen,43.68,Size/fit,13,New/Sealed,0.888,0.108,1,1,Pass,0,1,0.674,0,3.93,217,1
+RET002430,SKU0015,Footwear,63.9,Damaged in transit,30,Minor Wear,0.592,0.038,1,1,Pass,0,0,0.442,0,4.17,78,0
+RET004475,SKU0062,Beauty,48.24,Size/fit,15,Minor Wear,0.861,0.034,0,0,Minor Flaw,1,0,0.637,1,8.14,217,0
+RET000637,SKU0046,Home & Kitchen,63.34,Size/fit,13,Like New,0.655,0.205,1,1,Pass,0,1,0.764,1,2.21,118,0
+RET006705,SKU0070,Beauty,23.0,Damaged in transit,21,Damaged,0.876,0.039,0,0,Minor Flaw,1,0,0.428,0,7.32,79,0
+RET004309,SKU0074,Toys,15.9,Damaged in transit,13,Like New,0.851,0.145,1,1,Pass,0,0,0.553,0,1.43,160,1
+RET000391,SKU0003,Apparel,101.81,Size/fit,16,New/Sealed,0.987,0.12,1,0,Pass,0,0,0.45,0,6.2,12,1
+RET005366,SKU0012,Apparel,24.54,Changed mind,19,New/Sealed,0.832,0.067,1,1,Pass,0,0,0.686,1,0.83,153,1
+RET005404,SKU0057,Beauty,18.5,Size/fit,26,Damaged,0.948,0.053,1,1,Fail,1,0,0.305,1,2.37,40,0
+RET003011,SKU0008,Apparel,61.78,Size/fit,13,Like New,0.795,0.093,0,1,Pass,0,0,0.93,1,8.13,107,1
+RET004577,SKU0116,Accessories,66.93,Changed mind,7,New/Sealed,0.736,0.146,0,1,Pass,0,0,0.655,0,7.52,217,0
+RET006771,SKU0011,Apparel,16.42,Defective,8,New/Sealed,0.878,0.154,0,0,Minor Flaw,0,0,0.59,0,5.5,81,1
+RET002819,SKU0118,Accessories,84.35,Changed mind,18,New/Sealed,0.947,0.213,1,0,Pass,0,0,0.42,2,7.26,130,1
+RET000834,SKU0059,Beauty,69.06,Changed mind,1,Damaged,0.956,0.154,1,1,Minor Flaw,1,0,0.618,0,5.41,192,0
+RET006829,SKU0052,Home & Kitchen,14.2,Defective,13,Like New,0.585,0.084,0,1,Minor Flaw,0,1,0.611,0,8.04,90,0
+RET000680,SKU0034,Electronics,489.49,Changed mind,3,New/Sealed,0.855,0.111,1,1,Pass,0,1,0.733,2,2.24,118,1
+RET002855,SKU0070,Beauty,23.0,Size/fit,17,New/Sealed,0.887,0.17,1,1,Pass,1,0,0.718,0,5.23,160,0
+RET004850,SKU0005,Apparel,19.07,Better price found,7,New/Sealed,0.99,0.119,1,1,Pass,0,0,0.912,0,7.45,192,1
+RET002578,SKU0113,Accessories,11.03,Size/fit,15,New/Sealed,0.742,0.113,1,1,Pass,0,0,0.41,0,1.67,111,0
+RET001748,SKU0039,Electronics,53.78,Defective,8,Minor Wear,0.858,0.075,0,0,Minor Flaw,0,1,0.537,0,7.12,125,0
+RET006155,SKU0090,Books,24.67,Better price found,22,New/Sealed,0.587,0.137,1,1,Pass,0,0,0.2,0,8.21,144,0
+RET002031,SKU0028,Footwear,48.2,Better price found,20,New/Sealed,0.883,0.091,1,1,Pass,0,0,0.651,0,2.74,125,1
+RET000323,SKU0075,Toys,10.35,Changed mind,30,Like New,0.602,0.0,0,1,Pass,0,0,0.586,3,4.01,90,0
+RET001989,SKU0003,Apparel,101.81,Not as described,24,Like New,0.805,0.035,1,1,Pass,0,0,0.753,3,6.73,110,0
+RET001624,SKU0051,Home & Kitchen,162.77,Damaged in transit,27,Minor Wear,0.846,0.124,1,1,Pass,0,1,0.587,0,1.2,110,0
+RET005613,SKU0005,Apparel,19.07,Changed mind,21,Damaged,0.949,0.0,1,1,Fail,0,0,0.386,0,2.4,40,0
+RET000113,SKU0123,Accessories,40.92,Defective,23,Minor Wear,0.897,0.155,1,1,Pass,0,0,0.484,4,8.23,125,0
+RET003925,SKU0094,Books,38.53,Size/fit,5,Like New,0.923,0.004,1,1,Pass,0,0,0.463,0,1.25,197,1
+RET001434,SKU0115,Accessories,47.13,Defective,24,Minor Wear,0.561,0.082,0,1,Minor Flaw,0,0,0.469,1,6.08,110,0
+RET006801,SKU0036,Electronics,394.25,Better price found,25,Minor Wear,0.734,0.062,1,1,Pass,0,1,0.792,0,5.16,118,0
+RET005397,SKU0023,Footwear,116.21,Wrong item,21,Like New,0.762,0.079,1,1,Pass,0,0,0.441,1,2.33,151,1
+RET002492,SKU0079,Toys,11.31,Better price found,1,Like New,0.604,0.192,1,1,Pass,0,0,0.399,0,7.95,107,0
+RET003309,SKU0082,Toys,8.11,Damaged in transit,12,Minor Wear,0.843,0.086,1,1,Fail,0,0,0.275,2,2.72,27,0
+RET006464,SKU0002,Apparel,28.6,Defective,19,New/Sealed,0.867,0.0,0,0,Pass,0,0,0.889,0,3.51,118,1
+RET005515,SKU0010,Apparel,92.53,Late delivery,16,Like New,0.806,0.0,1,1,Pass,0,0,0.9,2,5.07,197,1
+RET000762,SKU0056,Home & Kitchen,98.19,Defective,5,Damaged,0.885,0.094,0,1,Minor Flaw,0,1,0.437,2,2.58,187,0
+RET005027,SKU0031,Electronics,693.63,Size/fit,26,Damaged,0.862,0.166,0,1,Fail,0,1,0.733,0,4.59,118,0
+RET000482,SKU0014,Apparel,16.62,Better price found,27,New/Sealed,0.99,0.136,1,1,Pass,0,0,0.649,0,1.0,118,1
+RET002440,SKU0084,Toys,14.25,Defective,1,Damaged,0.899,0.0,0,0,Fail,0,0,0.135,2,5.6,18,0
+RET005557,SKU0022,Footwear,65.33,Size/fit,20,New/Sealed,0.836,0.172,1,1,Pass,0,0,0.55,0,0.99,217,1
+RET000651,SKU0093,Books,10.03,Defective,25,Minor Wear,0.884,0.12,0,0,Pass,0,0,0.338,0,3.88,78,0
+RET001083,SKU0096,Books,6.5,Size/fit,8,New/Sealed,0.896,0.144,1,1,Pass,0,0,0.504,1,8.04,217,1
+RET006931,SKU0073,Toys,89.36,Changed mind,2,Like New,0.876,0.051,0,1,Pass,0,0,0.393,0,5.79,111,1
+RET006776,SKU0008,Apparel,61.78,Size/fit,15,Damaged,0.895,0.097,0,0,Fail,0,0,0.811,0,4.32,217,0
+RET005092,SKU0112,Sports,68.85,Damaged in transit,9,Like New,0.655,0.118,1,1,Fail,0,0,0.488,1,3.96,153,0
+RET004648,SKU0024,Footwear,49.84,Damaged in transit,12,New/Sealed,0.96,0.32,1,1,Minor Flaw,0,0,0.401,0,6.58,56,1
+RET004500,SKU0051,Home & Kitchen,162.77,Better price found,10,Like New,0.899,0.183,1,1,Pass,0,1,0.514,1,2.65,107,1
+RET004093,SKU0071,Toys,16.61,Size/fit,13,Like New,0.943,0.19,0,1,Pass,0,0,0.407,0,7.13,189,1
+RET002728,SKU0026,Footwear,58.86,Changed mind,10,Minor Wear,0.713,0.105,1,1,Minor Flaw,0,0,0.635,2,2.42,125,0
+RET002648,SKU0025,Footwear,40.3,Not as described,12,New/Sealed,0.891,0.023,1,1,Pass,0,0,0.437,0,1.2,81,1
+RET001654,SKU0020,Footwear,101.04,Changed mind,13,Like New,0.892,0.128,1,1,Pass,0,0,0.448,3,3.7,130,1
+RET006460,SKU0030,Electronics,100.81,Late delivery,4,New/Sealed,0.977,0.095,0,1,Pass,0,1,0.497,2,6.19,171,1
+RET001454,SKU0005,Apparel,19.07,Better price found,23,Minor Wear,0.878,0.047,1,1,Pass,0,0,0.822,0,1.33,153,0
+RET003207,SKU0116,Accessories,66.93,Not as described,26,Minor Wear,0.634,0.0,1,1,Pass,0,0,0.597,1,1.25,107,0
+RET001169,SKU0078,Toys,8.58,Wrong item,25,Like New,0.99,0.129,1,1,Pass,0,0,0.626,0,4.58,153,1
+RET005273,SKU0017,Footwear,131.1,Size/fit,16,Like New,0.808,0.082,1,1,Pass,0,0,0.595,0,4.55,90,1
+RET006675,SKU0019,Footwear,144.61,Damaged in transit,23,Minor Wear,0.99,0.15,0,0,Fail,0,0,0.672,0,5.14,197,0
+RET003265,SKU0072,Toys,53.01,Size/fit,25,Like New,0.834,0.028,1,1,Pass,0,0,0.366,0,8.46,79,1
+RET001541,SKU0042,Electronics,484.17,Wrong item,23,Like New,0.871,0.211,1,1,Pass,0,1,0.374,0,2.21,45,1
+RET004086,SKU0012,Apparel,24.54,Better price found,11,New/Sealed,0.803,0.179,1,1,Pass,0,0,0.689,0,0.64,171,1
+RET004341,SKU0089,Books,7.6,Changed mind,17,Like New,0.914,0.021,1,1,Pass,0,0,0.512,2,5.75,197,1
+RET003873,SKU0097,Books,23.06,Changed mind,15,Damaged,0.648,0.058,0,0,Fail,0,0,0.452,3,1.94,197,0
+RET006007,SKU0014,Apparel,16.62,Changed mind,11,Like New,0.554,0.119,1,1,Pass,0,0,0.798,1,2.94,125,0
+RET004395,SKU0105,Sports,22.03,Damaged in transit,11,Minor Wear,0.674,0.206,1,1,Fail,0,0,0.454,1,1.37,90,0
+RET000646,SKU0001,Apparel,20.33,Size/fit,26,Like New,0.886,0.013,0,1,Pass,0,0,0.71,2,3.12,78,1
+RET002386,SKU0014,Apparel,16.62,Better price found,25,New/Sealed,0.99,0.144,1,1,Pass,0,0,0.798,0,8.39,160,1
+RET004388,SKU0087,Books,22.56,Changed mind,3,New/Sealed,0.908,0.081,1,1,Pass,0,0,0.235,1,3.6,27,1
+RET002159,SKU0060,Beauty,19.34,Not as described,8,Minor Wear,0.877,0.783,0,1,Pass,1,0,0.41,0,5.34,152,0
+RET001021,SKU0053,Home & Kitchen,71.76,Not as described,15,New/Sealed,0.917,0.115,1,1,Minor Flaw,0,1,0.321,0,5.51,189,1
+RET003606,SKU0102,Sports,173.9,Defective,27,Damaged,0.836,0.189,0,1,Fail,0,0,0.523,0,1.55,197,0
+RET005288,SKU0035,Electronics,287.0,Better price found,11,New/Sealed,0.767,0.08,1,1,Pass,0,1,0.72,0,3.33,127,1
+RET002823,SKU0031,Electronics,693.63,Size/fit,26,Damaged,0.618,0.271,1,1,Fail,0,1,0.621,0,2.75,153,0
+RET001239,SKU0063,Beauty,19.03,Changed mind,21,Damaged,0.97,0.134,0,0,Fail,1,0,0.319,4,7.55,187,0
+RET003444,SKU0057,Beauty,18.5,Late delivery,22,Minor Wear,0.99,0.102,1,1,Pass,1,0,0.211,1,2.73,50,0
+RET002586,SKU0034,Electronics,489.49,Defective,5,Minor Wear,0.925,0.194,0,1,Pass,0,1,0.19,1,3.13,50,0
+RET000852,SKU0003,Apparel,101.81,Late delivery,10,New/Sealed,0.798,0.0,0,0,Pass,0,0,0.585,0,3.75,130,1
+RET001235,SKU0078,Toys,8.58,Size/fit,19,New/Sealed,0.98,0.203,0,0,Pass,0,0,0.356,0,1.89,110,0
+RET004482,SKU0029,Electronics,130.37,Wrong item,17,Like New,0.933,0.081,1,1,Pass,0,1,0.412,0,3.86,197,1
+RET000928,SKU0123,Accessories,40.92,Better price found,5,Minor Wear,0.696,0.111,1,1,Minor Flaw,0,0,0.539,1,2.84,153,0
+RET006003,SKU0010,Apparel,92.53,Not as described,30,New/Sealed,0.915,0.172,1,1,Pass,0,0,0.565,0,5.98,189,1
+RET002900,SKU0009,Apparel,29.06,Not as described,16,Minor Wear,0.759,0.108,1,1,Pass,0,0,0.914,2,0.63,107,0
+RET003480,SKU0038,Electronics,60.35,Defective,25,Damaged,0.929,0.106,1,1,Fail,0,1,0.5,0,5.12,187,0
+RET004007,SKU0081,Toys,39.17,Damaged in transit,30,Damaged,0.733,0.258,1,1,Fail,0,0,0.62,4,2.89,78,0
+RET002085,SKU0006,Apparel,16.83,Late delivery,16,Damaged,0.851,0.267,1,1,Fail,0,0,0.789,1,2.5,153,0
+RET000845,SKU0049,Home & Kitchen,98.6,Defective,16,Damaged,0.788,0.159,0,0,Fail,0,1,0.658,0,0.56,127,0
+RET002147,SKU0007,Apparel,16.76,Changed mind,11,Like New,0.728,0.182,1,1,Pass,0,0,0.415,0,7.89,40,0
+RET005067,SKU0099,Sports,189.92,Defective,1,New/Sealed,0.87,0.037,1,1,Minor Flaw,0,0,0.451,0,4.94,152,0
+RET001473,SKU0061,Beauty,28.58,Changed mind,17,New/Sealed,0.874,0.069,1,1,Pass,1,0,0.573,0,4.98,90,0
+RET003696,SKU0004,Apparel,27.12,Late delivery,22,New/Sealed,0.753,0.117,1,0,Pass,0,0,0.787,1,4.02,127,1
+RET004898,SKU0092,Books,24.18,Changed mind,19,Like New,0.928,0.124,0,1,Pass,0,0,0.471,0,2.57,90,1
+RET005524,SKU0105,Sports,22.03,Damaged in transit,5,Like New,0.739,0.232,0,1,Minor Flaw,0,0,0.373,0,8.19,110,0
+RET002235,SKU0014,Apparel,16.62,Size/fit,30,Like New,0.949,0.158,1,1,Pass,0,0,0.849,0,3.19,127,1
+RET003736,SKU0002,Apparel,28.6,Damaged in transit,1,Damaged,0.819,0.0,1,1,Fail,0,0,0.579,1,3.63,111,0
+RET006818,SKU0039,Electronics,53.78,Better price found,27,New/Sealed,0.915,0.118,1,1,Pass,0,1,0.366,0,2.19,189,1
+RET004104,SKU0022,Footwear,65.33,Size/fit,28,New/Sealed,0.778,0.173,1,1,Pass,0,0,0.589,2,0.92,153,1
+RET004413,SKU0044,Home & Kitchen,170.14,Damaged in transit,14,Damaged,0.831,0.173,0,0,Fail,0,1,0.255,0,4.36,189,0
+RET004705,SKU0032,Electronics,111.19,Not as described,4,New/Sealed,0.84,0.136,1,1,Pass,0,1,0.656,1,4.77,125,1
+RET000785,SKU0007,Apparel,16.76,Size/fit,5,New/Sealed,0.852,0.068,1,1,Pass,0,0,0.837,2,8.31,127,1
+RET004428,SKU0013,Apparel,49.2,Changed mind,3,Like New,0.919,0.139,1,1,Pass,0,0,0.627,0,3.07,187,1
+RET003742,SKU0050,Home & Kitchen,43.68,Size/fit,23,Like New,0.907,0.171,1,1,Pass,0,1,0.417,2,2.73,189,1
+RET005493,SKU0004,Apparel,27.12,Better price found,28,Minor Wear,0.822,0.581,1,1,Pass,0,0,0.807,0,6.52,125,0
+RET004079,SKU0016,Footwear,111.3,Not as described,18,Like New,0.846,0.174,1,1,Pass,0,0,0.676,0,7.93,125,1
+RET003906,SKU0001,Apparel,20.33,Defective,20,Minor Wear,0.701,0.131,0,1,Minor Flaw,0,0,0.812,0,4.1,192,0
+RET001481,SKU0028,Footwear,48.2,Changed mind,28,New/Sealed,0.99,0.05,1,1,Pass,0,0,0.853,3,8.27,153,1
+RET000397,SKU0018,Footwear,113.34,Size/fit,1,Like New,0.867,0.072,1,1,Pass,0,0,0.55,0,7.86,192,1
+RET006757,SKU0112,Sports,68.85,Defective,9,Damaged,0.892,0.225,0,1,Fail,0,0,0.586,0,6.19,127,0
+RET005365,SKU0059,Beauty,69.06,Late delivery,26,Damaged,0.745,0.231,1,1,Fail,1,0,0.613,1,5.21,160,0
+RET003878,SKU0056,Home & Kitchen,98.19,Late delivery,29,Like New,0.941,0.17,1,1,Pass,0,1,0.583,0,5.2,171,1
+RET001204,SKU0083,Toys,34.67,Better price found,20,Like New,0.769,0.096,1,1,Minor Flaw,0,0,0.53,0,6.01,107,1
+RET004717,SKU0013,Apparel,49.2,Size/fit,12,Like New,0.853,0.0,1,1,Minor Flaw,0,0,0.397,2,4.7,79,1
+RET003978,SKU0051,Home & Kitchen,162.77,Size/fit,16,Like New,0.958,0.16,1,1,Minor Flaw,0,1,0.236,1,2.11,81,1
+RET000400,SKU0105,Sports,22.03,Wrong item,30,Damaged,0.827,0.097,1,0,Fail,0,0,0.448,2,4.74,153,0
+RET005433,SKU0003,Apparel,101.81,Size/fit,5,Like New,0.898,0.127,1,1,Pass,0,0,0.826,0,5.65,192,1
+RET006096,SKU0015,Footwear,63.9,Changed mind,5,Like New,0.811,0.008,1,1,Pass,0,0,0.274,0,2.61,38,1
+RET001627,SKU0082,Toys,8.11,Changed mind,20,Damaged,0.83,0.005,1,1,Fail,0,0,0.243,0,5.06,151,0
+RET003105,SKU0031,Electronics,693.63,Changed mind,9,Damaged,0.933,0.0,1,1,Fail,0,1,0.562,0,8.14,171,0
+RET002716,SKU0013,Apparel,49.2,Changed mind,5,Damaged,0.888,0.028,1,1,Fail,0,0,0.813,0,3.57,217,0
+RET001462,SKU0031,Electronics,693.63,Size/fit,4,New/Sealed,0.678,0.081,1,1,Pass,0,1,0.609,0,4.58,217,0
+RET001859,SKU0043,Home & Kitchen,104.28,Changed mind,21,New/Sealed,0.804,0.178,1,1,Pass,0,1,0.302,1,5.23,145,1
+RET003456,SKU0011,Apparel,16.42,Late delivery,2,New/Sealed,0.685,0.197,1,1,Pass,0,0,0.483,0,0.79,12,0
+RET005543,SKU0002,Apparel,28.6,Wrong item,19,Damaged,0.758,0.058,1,1,Fail,0,0,0.562,3,5.67,171,0
+RET003780,SKU0005,Apparel,19.07,Defective,15,New/Sealed,0.811,0.128,1,1,Pass,0,0,0.823,0,0.65,197,1
+RET000507,SKU0003,Apparel,101.81,Not as described,27,Minor Wear,0.99,0.0,1,1,Pass,0,0,0.774,0,7.39,197,0
+RET000874,SKU0003,Apparel,101.81,Not as described,9,Like New,0.694,0.153,1,0,Pass,0,0,0.657,0,1.11,130,0
+RET001975,SKU0083,Toys,34.67,Damaged in transit,16,New/Sealed,0.903,0.0,1,1,Pass,0,0,0.514,1,4.06,127,1
+RET000120,SKU0093,Books,10.03,Size/fit,10,New/Sealed,0.578,0.028,1,1,Pass,0,0,0.491,0,1.31,110,0
+RET001717,SKU0003,Apparel,101.81,Size/fit,26,New/Sealed,0.883,0.09,1,1,Pass,0,0,0.694,0,6.97,160,1
+RET002605,SKU0011,Apparel,16.42,Defective,11,Damaged,0.773,0.139,1,1,Fail,0,0,0.375,1,8.31,12,0
+RET006892,SKU0049,Home & Kitchen,98.6,Damaged in transit,9,Damaged,0.843,0.0,1,1,Fail,0,1,0.284,0,4.95,81,0
+RET005806,SKU0072,Toys,53.01,Changed mind,16,New/Sealed,0.964,0.175,1,1,Pass,0,0,0.583,0,7.88,197,1
+RET005905,SKU0042,Electronics,484.17,Changed mind,6,Like New,0.722,0.098,1,1,Pass,0,1,0.551,0,2.02,79,0
+RET006684,SKU0119,Accessories,32.17,Size/fit,23,New/Sealed,0.712,0.034,1,1,Pass,0,0,0.676,1,2.78,160,0
+RET005351,SKU0064,Beauty,41.77,Damaged in transit,15,Damaged,0.577,0.038,1,1,Fail,1,0,0.353,0,2.32,78,0
+RET006009,SKU0122,Accessories,121.13,Better price found,27,New/Sealed,0.849,0.114,1,1,Pass,0,0,0.502,0,2.47,90,1
+RET005291,SKU0081,Toys,39.17,Changed mind,9,Like New,0.915,0.048,1,1,Pass,0,0,0.547,0,1.44,217,1
+RET000365,SKU0035,Electronics,287.0,Not as described,9,Like New,0.795,0.586,1,1,Pass,0,1,0.593,0,7.36,127,0
+RET000325,SKU0081,Toys,39.17,Changed mind,9,Like New,0.801,0.127,1,1,Pass,0,0,0.45,3,5.24,152,0
+RET004486,SKU0044,Home & Kitchen,170.14,Not as described,8,New/Sealed,0.808,0.081,1,1,Pass,0,1,0.609,1,1.93,125,1
+RET003574,SKU0114,Accessories,36.11,Changed mind,4,New/Sealed,0.99,0.088,1,1,Pass,0,0,0.235,2,1.93,18,1
+RET006580,SKU0055,Home & Kitchen,27.17,Size/fit,3,Like New,0.881,0.181,1,1,Pass,0,1,0.293,0,4.49,144,1
+RET003494,SKU0012,Apparel,24.54,Size/fit,24,New/Sealed,0.945,0.131,1,0,Pass,0,0,0.488,0,4.03,111,1
+RET006730,SKU0022,Footwear,65.33,Size/fit,21,New/Sealed,0.877,0.061,1,1,Pass,0,0,0.697,0,6.59,217,1
+RET002722,SKU0007,Apparel,16.76,Late delivery,22,Like New,0.889,0.067,0,1,Pass,0,0,0.838,0,0.91,152,0
+RET005421,SKU0024,Footwear,49.84,Better price found,18,Like New,0.903,0.1,1,1,Pass,0,0,0.458,0,8.34,171,1
+RET002211,SKU0029,Electronics,130.37,Changed mind,16,New/Sealed,0.982,0.208,1,1,Pass,0,1,0.387,0,6.32,111,1
+RET005647,SKU0001,Apparel,20.33,Defective,14,Damaged,0.781,0.183,1,1,Minor Flaw,0,0,0.634,0,7.37,79,0
+RET003081,SKU0090,Books,24.67,Defective,27,New/Sealed,0.967,0.0,1,1,Pass,0,0,0.45,0,4.05,90,1
+RET003714,SKU0104,Sports,80.62,Size/fit,14,New/Sealed,0.802,0.391,1,1,Pass,0,0,0.385,1,3.23,152,0
+RET006079,SKU0018,Footwear,113.34,Size/fit,21,Damaged,0.99,0.133,1,1,Fail,0,0,0.611,2,5.64,107,0
+RET001014,SKU0012,Apparel,24.54,Defective,8,Minor Wear,0.944,0.026,0,1,Minor Flaw,0,0,0.896,0,0.53,118,0
+RET000017,SKU0083,Toys,34.67,Defective,22,Damaged,0.818,0.12,1,1,Fail,0,0,0.388,0,4.84,130,0
+RET003663,SKU0086,Books,34.88,Changed mind,27,Like New,0.911,0.0,1,1,Pass,0,0,0.305,2,5.49,144,1
+RET004517,SKU0057,Beauty,18.5,Size/fit,5,Like New,0.941,0.195,0,1,Pass,1,0,0.57,1,4.68,197,0
+RET001272,SKU0010,Apparel,92.53,Changed mind,11,New/Sealed,0.976,0.138,1,1,Pass,0,0,0.721,0,1.96,152,0
+RET005185,SKU0008,Apparel,61.78,Changed mind,17,Like New,0.99,0.207,1,1,Pass,0,0,0.615,0,4.3,110,0
+RET004994,SKU0030,Electronics,100.81,Better price found,14,Minor Wear,0.631,0.08,1,1,Minor Flaw,0,1,0.647,0,5.03,107,0
+RET003060,SKU0010,Apparel,92.53,Size/fit,27,New/Sealed,0.91,0.0,1,1,Pass,0,0,0.926,0,7.76,192,1
+RET004508,SKU0040,Electronics,52.04,Changed mind,13,New/Sealed,0.868,0.0,1,1,Pass,0,1,0.435,0,1.53,78,1
+RET002552,SKU0106,Sports,42.72,Better price found,9,Like New,0.84,0.205,1,1,Pass,0,0,0.45,0,3.03,217,1
+RET003026,SKU0057,Beauty,18.5,Not as described,2,Minor Wear,0.701,0.095,1,1,Pass,1,0,0.818,1,3.02,160,0
+RET004046,SKU0075,Toys,10.35,Damaged in transit,14,Damaged,0.877,0.015,1,1,Fail,0,0,0.119,0,6.02,70,0
+RET004518,SKU0002,Apparel,28.6,Size/fit,10,New/Sealed,0.806,0.061,0,1,Pass,0,0,0.85,0,3.74,192,1
+RET000670,SKU0008,Apparel,61.78,Not as described,5,New/Sealed,0.903,0.066,1,1,Pass,0,0,0.834,0,3.4,160,1
+RET003526,SKU0098,Books,7.14,Changed mind,14,Like New,0.77,0.038,1,1,Pass,0,0,0.432,0,4.54,171,1
+RET006812,SKU0115,Accessories,47.13,Size/fit,5,Damaged,0.889,0.153,1,1,Fail,0,0,0.404,1,7.38,197,0
+RET003036,SKU0126,Accessories,12.15,Defective,9,Damaged,0.661,0.068,1,1,Fail,0,0,0.376,3,7.65,130,0
+RET002134,SKU0106,Sports,42.72,Not as described,13,New/Sealed,0.824,0.221,0,0,Pass,0,0,0.46,1,5.61,111,1
+RET000587,SKU0101,Sports,66.07,Size/fit,19,Minor Wear,0.938,0.174,0,0,Pass,0,0,0.361,0,2.69,171,0
+RET005189,SKU0093,Books,10.03,Changed mind,18,New/Sealed,0.778,0.264,1,1,Pass,0,0,0.644,0,6.96,192,1
+RET006516,SKU0018,Footwear,113.34,Defective,28,Damaged,0.804,0.906,0,0,Fail,0,0,0.439,0,0.62,187,0
+RET003655,SKU0002,Apparel,28.6,Wrong item,13,Minor Wear,0.892,0.017,1,1,Minor Flaw,0,0,0.779,0,4.07,107,0
+RET002684,SKU0034,Electronics,489.49,Defective,27,Minor Wear,0.732,0.134,0,1,Pass,0,1,0.294,2,0.71,45,0
+RET004594,SKU0042,Electronics,484.17,Defective,7,Minor Wear,0.776,0.057,0,1,Pass,0,1,0.596,0,6.67,127,0
+RET001662,SKU0010,Apparel,92.53,Size/fit,25,New/Sealed,0.812,0.071,1,1,Pass,0,0,0.883,2,8.04,153,1
+RET006664,SKU0001,Apparel,20.33,Size/fit,23,Minor Wear,0.844,0.004,1,1,Minor Flaw,0,0,0.726,2,4.91,111,0
+RET006904,SKU0096,Books,6.5,Defective,19,Minor Wear,0.783,0.092,1,1,Minor Flaw,0,0,0.392,0,8.22,90,0
+RET000574,SKU0078,Toys,8.58,Changed mind,4,Like New,0.751,0.177,1,1,Pass,0,0,0.644,1,7.64,118,1
+RET004849,SKU0064,Beauty,41.77,Better price found,1,Like New,0.932,0.134,1,1,Pass,1,0,0.572,1,2.21,107,0
+RET004485,SKU0011,Apparel,16.42,Changed mind,23,Minor Wear,0.823,0.0,1,1,Pass,0,0,0.92,0,7.87,217,0
+RET001458,SKU0048,Home & Kitchen,40.39,Changed mind,4,New/Sealed,0.93,0.08,1,1,Pass,0,1,0.587,0,6.09,192,1
+RET004718,SKU0016,Footwear,111.3,Not as described,16,New/Sealed,0.981,0.095,1,1,Pass,0,0,0.703,0,4.39,90,1
+RET001485,SKU0022,Footwear,65.33,Size/fit,26,Like New,0.757,0.093,1,1,Pass,0,0,0.937,0,2.3,118,1
+RET005071,SKU0026,Footwear,58.86,Changed mind,19,Damaged,0.93,0.091,1,1,Fail,0,0,0.787,1,1.68,90,0
+RET006238,SKU0070,Beauty,23.0,Size/fit,18,Damaged,0.589,0.163,1,1,Fail,1,0,0.42,0,8.09,144,0
+RET004055,SKU0080,Toys,12.93,Better price found,28,Like New,0.865,0.208,1,1,Pass,0,0,0.47,0,0.97,171,1
+RET006209,SKU0034,Electronics,489.49,Size/fit,27,Damaged,0.984,0.08,1,1,Fail,0,1,0.785,0,5.49,192,0
+RET003628,SKU0087,Books,22.56,Defective,8,New/Sealed,0.93,0.018,1,1,Pass,0,0,0.523,1,1.91,153,1
+RET001617,SKU0006,Apparel,16.83,Changed mind,12,Damaged,0.837,0.132,1,1,Fail,0,0,0.554,1,7.86,171,0
+RET001446,SKU0006,Apparel,16.83,Better price found,8,Like New,0.728,0.154,1,1,Pass,0,0,0.858,0,8.11,127,0
+RET001256,SKU0005,Apparel,19.07,Changed mind,17,Like New,0.831,0.14,1,1,Pass,0,0,0.587,0,7.23,56,1
+RET000038,SKU0040,Electronics,52.04,Defective,25,Minor Wear,0.693,0.129,0,0,Pass,0,1,0.717,1,2.88,107,0
+RET000132,SKU0016,Footwear,111.3,Size/fit,4,Like New,0.894,0.123,0,0,Pass,0,0,0.548,0,2.66,110,0
+RET004186,SKU0045,Home & Kitchen,58.57,Size/fit,8,Damaged,0.741,0.254,1,1,Fail,0,1,0.793,1,8.28,192,0
+RET001459,SKU0025,Footwear,40.3,Changed mind,23,Minor Wear,0.99,0.278,1,1,Fail,0,0,0.515,2,5.29,79,0
+RET002529,SKU0033,Electronics,561.65,Size/fit,10,Minor Wear,0.66,0.247,1,1,Pass,0,1,0.799,1,1.62,107,0
+RET003197,SKU0040,Electronics,52.04,Not as described,29,Minor Wear,0.755,0.015,1,1,Minor Flaw,0,1,0.726,0,1.32,127,0
+RET001215,SKU0029,Electronics,130.37,Size/fit,19,Minor Wear,0.792,0.07,1,1,Pass,0,1,0.302,1,5.99,56,0
+RET006398,SKU0031,Electronics,693.63,Late delivery,9,Like New,0.575,0.08,1,1,Pass,0,1,0.67,2,2.33,197,0
+RET006631,SKU0082,Toys,8.11,Changed mind,26,Damaged,0.874,0.688,0,1,Fail,0,0,0.71,0,5.28,127,0
+RET000239,SKU0019,Footwear,144.61,Changed mind,8,Minor Wear,0.628,0.138,1,1,Pass,0,0,0.763,1,3.75,118,0
+RET003390,SKU0090,Books,24.67,Defective,14,Damaged,0.895,0.193,1,1,Fail,0,0,0.089,0,6.11,151,0
+RET001818,SKU0047,Home & Kitchen,54.33,Late delivery,18,Minor Wear,0.805,0.038,1,1,Minor Flaw,0,1,0.76,2,5.11,90,0
+RET001965,SKU0010,Apparel,92.53,Not as described,26,New/Sealed,0.942,0.0,1,1,Pass,0,0,0.87,0,7.73,192,1
+RET005140,SKU0041,Electronics,61.36,Better price found,19,Damaged,0.823,0.107,0,1,Fail,0,1,0.677,0,5.28,160,0
+RET002504,SKU0073,Toys,89.36,Changed mind,13,Minor Wear,0.698,0.22,1,1,Minor Flaw,0,0,0.642,1,7.42,217,0
+RET006949,SKU0045,Home & Kitchen,58.57,Size/fit,6,Minor Wear,0.717,0.58,1,1,Pass,0,1,0.661,1,4.72,127,0
+RET000335,SKU0035,Electronics,287.0,Not as described,12,Damaged,0.99,0.0,1,1,Fail,0,1,0.352,0,4.26,111,0
+RET006357,SKU0064,Beauty,41.77,Better price found,22,Minor Wear,0.914,0.103,1,1,Minor Flaw,1,0,0.697,0,6.75,153,0
+RET004557,SKU0021,Footwear,100.95,Better price found,15,New/Sealed,0.859,0.165,1,1,Pass,0,0,0.697,0,7.12,217,1
+RET004372,SKU0028,Footwear,48.2,Not as described,17,Like New,0.886,0.0,1,1,Pass,0,0,0.402,1,1.65,12,1
+RET000473,SKU0010,Apparel,92.53,Damaged in transit,3,Minor Wear,0.868,0.0,0,0,Pass,0,0,0.816,0,7.33,160,0
+RET003276,SKU0009,Apparel,29.06,Defective,8,Like New,0.885,0.103,1,1,Pass,0,0,0.808,0,5.17,153,1
+RET003987,SKU0100,Sports,114.32,Defective,22,Damaged,0.612,1.0,0,1,Fail,0,0,0.502,0,7.78,192,0
+RET006764,SKU0080,Toys,12.93,Size/fit,15,New/Sealed,0.79,0.085,1,1,Pass,0,0,0.356,0,2.28,187,1
+RET003589,SKU0023,Footwear,116.21,Changed mind,2,New/Sealed,0.971,0.263,1,1,Minor Flaw,0,0,0.626,0,5.78,118,1
+RET001078,SKU0011,Apparel,16.42,Changed mind,1,Minor Wear,0.945,0.093,1,1,Pass,0,0,0.657,1,1.2,127,0
+RET004904,SKU0044,Home & Kitchen,170.14,Size/fit,22,Like New,0.953,0.077,1,1,Pass,0,1,0.437,0,3.65,38,1
+RET005921,SKU0008,Apparel,61.78,Not as described,28,Like New,0.813,0.187,1,1,Pass,0,0,0.834,1,7.85,197,1
+RET005815,SKU0098,Books,7.14,Not as described,14,Damaged,0.934,0.144,1,1,Fail,0,0,0.253,1,1.1,40,0
+RET005867,SKU0022,Footwear,65.33,Wrong item,8,New/Sealed,0.878,0.152,1,1,Pass,0,0,0.645,0,7.76,160,1
+RET002484,SKU0044,Home & Kitchen,170.14,Late delivery,17,Like New,0.947,0.044,1,1,Pass,0,1,0.57,0,3.81,171,1
+RET001578,SKU0044,Home & Kitchen,170.14,Changed mind,30,New/Sealed,0.89,0.092,1,1,Pass,0,1,0.634,1,4.16,125,1
+RET005733,SKU0011,Apparel,16.42,Defective,7,Damaged,0.826,0.14,0,1,Fail,0,0,0.72,3,2.15,171,0
+RET003610,SKU0088,Books,6.47,Size/fit,12,New/Sealed,0.64,0.083,1,1,Pass,0,0,0.669,0,3.67,192,0
+RET000880,SKU0096,Books,6.5,Wrong item,2,Like New,0.653,0.07,0,0,Fail,0,0,0.453,0,7.09,125,0
+RET004239,SKU0013,Apparel,49.2,Wrong item,18,Like New,0.841,0.098,1,1,Pass,0,0,0.828,0,7.23,118,1
+RET000713,SKU0012,Apparel,24.54,Size/fit,28,New/Sealed,0.99,0.117,1,1,Pass,0,0,0.646,0,4.56,152,0
+RET001351,SKU0125,Accessories,38.12,Wrong item,20,New/Sealed,0.99,0.115,1,1,Pass,0,0,0.558,4,8.06,118,1
+RET003310,SKU0062,Beauty,48.24,Changed mind,3,Minor Wear,0.952,0.0,1,1,Pass,1,0,0.692,0,7.14,217,0
+RET001524,SKU0085,Books,6.69,Late delivery,3,Like New,0.636,0.596,0,1,Minor Flaw,0,0,0.274,0,0.9,171,0
+RET000111,SKU0124,Accessories,23.43,Defective,20,Damaged,0.858,0.065,1,1,Fail,0,0,0.584,1,2.98,217,0
+RET005560,SKU0004,Apparel,27.12,Late delivery,15,New/Sealed,0.974,0.146,1,1,Pass,0,0,0.953,0,3.69,153,1
+RET003565,SKU0065,Beauty,10.51,Defective,10,Damaged,0.99,0.134,0,0,Fail,1,0,0.75,0,4.97,217,0
+RET000244,SKU0016,Footwear,111.3,Changed mind,18,New/Sealed,0.932,0.204,1,1,Pass,0,0,0.358,0,0.97,40,1
+RET005416,SKU0092,Books,24.18,Size/fit,19,New/Sealed,0.581,0.172,1,1,Pass,0,0,0.629,4,2.59,217,0
+RET000853,SKU0043,Home & Kitchen,104.28,Damaged in transit,13,Damaged,0.764,0.0,0,1,Fail,0,1,0.614,0,4.25,192,0
+RET004815,SKU0058,Beauty,11.5,Defective,30,Like New,0.603,0.082,1,1,Pass,1,0,0.627,0,6.12,90,0
+RET004505,SKU0048,Home & Kitchen,40.39,Wrong item,10,New/Sealed,0.893,0.262,0,1,Pass,0,1,0.189,0,2.65,18,1
+RET000642,SKU0010,Apparel,92.53,Size/fit,29,Like New,0.924,0.07,1,1,Pass,0,0,0.55,0,0.51,79,1
+RET005713,SKU0048,Home & Kitchen,40.39,Better price found,6,New/Sealed,0.681,0.279,0,1,Minor Flaw,0,1,0.699,1,1.9,90,0
+RET002805,SKU0077,Toys,9.96,Damaged in transit,23,Damaged,0.795,0.011,0,1,Fail,0,0,0.557,1,6.64,197,0
+RET002323,SKU0069,Beauty,53.52,Size/fit,9,Minor Wear,0.881,0.148,1,1,Fail,1,0,0.768,0,3.75,118,0
+RET000487,SKU0125,Accessories,38.12,Better price found,3,Like New,0.733,0.18,1,1,Fail,0,0,0.378,1,7.23,78,0
+RET001885,SKU0019,Footwear,144.61,Not as described,19,Minor Wear,0.785,0.168,1,1,Pass,0,0,0.486,0,6.14,144,0
+RET004887,SKU0069,Beauty,53.52,Size/fit,15,Damaged,0.936,0.237,1,0,Fail,1,0,0.661,0,7.43,217,0
+RET000166,SKU0047,Home & Kitchen,54.33,Changed mind,23,Like New,0.641,0.038,1,1,Minor Flaw,0,1,0.122,2,3.81,38,0
+RET003004,SKU0080,Toys,12.93,Changed mind,12,Like New,0.921,0.069,1,1,Pass,0,0,0.637,0,6.28,153,1
+RET001599,SKU0049,Home & Kitchen,98.6,Size/fit,16,New/Sealed,0.902,0.022,1,1,Minor Flaw,0,1,0.333,1,4.17,56,1
+RET001987,SKU0092,Books,24.18,Not as described,14,New/Sealed,0.904,0.09,1,1,Pass,0,0,0.27,0,2.19,51,1
+RET000781,SKU0053,Home & Kitchen,71.76,Wrong item,13,Like New,0.855,0.123,0,1,Pass,0,1,0.393,0,4.01,171,1
+RET004650,SKU0117,Accessories,58.52,Defective,18,Minor Wear,0.711,0.147,1,1,Minor Flaw,0,0,0.507,1,4.86,90,0
+RET000672,SKU0012,Apparel,24.54,Defective,29,Minor Wear,0.911,0.133,0,0,Pass,0,0,0.772,2,1.03,107,0
+RET003633,SKU0044,Home & Kitchen,170.14,Size/fit,11,New/Sealed,0.74,0.134,1,1,Pass,0,1,0.615,3,7.95,153,0
+RET001856,SKU0038,Electronics,60.35,Size/fit,11,New/Sealed,0.988,0.002,1,1,Pass,0,1,0.653,0,1.78,118,1
+RET002575,SKU0014,Apparel,16.62,Size/fit,7,Minor Wear,0.897,0.009,1,1,Minor Flaw,0,0,0.601,0,2.64,110,0
+RET005196,SKU0097,Books,23.06,Late delivery,2,New/Sealed,0.948,0.122,1,1,Pass,0,0,0.477,0,1.89,153,1
+RET006671,SKU0070,Beauty,23.0,Changed mind,19,Minor Wear,0.938,0.201,1,1,Pass,1,0,0.424,0,4.43,144,0
+RET001296,SKU0041,Electronics,61.36,Size/fit,23,Damaged,0.834,0.124,1,1,Fail,0,1,0.859,0,8.24,160,0
+RET002013,SKU0112,Sports,68.85,Late delivery,4,New/Sealed,0.812,0.134,1,1,Pass,0,0,0.61,0,3.55,217,1
+RET000206,SKU0007,Apparel,16.76,Size/fit,8,New/Sealed,0.633,0.12,1,1,Pass,0,0,0.951,0,5.65,118,0
+RET004732,SKU0019,Footwear,144.61,Not as described,18,New/Sealed,0.917,0.044,1,1,Pass,0,0,0.902,3,7.82,118,1
+RET005552,SKU0035,Electronics,287.0,Size/fit,6,Like New,0.743,0.0,1,1,Pass,0,1,0.411,3,7.1,70,0
+RET003238,SKU0013,Apparel,49.2,Damaged in transit,6,New/Sealed,0.963,0.124,1,1,Pass,0,0,0.719,0,3.29,153,1
+RET000593,SKU0009,Apparel,29.06,Defective,9,Damaged,0.892,0.169,0,0,Minor Flaw,0,0,0.713,0,7.02,110,0
+RET002433,SKU0022,Footwear,65.33,Size/fit,13,Like New,0.924,0.022,1,1,Pass,0,0,0.331,0,7.4,151,1
+RET003057,SKU0096,Books,6.5,Size/fit,12,Like New,0.88,0.153,1,1,Pass,0,0,0.438,0,5.41,197,1
+RET005913,SKU0006,Apparel,16.83,Changed mind,18,Like New,0.946,0.173,1,1,Pass,0,0,0.717,1,2.57,171,1
+RET006318,SKU0078,Toys,8.58,Wrong item,12,Minor Wear,0.682,0.005,1,0,Fail,0,0,0.624,0,7.27,107,0
+RET006081,SKU0040,Electronics,52.04,Not as described,20,New/Sealed,0.947,0.136,1,1,Pass,0,1,0.632,0,2.23,127,1
+RET006932,SKU0010,Apparel,92.53,Size/fit,4,New/Sealed,0.911,0.033,1,1,Pass,0,0,0.823,3,1.57,153,1
+RET004914,SKU0064,Beauty,41.77,Changed mind,15,Minor Wear,0.87,0.141,1,1,Fail,1,0,0.631,1,1.3,107,0
+RET003333,SKU0120,Accessories,26.56,Late delivery,29,New/Sealed,0.962,0.221,1,1,Pass,0,0,0.453,2,4.02,78,1
+RET005303,SKU0050,Home & Kitchen,43.68,Late delivery,21,Minor Wear,0.905,0.099,0,1,Fail,0,1,0.347,2,7.34,189,0
+RET001556,SKU0122,Accessories,121.13,Size/fit,20,Like New,0.798,0.176,1,1,Pass,0,0,0.517,0,0.96,90,1
+RET005230,SKU0063,Beauty,19.03,Changed mind,5,New/Sealed,0.99,0.066,1,1,Pass,1,0,0.582,0,3.28,153,0
+RET004402,SKU0117,Accessories,58.52,Late delivery,14,Like New,0.849,0.195,0,0,Pass,0,0,0.467,0,2.84,152,0
+RET000875,SKU0072,Toys,53.01,Wrong item,11,New/Sealed,0.99,0.121,1,1,Pass,0,0,0.141,0,5.73,51,1
+RET005628,SKU0041,Electronics,61.36,Late delivery,3,New/Sealed,0.745,0.144,1,1,Minor Flaw,0,1,0.669,1,5.03,118,0
+RET005114,SKU0059,Beauty,69.06,Size/fit,11,Minor Wear,0.902,0.155,1,1,Pass,1,0,0.722,0,3.28,90,0
+RET002872,SKU0053,Home & Kitchen,71.76,Size/fit,21,Like New,0.801,0.118,1,1,Fail,0,1,0.639,0,0.86,118,1
+RET001534,SKU0003,Apparel,101.81,Late delivery,27,New/Sealed,0.869,0.003,0,0,Pass,0,0,0.841,1,6.73,217,1
+RET000136,SKU0049,Home & Kitchen,98.6,Late delivery,16,Minor Wear,0.896,0.023,1,1,Pass,0,1,0.498,0,1.19,130,0
+RET004195,SKU0006,Apparel,16.83,Changed mind,28,Like New,0.955,0.03,1,1,Pass,0,0,0.788,1,2.84,192,1
+RET005720,SKU0046,Home & Kitchen,63.34,Size/fit,19,Like New,0.975,0.073,1,1,Pass,0,1,0.601,0,6.33,192,1
+RET006121,SKU0106,Sports,42.72,Better price found,9,Damaged,0.774,0.173,0,1,Fail,0,0,0.306,1,5.11,12,0
+RET002208,SKU0053,Home & Kitchen,71.76,Better price found,10,Like New,0.702,0.151,1,1,Fail,0,1,0.796,0,4.54,107,0
+RET003992,SKU0043,Home & Kitchen,104.28,Size/fit,15,Like New,0.814,0.162,1,1,Pass,0,1,0.425,0,7.38,90,1
+RET005650,SKU0054,Home & Kitchen,101.72,Not as described,29,New/Sealed,0.97,0.085,1,1,Pass,0,1,0.452,1,6.85,189,1
+RET005574,SKU0088,Books,6.47,Defective,18,New/Sealed,0.921,0.083,1,1,Pass,0,0,0.19,0,2.98,187,1
+RET003563,SKU0002,Apparel,28.6,Not as described,29,Damaged,0.911,0.0,1,1,Fail,0,0,0.497,0,4.41,27,0
+RET003939,SKU0097,Books,23.06,Size/fit,1,New/Sealed,0.509,0.227,1,1,Pass,0,0,0.516,1,6.15,118,0
+RET006376,SKU0020,Footwear,101.04,Not as described,16,Damaged,0.921,0.048,0,0,Fail,0,0,0.32,1,0.81,145,0
+RET004248,SKU0116,Accessories,66.93,Size/fit,30,New/Sealed,0.845,0.111,1,1,Pass,0,0,0.451,0,7.33,90,1
+RET005865,SKU0023,Footwear,116.21,Late delivery,1,Like New,0.914,0.319,1,1,Pass,0,0,0.32,0,2.05,189,1
+RET000882,SKU0004,Apparel,27.12,Size/fit,14,New/Sealed,0.822,0.076,1,1,Pass,0,0,0.615,1,8.06,110,0
+RET006497,SKU0001,Apparel,20.33,Late delivery,5,Damaged,0.824,0.022,1,1,Fail,0,0,0.407,1,7.48,27,0
+RET006604,SKU0109,Sports,45.44,Defective,23,Damaged,0.936,0.112,0,0,Fail,0,0,0.372,0,7.01,217,0
+RET001909,SKU0008,Apparel,61.78,Size/fit,6,Like New,0.921,0.011,1,1,Pass,0,0,0.833,2,0.61,217,1
+RET003744,SKU0005,Apparel,19.07,Better price found,24,Minor Wear,0.989,0.079,1,1,Fail,0,0,0.696,1,1.01,107,0
+RET005074,SKU0119,Accessories,32.17,Changed mind,14,Damaged,0.808,0.148,1,1,Fail,0,0,0.373,0,3.35,197,0
+RET003346,SKU0040,Electronics,52.04,Not as described,9,Damaged,0.773,0.019,1,1,Fail,0,1,0.504,1,7.18,110,0
+RET000490,SKU0043,Home & Kitchen,104.28,Damaged in transit,1,Damaged,0.952,0.02,0,1,Fail,0,1,0.454,0,4.57,145,0
+RET005032,SKU0058,Beauty,11.5,Late delivery,26,Damaged,0.794,0.781,1,1,Fail,1,0,0.708,1,8.18,192,0
+RET006371,SKU0035,Electronics,287.0,Defective,15,Damaged,0.741,0.186,1,1,Fail,0,1,0.484,0,7.9,111,0
+RET005218,SKU0023,Footwear,116.21,Size/fit,12,Like New,0.743,0.0,0,1,Pass,0,0,0.564,1,0.56,127,0
+RET005548,SKU0107,Sports,20.43,Changed mind,23,Like New,0.734,0.108,1,1,Pass,0,0,0.506,0,2.03,192,0
+RET003246,SKU0021,Footwear,100.95,Better price found,7,New/Sealed,0.906,0.208,1,1,Pass,0,0,0.546,1,3.3,111,1
+RET004232,SKU0022,Footwear,65.33,Size/fit,6,Like New,0.932,0.046,0,0,Pass,0,0,0.441,0,7.04,171,1
+RET003980,SKU0099,Sports,189.92,Size/fit,11,Damaged,0.737,0.075,1,1,Fail,0,0,0.579,0,8.41,107,0
+RET003814,SKU0053,Home & Kitchen,71.76,Size/fit,21,New/Sealed,0.637,0.24,0,0,Pass,0,1,0.669,0,0.87,197,0
+RET003426,SKU0065,Beauty,10.51,Size/fit,12,Minor Wear,0.873,0.066,1,1,Pass,1,0,0.678,0,3.78,90,0
+RET001673,SKU0050,Home & Kitchen,43.68,Changed mind,30,New/Sealed,0.617,0.126,1,1,Pass,0,1,0.74,0,3.43,160,0
+RET002950,SKU0086,Books,34.88,Changed mind,23,New/Sealed,0.856,0.121,1,1,Pass,0,0,0.584,3,3.8,127,1
+RET001035,SKU0017,Footwear,131.1,Wrong item,24,Like New,0.925,0.022,1,1,Pass,0,0,0.38,0,6.18,81,1
+RET003267,SKU0081,Toys,39.17,Defective,4,Like New,0.835,0.189,0,1,Fail,0,0,0.267,0,6.77,81,1
+RET004300,SKU0069,Beauty,53.52,Better price found,5,Minor Wear,0.99,0.123,1,1,Fail,1,0,0.52,1,6.38,171,0
+RET000500,SKU0058,Beauty,11.5,Defective,4,Damaged,0.577,0.026,1,1,Fail,1,0,0.467,0,6.12,187,0
+RET000503,SKU0028,Footwear,48.2,Changed mind,4,Minor Wear,0.632,0.106,1,1,Minor Flaw,0,0,0.627,0,4.46,107,0
+RET004941,SKU0079,Toys,11.31,Late delivery,25,Like New,0.753,0.122,1,1,Pass,0,0,0.238,0,5.58,110,0
+RET001728,SKU0051,Home & Kitchen,162.77,Changed mind,9,Minor Wear,0.872,0.073,1,1,Pass,0,1,0.166,0,6.24,70,0
+RET004912,SKU0001,Apparel,20.33,Not as described,3,Like New,0.981,0.289,0,1,Pass,0,0,0.851,0,6.85,107,1
+RET004489,SKU0015,Footwear,63.9,Defective,16,New/Sealed,0.819,0.096,1,1,Minor Flaw,0,0,0.626,0,6.45,192,1
+RET005567,SKU0005,Apparel,19.07,Changed mind,14,New/Sealed,0.81,0.019,1,1,Pass,0,0,0.667,1,7.71,187,1
+RET005098,SKU0073,Toys,89.36,Size/fit,9,New/Sealed,0.99,0.08,1,1,Pass,0,0,0.7,0,6.95,118,1
+RET006754,SKU0004,Apparel,27.12,Size/fit,21,Damaged,0.861,0.257,1,0,Fail,0,0,0.873,0,0.54,90,0
+RET003796,SKU0028,Footwear,48.2,Defective,26,Minor Wear,0.99,0.053,1,1,Pass,0,0,0.557,0,5.03,79,0
+RET002647,SKU0113,Accessories,11.03,Size/fit,20,Like New,0.772,0.176,1,1,Pass,0,0,0.263,0,7.77,151,1
+RET002537,SKU0113,Accessories,11.03,Not as described,15,New/Sealed,0.86,0.2,1,1,Pass,0,0,0.288,0,0.6,70,1
+RET000549,SKU0119,Accessories,32.17,Changed mind,2,New/Sealed,0.78,0.192,0,1,Pass,0,0,0.518,1,3.64,127,1
+RET000560,SKU0059,Beauty,69.06,Wrong item,29,Like New,0.671,0.291,1,0,Pass,1,0,0.696,0,4.54,192,0
+RET000071,SKU0007,Apparel,16.76,Better price found,15,Like New,0.868,0.168,1,1,Pass,0,0,0.817,0,4.41,153,1
+RET004882,SKU0043,Home & Kitchen,104.28,Not as described,13,Damaged,0.701,0.162,1,1,Fail,0,1,0.615,1,2.72,217,0
+RET004514,SKU0059,Beauty,69.06,Wrong item,28,New/Sealed,0.661,0.084,1,1,Fail,1,0,0.489,0,7.27,90,0
+RET006234,SKU0007,Apparel,16.76,Not as described,9,Like New,0.702,0.075,1,1,Pass,0,0,0.476,0,5.98,79,0
+RET006100,SKU0019,Footwear,144.61,Size/fit,17,New/Sealed,0.639,0.162,1,1,Minor Flaw,0,0,0.552,1,6.5,111,0
+RET001314,SKU0005,Apparel,19.07,Size/fit,26,New/Sealed,0.844,0.05,1,1,Pass,0,0,0.454,3,5.18,79,1
+RET000658,SKU0006,Apparel,16.83,Defective,24,Damaged,0.963,0.196,0,0,Fail,0,0,0.584,0,7.72,130,0
+RET004175,SKU0022,Footwear,65.33,Changed mind,17,New/Sealed,0.898,0.154,1,1,Pass,0,0,0.471,1,4.48,189,1
+RET003916,SKU0009,Apparel,29.06,Size/fit,14,Like New,0.756,0.033,1,1,Pass,0,0,1.0,1,1.01,153,1
+RET000298,SKU0125,Accessories,38.12,Size/fit,28,Damaged,0.908,0.432,1,1,Fail,0,0,0.558,0,5.87,107,0
+RET000301,SKU0125,Accessories,38.12,Wrong item,10,Like New,0.815,0.202,1,1,Pass,0,0,0.525,0,6.32,110,0
+RET000247,SKU0004,Apparel,27.12,Changed mind,4,Damaged,0.861,0.117,1,1,Fail,0,0,0.89,2,3.43,197,0
+RET003488,SKU0012,Apparel,24.54,Defective,25,Like New,0.898,0.091,1,1,Minor Flaw,0,0,0.6,0,3.33,40,1
+RET001422,SKU0090,Books,24.67,Size/fit,21,New/Sealed,0.807,0.217,1,1,Pass,0,0,0.065,0,2.22,70,1
+RET004369,SKU0010,Apparel,92.53,Changed mind,23,New/Sealed,0.788,0.08,1,1,Pass,0,0,0.812,0,6.15,90,1
+RET005492,SKU0011,Apparel,16.42,Changed mind,29,Minor Wear,0.949,0.501,1,1,Minor Flaw,0,0,0.521,0,4.81,111,0
+RET001519,SKU0002,Apparel,28.6,Changed mind,29,Minor Wear,0.974,0.685,0,0,Pass,0,0,0.845,3,5.54,197,0
+RET000686,SKU0065,Beauty,10.51,Not as described,14,Minor Wear,0.917,0.076,1,1,Pass,1,0,0.552,1,4.7,78,0
+RET000266,SKU0011,Apparel,16.42,Not as described,19,Like New,0.77,0.253,1,1,Fail,0,0,0.534,1,5.13,79,1
+RET006075,SKU0001,Apparel,20.33,Changed mind,2,New/Sealed,0.836,0.057,1,1,Pass,0,0,0.635,0,7.18,171,1
+RET003357,SKU0061,Beauty,28.58,Changed mind,15,Minor Wear,0.831,0.157,1,1,Minor Flaw,1,0,0.541,0,7.78,110,0
+RET003566,SKU0055,Home & Kitchen,27.17,Not as described,8,Damaged,0.891,0.0,1,1,Fail,0,1,0.72,0,7.32,192,0
+RET001530,SKU0086,Books,34.88,Not as described,25,Like New,0.727,0.1,1,1,Pass,0,0,0.43,1,7.01,153,0
+RET002381,SKU0060,Beauty,19.34,Size/fit,16,Like New,0.912,0.09,1,1,Pass,1,0,0.74,0,3.26,107,0
+RET005791,SKU0049,Home & Kitchen,98.6,Wrong item,24,Minor Wear,0.777,0.055,0,1,Minor Flaw,0,1,0.39,1,6.15,38,0
+RET002757,SKU0119,Accessories,32.17,Size/fit,23,New/Sealed,0.855,0.244,1,0,Pass,0,0,0.647,1,1.69,160,1
+RET006243,SKU0040,Electronics,52.04,Defective,29,Minor Wear,0.872,0.121,0,1,Minor Flaw,0,1,0.453,0,8.42,171,0
+RET000413,SKU0011,Apparel,16.42,Not as described,18,New/Sealed,0.611,0.0,1,1,Pass,0,0,0.947,1,6.36,118,0
+RET001457,SKU0044,Home & Kitchen,170.14,Not as described,25,New/Sealed,0.816,0.08,1,1,Pass,0,1,0.183,1,1.36,40,1
+RET006373,SKU0116,Accessories,66.93,Not as described,26,Like New,0.925,0.149,1,1,Pass,0,0,0.524,1,6.23,111,1
+RET004907,SKU0010,Apparel,92.53,Size/fit,3,New/Sealed,0.735,0.0,1,1,Pass,0,0,0.821,3,4.69,127,0
+RET004860,SKU0126,Accessories,12.15,Defective,18,Damaged,0.99,0.003,1,1,Fail,0,0,0.303,3,7.53,189,0
+RET006565,SKU0016,Footwear,111.3,Changed mind,15,New/Sealed,0.785,0.139,1,1,Pass,0,0,0.466,0,6.66,152,0
+RET000788,SKU0034,Electronics,489.49,Changed mind,12,Like New,0.581,0.264,1,0,Pass,0,1,0.517,0,0.93,197,0
+RET004829,SKU0028,Footwear,48.2,Size/fit,3,Like New,0.874,0.242,0,1,Pass,0,0,0.636,1,6.76,171,1
+RET005973,SKU0122,Accessories,121.13,Damaged in transit,17,Damaged,0.782,0.109,1,1,Fail,0,0,0.406,0,4.86,130,0
+RET006558,SKU0072,Toys,53.01,Not as described,2,Like New,0.887,0.071,1,1,Pass,0,0,0.142,0,2.67,81,1
+RET006734,SKU0124,Accessories,23.43,Not as described,10,New/Sealed,0.897,0.0,1,1,Pass,0,0,0.534,0,4.31,90,1
+RET003227,SKU0087,Books,22.56,Changed mind,20,Minor Wear,0.643,0.118,0,1,Pass,0,0,0.291,3,2.75,187,0
+RET000265,SKU0061,Beauty,28.58,Changed mind,13,New/Sealed,0.64,0.244,1,1,Pass,1,0,0.419,1,5.94,189,0
+RET004462,SKU0104,Sports,80.62,Size/fit,15,New/Sealed,0.826,0.108,1,1,Pass,0,0,0.33,0,1.59,151,1
+RET004546,SKU0052,Home & Kitchen,14.2,Better price found,8,New/Sealed,0.942,0.066,1,1,Pass,0,1,0.267,3,2.77,40,1
+RET006323,SKU0035,Electronics,287.0,Not as described,26,Damaged,0.746,0.95,1,1,Fail,0,1,0.233,0,7.6,81,0
+RET004645,SKU0026,Footwear,58.86,Size/fit,17,New/Sealed,0.907,0.163,1,1,Pass,0,0,0.717,3,5.63,118,1
+RET000434,SKU0017,Footwear,131.1,Size/fit,26,New/Sealed,0.895,0.108,1,0,Pass,0,0,0.537,3,3.19,152,0
+RET001598,SKU0011,Apparel,16.42,Size/fit,1,Damaged,0.894,0.075,0,1,Fail,0,0,0.638,0,6.91,130,0
+RET000828,SKU0032,Electronics,111.19,Defective,8,Like New,0.718,0.134,1,0,Pass,0,1,0.257,0,2.69,187,0
+RET000970,SKU0005,Apparel,19.07,Wrong item,3,Like New,0.64,0.322,0,1,Pass,0,0,0.913,0,6.9,153,0
+RET002074,SKU0041,Electronics,61.36,Defective,18,Damaged,0.98,0.101,1,1,Fail,0,1,0.669,0,5.78,118,0
+RET005696,SKU0022,Footwear,65.33,Size/fit,6,Like New,0.805,0.043,1,1,Pass,0,0,0.429,4,4.9,145,1
+RET005615,SKU0017,Footwear,131.1,Size/fit,1,New/Sealed,0.937,0.136,1,1,Pass,0,0,0.679,1,7.22,90,1
+RET001903,SKU0046,Home & Kitchen,63.34,Size/fit,13,Like New,0.781,0.0,1,1,Pass,0,1,0.682,3,8.05,118,1
+RET002830,SKU0093,Books,10.03,Size/fit,20,Like New,0.939,0.113,1,1,Pass,0,0,0.185,0,7.8,51,1
+RET005194,SKU0037,Electronics,347.98,Wrong item,4,New/Sealed,0.48,0.099,1,0,Pass,0,1,0.761,1,5.68,118,0
+RET003161,SKU0023,Footwear,116.21,Size/fit,19,New/Sealed,0.949,0.076,1,1,Pass,0,0,0.675,1,2.39,171,1
+RET005165,SKU0011,Apparel,16.42,Size/fit,10,Damaged,0.789,0.112,0,1,Fail,0,0,0.78,0,5.52,217,0
+RET002686,SKU0007,Apparel,16.76,Changed mind,11,Like New,0.923,0.142,1,1,Pass,0,0,0.652,1,3.49,110,0
+RET006299,SKU0011,Apparel,16.42,Not as described,6,Minor Wear,0.908,0.107,1,1,Pass,0,0,0.872,1,7.99,217,0
+RET005063,SKU0026,Footwear,58.86,Size/fit,18,Damaged,0.872,0.02,1,1,Fail,0,0,0.72,1,7.93,90,0
+RET006707,SKU0021,Footwear,100.95,Defective,12,New/Sealed,0.924,0.072,1,0,Minor Flaw,0,0,0.262,0,4.22,81,1
+RET004643,SKU0005,Apparel,19.07,Late delivery,9,Like New,0.864,0.0,1,1,Pass,0,0,0.714,0,4.43,110,0
+RET001401,SKU0111,Sports,43.25,Changed mind,28,Like New,0.717,0.089,1,1,Pass,0,0,0.513,0,0.92,90,0
+RET005897,SKU0065,Beauty,10.51,Changed mind,16,Minor Wear,0.99,0.168,1,1,Minor Flaw,1,0,0.219,0,2.62,111,0
+RET003317,SKU0116,Accessories,66.93,Defective,5,Damaged,0.99,0.047,0,0,Fail,0,0,0.574,0,2.3,90,0
+RET000255,SKU0013,Apparel,49.2,Changed mind,26,New/Sealed,0.841,0.163,1,1,Pass,0,0,0.628,0,6.34,187,1
+RET000904,SKU0087,Books,22.56,Size/fit,28,Like New,0.99,0.002,1,1,Pass,0,0,0.614,2,5.7,118,1
+RET003581,SKU0096,Books,6.5,Size/fit,26,Like New,0.855,0.198,0,1,Pass,0,0,0.599,1,6.42,127,1
+RET005350,SKU0002,Apparel,28.6,Better price found,24,Like New,0.649,0.306,1,0,Pass,0,0,0.466,0,1.21,79,0
+RET004121,SKU0026,Footwear,58.86,Changed mind,27,Damaged,0.917,0.064,1,1,Fail,0,0,0.527,0,4.44,78,0
+RET003356,SKU0019,Footwear,144.61,Changed mind,22,New/Sealed,0.944,0.0,1,1,Pass,0,0,0.648,0,2.41,107,1
+RET000219,SKU0025,Footwear,40.3,Size/fit,19,Damaged,0.856,0.013,1,1,Fail,0,0,0.772,1,0.54,127,0
+RET003598,SKU0049,Home & Kitchen,98.6,Defective,22,Damaged,0.912,0.166,1,1,Fail,0,1,0.786,1,6.11,197,0
+RET004123,SKU0064,Beauty,41.77,Size/fit,29,New/Sealed,0.821,0.07,1,1,Pass,1,0,0.468,0,1.33,111,0
+RET001151,SKU0085,Books,6.69,Changed mind,24,New/Sealed,0.849,0.0,1,1,Minor Flaw,0,0,0.207,1,6.83,24,0
+RET004112,SKU0110,Sports,77.63,Size/fit,25,New/Sealed,0.944,0.152,1,1,Pass,0,0,0.432,1,3.56,127,1
+RET001212,SKU0054,Home & Kitchen,101.72,Wrong item,30,Like New,0.832,0.098,1,1,Pass,0,1,0.559,0,6.63,160,1
+RET000693,SKU0002,Apparel,28.6,Size/fit,26,New/Sealed,0.913,0.091,1,1,Pass,0,0,0.637,1,3.44,171,1
+RET002961,SKU0053,Home & Kitchen,71.76,Defective,18,Minor Wear,0.839,0.224,1,0,Pass,0,1,0.695,1,1.15,160,0
+RET002247,SKU0068,Beauty,8.23,Size/fit,2,Like New,0.803,0.0,1,1,Pass,1,0,0.587,2,8.09,217,0
+RET006319,SKU0047,Home & Kitchen,54.33,Size/fit,9,Minor Wear,0.876,0.123,1,1,Pass,0,1,0.579,3,4.33,78,0
+RET002589,SKU0119,Accessories,32.17,Not as described,27,Like New,0.83,0.033,0,0,Pass,0,0,0.24,1,1.98,51,1
+RET006008,SKU0024,Footwear,49.84,Changed mind,26,Minor Wear,0.687,0.018,1,1,Fail,0,0,0.395,0,7.01,144,0
+RET005900,SKU0081,Toys,39.17,Better price found,28,New/Sealed,0.895,0.126,1,1,Pass,0,0,0.641,1,8.06,78,1
+RET002177,SKU0019,Footwear,144.61,Not as described,17,New/Sealed,0.886,0.002,1,1,Pass,0,0,0.676,0,4.86,217,1
+RET003139,SKU0023,Footwear,116.21,Defective,1,Minor Wear,0.931,0.069,1,1,Pass,0,0,0.417,0,2.96,187,0
+RET002442,SKU0113,Accessories,11.03,Changed mind,17,New/Sealed,0.909,0.088,1,1,Pass,0,0,0.407,0,6.96,111,1
+RET006696,SKU0003,Apparel,101.81,Changed mind,27,Like New,0.89,0.074,1,1,Pass,0,0,0.444,2,2.87,38,1
+RET004425,SKU0031,Electronics,693.63,Changed mind,8,Like New,0.547,0.235,1,1,Pass,0,1,0.368,0,3.5,145,0
+RET006895,SKU0120,Accessories,26.56,Changed mind,9,New/Sealed,0.891,0.246,1,1,Pass,0,0,0.213,0,7.25,151,1
+RET001633,SKU0024,Footwear,49.84,Size/fit,12,New/Sealed,0.522,0.106,1,1,Pass,0,0,0.609,0,4.87,107,0
+RET004948,SKU0005,Apparel,19.07,Better price found,27,Damaged,0.76,0.059,0,1,Fail,0,0,0.536,0,5.36,111,0
+RET002157,SKU0055,Home & Kitchen,27.17,Defective,15,Minor Wear,0.895,0.13,1,1,Minor Flaw,0,1,0.242,0,5.64,45,0
+RET004170,SKU0003,Apparel,101.81,Defective,19,Damaged,0.849,0.168,0,1,Fail,0,0,0.812,0,6.0,171,0
+RET005034,SKU0022,Footwear,65.33,Better price found,1,Damaged,0.829,0.093,0,1,Fail,0,0,0.786,0,0.88,160,0
+RET003536,SKU0020,Footwear,101.04,Defective,4,Minor Wear,0.866,0.117,1,0,Fail,0,0,0.483,0,3.67,171,0
+RET001153,SKU0113,Accessories,11.03,Not as described,3,Like New,0.983,0.187,1,1,Pass,0,0,0.601,0,7.05,217,1
+RET001982,SKU0114,Accessories,36.11,Size/fit,4,New/Sealed,0.925,0.092,0,0,Pass,0,0,0.64,0,1.27,90,1
+RET002515,SKU0020,Footwear,101.04,Late delivery,7,Like New,0.807,0.0,0,1,Pass,0,0,0.339,0,5.22,45,1
+RET004742,SKU0089,Books,7.6,Changed mind,20,New/Sealed,0.859,0.182,1,1,Pass,0,0,0.589,0,7.21,107,1
+RET003728,SKU0065,Beauty,10.51,Better price found,23,Damaged,0.719,0.186,1,1,Fail,1,0,0.564,1,3.01,153,0
+RET000532,SKU0066,Beauty,34.69,Defective,26,Damaged,0.801,0.048,1,1,Fail,1,0,0.404,3,8.2,171,0
+RET001693,SKU0026,Footwear,58.86,Changed mind,20,New/Sealed,0.803,0.096,1,1,Pass,0,0,0.71,0,7.08,107,1
+RET003102,SKU0108,Sports,30.83,Wrong item,8,Like New,0.83,0.029,1,0,Pass,0,0,0.608,1,2.88,153,1
+RET004506,SKU0046,Home & Kitchen,63.34,Changed mind,19,Damaged,0.775,0.07,1,1,Fail,0,1,0.334,0,2.9,40,0
+RET002480,SKU0093,Books,10.03,Wrong item,4,Minor Wear,0.698,0.0,1,1,Minor Flaw,0,0,0.472,1,7.66,197,0
+RET001733,SKU0033,Electronics,561.65,Size/fit,20,New/Sealed,0.827,0.17,0,1,Pass,0,1,0.415,0,7.82,130,1
+RET000702,SKU0033,Electronics,561.65,Defective,6,Damaged,0.924,0.168,1,1,Fail,0,1,0.639,0,6.18,90,0
+RET004075,SKU0048,Home & Kitchen,40.39,Changed mind,21,Like New,0.901,0.102,1,1,Pass,0,1,0.716,0,7.93,160,1
+RET006354,SKU0029,Electronics,130.37,Size/fit,24,New/Sealed,0.94,0.0,1,1,Pass,0,1,0.155,1,5.41,111,1
+RET004069,SKU0068,Beauty,8.23,Not as described,28,Like New,0.867,0.108,1,1,Pass,1,0,0.398,3,5.81,111,0
+RET004710,SKU0054,Home & Kitchen,101.72,Not as described,26,Damaged,0.835,0.0,0,1,Fail,0,1,0.755,0,5.54,192,0
+RET000409,SKU0007,Apparel,16.76,Better price found,4,New/Sealed,0.876,0.122,1,1,Pass,0,0,0.976,0,6.62,127,1
+RET004542,SKU0008,Apparel,61.78,Not as described,13,Like New,0.912,0.114,1,1,Pass,0,0,0.621,1,2.15,125,1
+RET006433,SKU0033,Electronics,561.65,Not as described,26,Damaged,0.99,0.362,0,0,Fail,0,1,0.523,0,6.65,217,0
+RET001460,SKU0122,Accessories,121.13,Damaged in transit,3,New/Sealed,0.99,0.116,1,1,Minor Flaw,0,0,0.271,0,7.21,130,1
+RET005184,SKU0022,Footwear,65.33,Size/fit,11,Like New,0.981,0.0,1,1,Pass,0,0,0.692,1,0.95,118,1
+RET006500,SKU0123,Accessories,40.92,Not as described,30,New/Sealed,0.892,0.064,1,1,Pass,0,0,0.247,3,6.79,171,1
+RET004070,SKU0086,Books,34.88,Size/fit,13,Damaged,0.876,0.105,1,1,Fail,0,0,0.563,0,2.68,160,0
+RET000355,SKU0102,Sports,173.9,Better price found,1,Damaged,0.832,0.177,0,1,Fail,0,0,0.574,2,6.35,107,0
+RET006974,SKU0086,Books,34.88,Defective,3,Like New,0.891,0.121,1,1,Minor Flaw,0,0,0.43,0,4.64,127,1
+RET000243,SKU0069,Beauty,53.52,Late delivery,16,Minor Wear,0.821,0.079,1,1,Minor Flaw,1,0,0.657,2,3.69,125,0
+RET006814,SKU0029,Electronics,130.37,Changed mind,18,Like New,0.933,0.138,1,1,Pass,0,1,0.518,0,1.68,127,1
+RET004833,SKU0023,Footwear,116.21,Not as described,4,New/Sealed,0.897,0.195,1,1,Pass,0,0,0.738,0,7.27,160,1
+RET003104,SKU0070,Beauty,23.0,Size/fit,9,New/Sealed,0.916,0.101,1,1,Pass,1,0,0.337,0,6.98,130,0
+RET002948,SKU0086,Books,34.88,Late delivery,1,Damaged,0.834,0.45,1,1,Fail,0,0,0.474,1,6.63,90,0
+RET002909,SKU0101,Sports,66.07,Wrong item,5,Damaged,0.846,0.046,1,1,Fail,0,0,0.522,3,4.51,153,0
+RET002113,SKU0055,Home & Kitchen,27.17,Not as described,24,Minor Wear,0.811,0.102,0,1,Minor Flaw,0,1,0.748,2,6.34,160,0
+RET003811,SKU0061,Beauty,28.58,Size/fit,7,Minor Wear,0.944,0.177,1,1,Pass,1,0,0.569,0,3.87,192,0
+RET000019,SKU0069,Beauty,53.52,Changed mind,18,Minor Wear,0.926,0.163,1,1,Minor Flaw,1,0,0.373,2,4.01,111,0
+RET006200,SKU0100,Sports,114.32,Late delivery,12,New/Sealed,0.875,0.141,0,1,Pass,0,0,0.499,1,6.04,90,1
+RET003318,SKU0061,Beauty,28.58,Changed mind,18,Damaged,0.844,0.062,1,1,Fail,1,0,0.735,0,4.89,125,0
+RET004326,SKU0001,Apparel,20.33,Changed mind,1,New/Sealed,0.911,0.046,1,1,Pass,0,0,0.284,0,2.32,45,1
+RET003150,SKU0111,Sports,43.25,Changed mind,18,Like New,0.712,0.029,0,1,Pass,0,0,0.382,1,6.59,110,0
+RET006263,SKU0049,Home & Kitchen,98.6,Defective,3,Damaged,0.822,0.16,0,0,Minor Flaw,0,1,0.444,0,4.07,79,0
+RET003258,SKU0062,Beauty,48.24,Changed mind,21,Damaged,0.602,0.138,1,1,Fail,1,0,0.713,0,7.75,160,0
+RET002508,SKU0016,Footwear,111.3,Not as described,30,Like New,0.825,0.057,1,1,Pass,0,0,0.28,0,3.73,187,1
+RET004783,SKU0081,Toys,39.17,Size/fit,12,New/Sealed,0.954,0.0,1,1,Pass,0,0,0.328,1,3.69,127,1
+RET003511,SKU0025,Footwear,40.3,Changed mind,23,Like New,0.798,0.005,0,1,Pass,0,0,0.162,2,5.22,38,1
+RET003439,SKU0038,Electronics,60.35,Size/fit,5,New/Sealed,0.655,0.149,1,1,Pass,0,1,0.517,1,3.41,130,0
+RET003450,SKU0009,Apparel,29.06,Damaged in transit,21,Damaged,0.904,0.109,0,0,Fail,0,0,0.847,1,8.46,153,0
+RET006257,SKU0092,Books,24.18,Changed mind,11,Minor Wear,0.948,0.074,1,1,Pass,0,0,0.56,0,3.17,197,0
+RET005014,SKU0113,Accessories,11.03,Changed mind,28,Like New,0.864,0.121,1,1,Pass,0,0,0.661,1,4.32,153,1
+RET006733,SKU0043,Home & Kitchen,104.28,Size/fit,13,New/Sealed,0.857,0.024,1,1,Pass,0,1,0.56,1,2.23,197,1
+RET002918,SKU0093,Books,10.03,Size/fit,4,New/Sealed,0.896,0.12,1,1,Pass,0,0,0.497,2,3.25,90,1
+RET003059,SKU0081,Toys,39.17,Better price found,30,New/Sealed,0.94,0.163,1,1,Pass,0,0,0.243,1,1.15,144,1
+RET001971,SKU0007,Apparel,16.76,Not as described,6,Like New,0.99,0.216,1,1,Pass,0,0,0.601,2,1.65,18,1
+RET000471,SKU0078,Toys,8.58,Changed mind,20,New/Sealed,0.925,0.111,1,1,Pass,0,0,0.126,0,4.81,59,1
+RET000540,SKU0009,Apparel,29.06,Changed mind,29,New/Sealed,0.981,0.003,1,1,Pass,0,0,0.901,2,6.39,160,1
+RET002180,SKU0033,Electronics,561.65,Not as described,27,Damaged,0.845,0.0,1,1,Fail,0,1,0.685,1,1.89,153,0
+RET003525,SKU0025,Footwear,40.3,Changed mind,2,Minor Wear,0.99,0.105,1,1,Minor Flaw,0,0,0.487,0,1.28,192,0
+RET000182,SKU0026,Footwear,58.86,Changed mind,4,Like New,0.99,0.126,1,1,Pass,0,0,0.601,2,7.56,78,1
+RET004503,SKU0013,Apparel,49.2,Defective,27,Damaged,0.823,0.052,1,0,Fail,0,0,0.734,0,1.58,130,0
+RET006769,SKU0074,Toys,15.9,Wrong item,13,New/Sealed,0.805,0.075,1,0,Pass,0,0,0.298,0,3.53,171,1
+RET004380,SKU0021,Footwear,100.95,Late delivery,24,Like New,0.783,0.181,0,1,Pass,0,0,0.586,0,2.58,153,1
+RET006967,SKU0038,Electronics,60.35,Wrong item,6,Like New,0.718,0.082,1,1,Pass,0,1,0.642,0,1.38,107,0
+RET002317,SKU0091,Books,30.16,Damaged in transit,20,Like New,0.661,0.07,1,1,Pass,0,0,0.525,0,4.44,171,0
+RET006821,SKU0030,Electronics,100.81,Damaged in transit,3,Minor Wear,0.99,0.0,1,1,Pass,0,1,0.763,0,5.97,217,0
+RET002936,SKU0080,Toys,12.93,Not as described,28,Like New,0.895,0.218,1,1,Pass,0,0,0.525,0,3.01,217,1
+RET003405,SKU0049,Home & Kitchen,98.6,Not as described,8,New/Sealed,0.677,0.14,1,1,Pass,0,1,0.632,0,8.0,125,0
+RET000631,SKU0095,Books,6.65,Not as described,4,New/Sealed,0.988,0.094,1,1,Pass,0,0,0.368,0,2.28,171,1
+RET001584,SKU0028,Footwear,48.2,Late delivery,27,Like New,0.876,0.128,1,1,Pass,0,0,0.647,0,4.11,90,1
+RET004942,SKU0012,Apparel,24.54,Late delivery,1,New/Sealed,0.908,0.106,1,1,Pass,0,0,0.633,0,0.87,110,0
+RET003013,SKU0048,Home & Kitchen,40.39,Defective,16,Like New,0.739,0.136,0,1,Fail,0,1,0.384,0,4.92,145,0
+RET006181,SKU0108,Sports,30.83,Changed mind,20,Damaged,0.9,0.164,1,1,Fail,0,0,0.127,2,3.77,111,0
+RET002365,SKU0021,Footwear,100.95,Better price found,4,New/Sealed,0.923,0.096,1,1,Pass,0,0,0.767,1,2.71,118,1
+RET004504,SKU0022,Footwear,65.33,Size/fit,7,Like New,0.942,0.128,1,0,Pass,0,0,0.589,0,5.66,217,1
+RET002084,SKU0113,Accessories,11.03,Size/fit,3,Like New,0.956,0.129,1,1,Pass,0,0,0.33,0,3.16,111,1
+RET006194,SKU0047,Home & Kitchen,54.33,Better price found,17,Damaged,0.989,0.009,1,1,Fail,0,1,0.706,0,7.69,160,0
+RET006397,SKU0124,Accessories,23.43,Late delivery,6,Like New,0.571,0.249,1,1,Pass,0,0,0.392,0,1.81,171,0
+RET002252,SKU0025,Footwear,40.3,Late delivery,7,New/Sealed,0.848,0.0,1,1,Pass,0,0,0.451,1,6.17,171,1
+RET001590,SKU0009,Apparel,29.06,Better price found,26,New/Sealed,0.893,0.053,1,1,Pass,0,0,0.822,0,0.9,192,1
+RET001988,SKU0047,Home & Kitchen,54.33,Size/fit,6,New/Sealed,0.89,0.128,1,1,Pass,0,1,0.536,1,1.4,78,1
+RET005980,SKU0067,Beauty,31.0,Not as described,27,Minor Wear,0.867,0.071,1,1,Pass,1,0,0.664,0,6.83,160,0
+RET005544,SKU0003,Apparel,101.81,Better price found,20,Like New,0.756,0.0,1,1,Pass,0,0,0.837,0,5.64,78,1
+RET002688,SKU0116,Accessories,66.93,Not as described,12,New/Sealed,0.877,0.121,1,1,Pass,0,0,0.64,1,3.07,118,1
+RET004868,SKU0094,Books,38.53,Changed mind,27,Damaged,0.845,0.375,1,0,Minor Flaw,0,0,0.546,2,7.73,152,0
+RET002604,SKU0062,Beauty,48.24,Size/fit,1,Minor Wear,0.747,0.14,1,1,Pass,1,0,0.573,0,6.06,125,0
+RET002464,SKU0092,Books,24.18,Not as described,21,New/Sealed,0.865,0.089,1,0,Pass,0,0,0.49,0,8.32,111,1
+RET000559,SKU0104,Sports,80.62,Not as described,6,Damaged,0.872,0.159,0,0,Fail,0,0,0.657,1,7.87,125,0
+RET003282,SKU0010,Apparel,92.53,Size/fit,30,Damaged,0.807,0.018,1,1,Fail,0,0,0.607,0,5.82,38,0
+RET002160,SKU0041,Electronics,61.36,Better price found,26,Minor Wear,0.781,0.225,1,1,Minor Flaw,0,1,0.329,0,2.23,38,0
+RET002934,SKU0027,Footwear,37.92,Defective,23,New/Sealed,0.822,0.131,1,0,Fail,0,0,0.643,0,3.66,107,1
+RET003679,SKU0006,Apparel,16.83,Size/fit,24,Minor Wear,0.958,0.127,0,0,Pass,0,0,0.84,0,7.89,125,0
+RET004706,SKU0003,Apparel,101.81,Changed mind,14,New/Sealed,0.912,0.061,1,1,Pass,0,0,0.8,0,3.91,197,1
+RET006510,SKU0123,Accessories,40.92,Changed mind,3,New/Sealed,0.716,0.212,1,1,Pass,0,0,0.357,0,0.55,152,0
+RET003223,SKU0011,Apparel,16.42,Changed mind,18,Minor Wear,0.673,0.0,1,0,Minor Flaw,0,0,0.689,1,5.91,152,0
+RET003266,SKU0006,Apparel,16.83,Changed mind,26,Damaged,0.82,0.089,1,1,Fail,0,0,0.696,1,0.53,171,0
+RET006562,SKU0050,Home & Kitchen,43.68,Changed mind,20,Like New,0.662,0.052,1,1,Pass,0,1,0.318,2,6.84,144,0
+RET005785,SKU0089,Books,7.6,Defective,5,New/Sealed,0.937,0.238,1,1,Pass,0,0,0.294,0,8.45,125,1
+RET005470,SKU0051,Home & Kitchen,162.77,Better price found,10,Damaged,0.879,0.072,1,1,Fail,0,1,0.709,0,4.51,217,0
+RET001072,SKU0020,Footwear,101.04,Size/fit,24,Like New,0.942,0.134,1,1,Pass,0,0,0.632,1,0.64,107,1
+RET001683,SKU0058,Beauty,11.5,Damaged in transit,23,Minor Wear,0.881,0.088,1,1,Minor Flaw,1,0,0.294,2,1.28,111,0
+RET003364,SKU0037,Electronics,347.98,Not as described,23,New/Sealed,0.99,0.09,1,1,Pass,0,1,0.537,0,1.2,192,1
+RET001104,SKU0014,Apparel,16.62,Size/fit,11,New/Sealed,0.851,0.0,1,1,Pass,0,0,0.701,0,8.02,127,1
+RET000305,SKU0105,Sports,22.03,Size/fit,3,Damaged,0.932,0.028,1,0,Minor Flaw,0,0,0.601,2,4.08,192,0
+RET006989,SKU0047,Home & Kitchen,54.33,Better price found,25,New/Sealed,0.868,0.156,1,1,Pass,0,1,0.752,1,4.78,217,1
+RET002138,SKU0098,Books,7.14,Better price found,8,Like New,0.842,0.115,1,1,Pass,0,0,0.466,2,4.62,171,1
+RET000153,SKU0028,Footwear,48.2,Changed mind,24,Damaged,0.99,0.044,1,1,Minor Flaw,0,0,0.706,0,0.63,153,0
+RET004126,SKU0070,Beauty,23.0,Size/fit,28,New/Sealed,0.918,0.114,1,1,Pass,1,0,0.521,0,8.38,187,0
+RET002261,SKU0107,Sports,20.43,Size/fit,9,New/Sealed,0.92,0.281,1,1,Fail,0,0,0.351,2,4.62,187,1
+RET003010,SKU0103,Sports,67.04,Better price found,26,Minor Wear,0.883,0.179,1,1,Pass,0,0,0.904,0,5.17,160,0
+RET000172,SKU0042,Electronics,484.17,Late delivery,13,Damaged,0.85,0.141,1,1,Fail,0,1,0.707,1,4.72,118,0
+RET003638,SKU0037,Electronics,347.98,Late delivery,19,Damaged,0.854,0.05,1,1,Fail,0,1,0.446,0,7.48,110,0
+RET001765,SKU0053,Home & Kitchen,71.76,Changed mind,6,Minor Wear,0.703,0.052,1,1,Minor Flaw,0,1,0.688,2,3.42,118,0
+RET003421,SKU0048,Home & Kitchen,40.39,Size/fit,15,Damaged,0.897,0.027,1,1,Fail,0,1,0.459,1,6.89,187,0
+RET003467,SKU0046,Home & Kitchen,63.34,Better price found,6,Minor Wear,0.828,0.007,1,1,Minor Flaw,0,1,0.678,1,2.92,192,0
+RET005369,SKU0025,Footwear,40.3,Not as described,6,Damaged,0.798,0.021,1,1,Minor Flaw,0,0,0.701,2,5.99,217,0
+RET005381,SKU0049,Home & Kitchen,98.6,Not as described,13,Like New,0.803,0.059,1,1,Pass,0,1,0.5,0,5.53,152,0
+RET002577,SKU0052,Home & Kitchen,14.2,Size/fit,11,Minor Wear,0.773,0.0,1,1,Pass,0,1,0.763,1,5.92,153,0
+RET004188,SKU0083,Toys,34.67,Damaged in transit,14,New/Sealed,0.941,0.0,1,1,Pass,0,0,0.648,2,3.97,118,1
+RET000545,SKU0112,Sports,68.85,Wrong item,4,Like New,0.951,0.22,0,1,Pass,0,0,0.253,0,2.18,144,1
+RET002874,SKU0069,Beauty,53.52,Changed mind,15,Minor Wear,0.826,0.255,1,1,Minor Flaw,1,0,0.241,0,1.3,151,0
+RET002066,SKU0101,Sports,66.07,Not as described,15,New/Sealed,0.918,0.096,1,1,Pass,0,0,0.401,0,2.59,110,0
+RET000177,SKU0080,Toys,12.93,Defective,16,Damaged,0.865,0.0,1,1,Fail,0,0,0.397,1,1.11,130,0
+RET003007,SKU0052,Home & Kitchen,14.2,Changed mind,14,New/Sealed,0.896,0.095,1,1,Pass,0,1,0.803,0,3.94,90,1
+RET004808,SKU0026,Footwear,58.86,Defective,27,Damaged,0.92,0.07,1,0,Fail,0,0,0.709,1,1.99,118,0
+RET002309,SKU0022,Footwear,65.33,Changed mind,20,New/Sealed,0.931,0.068,0,1,Pass,0,0,0.715,0,2.39,118,1
+RET006138,SKU0025,Footwear,40.3,Not as described,7,New/Sealed,0.92,0.146,1,1,Pass,0,0,0.514,0,5.74,171,1
+RET004684,SKU0122,Accessories,121.13,Defective,15,Damaged,0.984,0.278,0,0,Fail,0,0,0.656,0,0.83,153,0
+RET002662,SKU0124,Accessories,23.43,Size/fit,10,New/Sealed,0.99,0.199,1,1,Pass,0,0,0.38,0,4.69,189,1
+RET002359,SKU0061,Beauty,28.58,Not as described,21,Minor Wear,0.879,0.048,1,1,Fail,1,0,0.715,0,1.27,107,0
+RET006859,SKU0023,Footwear,116.21,Size/fit,5,New/Sealed,0.908,0.148,1,1,Minor Flaw,0,0,0.568,0,7.51,127,1
+RET000857,SKU0013,Apparel,49.2,Size/fit,24,New/Sealed,0.892,0.003,1,1,Pass,0,0,0.643,0,7.43,197,1
+RET002016,SKU0110,Sports,77.63,Size/fit,6,Damaged,0.718,0.133,1,1,Fail,0,0,0.706,0,7.25,217,0
+RET006036,SKU0054,Home & Kitchen,101.72,Size/fit,27,New/Sealed,0.99,0.092,0,0,Pass,0,1,0.475,2,5.26,171,1
+RET002510,SKU0078,Toys,8.58,Size/fit,26,Minor Wear,0.877,0.0,1,1,Minor Flaw,0,0,0.344,0,2.77,171,0
+RET004214,SKU0027,Footwear,37.92,Changed mind,21,Like New,0.795,0.164,1,1,Pass,0,0,0.596,0,3.64,107,1
+RET006312,SKU0003,Apparel,101.81,Size/fit,13,Minor Wear,0.99,0.154,1,1,Pass,0,0,0.929,0,2.73,118,0
+RET000898,SKU0072,Toys,53.01,Defective,9,Damaged,0.714,0.038,0,1,Fail,0,0,0.383,3,8.25,110,0
+RET000423,SKU0083,Toys,34.67,Late delivery,3,New/Sealed,0.77,0.01,0,1,Pass,0,0,0.468,1,5.39,90,1
+RET005956,SKU0077,Toys,9.96,Defective,23,Damaged,0.683,0.092,0,1,Minor Flaw,0,0,0.323,1,2.28,81,0
+RET004879,SKU0054,Home & Kitchen,101.72,Wrong item,20,Like New,0.886,0.104,1,1,Pass,0,1,0.831,0,4.14,197,1
+RET002840,SKU0008,Apparel,61.78,Late delivery,28,Like New,0.546,0.873,1,1,Pass,0,0,0.595,3,6.94,111,0
+RET005420,SKU0018,Footwear,113.34,Size/fit,19,New/Sealed,0.879,0.085,1,1,Pass,0,0,0.452,0,7.71,144,1
+RET002225,SKU0012,Apparel,24.54,Changed mind,28,Like New,0.855,0.248,1,1,Pass,0,0,0.851,3,5.69,107,1
+RET006955,SKU0014,Apparel,16.62,Size/fit,23,Like New,0.77,0.0,1,1,Pass,0,0,0.662,0,7.48,111,1
+RET003371,SKU0073,Toys,89.36,Changed mind,10,Like New,0.821,0.208,1,1,Pass,0,0,0.579,1,8.32,160,1
+RET003762,SKU0102,Sports,173.9,Size/fit,8,Minor Wear,0.639,0.211,0,1,Minor Flaw,0,0,0.298,0,5.98,189,0
+RET006063,SKU0039,Electronics,53.78,Size/fit,26,Damaged,0.9,0.045,1,1,Fail,0,1,0.474,1,5.47,192,0
+RET000986,SKU0062,Beauty,48.24,Changed mind,14,New/Sealed,0.875,0.189,1,1,Pass,1,0,0.254,0,2.89,40,0
+RET003738,SKU0088,Books,6.47,Defective,4,Damaged,0.818,0.195,0,0,Fail,0,0,0.568,0,4.13,192,0
+RET003792,SKU0029,Electronics,130.37,Size/fit,4,Damaged,0.906,0.035,1,1,Fail,0,1,0.646,2,2.19,118,0
+RET005997,SKU0057,Beauty,18.5,Changed mind,24,Like New,0.708,0.038,1,1,Pass,1,0,0.516,0,3.91,152,0
+RET006268,SKU0075,Toys,10.35,Size/fit,23,Like New,0.889,0.191,1,1,Pass,0,0,0.474,2,7.86,90,1
+RET000005,SKU0025,Footwear,40.3,Better price found,17,New/Sealed,0.934,0.067,0,1,Pass,0,0,0.433,0,3.29,79,1
+RET006083,SKU0126,Accessories,12.15,Changed mind,28,New/Sealed,0.845,0.0,1,1,Pass,0,0,0.725,0,7.3,160,1
+RET005667,SKU0032,Electronics,111.19,Size/fit,15,Like New,0.665,0.172,0,1,Fail,0,1,0.436,0,5.92,78,0
+RET003557,SKU0112,Sports,68.85,Not as described,14,Like New,0.862,0.0,1,1,Pass,0,0,0.396,0,2.23,125,1
+RET006277,SKU0081,Toys,39.17,Better price found,24,Like New,0.878,0.069,1,1,Pass,0,0,0.651,0,0.54,153,1
+RET000577,SKU0045,Home & Kitchen,58.57,Size/fit,14,New/Sealed,0.628,0.165,1,1,Pass,0,1,0.393,0,4.53,171,0
+RET002315,SKU0043,Home & Kitchen,104.28,Size/fit,9,New/Sealed,0.905,0.109,1,1,Pass,0,1,0.313,1,3.51,40,1
+RET005793,SKU0075,Toys,10.35,Changed mind,8,Minor Wear,0.99,0.052,1,1,Pass,0,0,0.535,2,7.12,90,0
+RET003274,SKU0115,Accessories,47.13,Size/fit,21,New/Sealed,0.93,0.117,1,1,Pass,0,0,0.302,0,1.44,79,1
+RET001365,SKU0020,Footwear,101.04,Changed mind,5,Minor Wear,0.86,0.172,1,1,Pass,0,0,0.318,0,2.46,79,0
+RET000412,SKU0052,Home & Kitchen,14.2,Changed mind,19,New/Sealed,0.915,0.045,1,1,Fail,0,1,0.229,3,2.19,144,1
+RET000216,SKU0005,Apparel,19.07,Changed mind,7,Like New,0.874,0.033,1,1,Pass,0,0,0.718,0,3.69,152,0
+RET000481,SKU0087,Books,22.56,Size/fit,16,New/Sealed,0.62,0.075,1,1,Pass,0,0,0.62,0,2.7,217,0
+RET004575,SKU0085,Books,6.69,Late delivery,16,Like New,0.836,0.221,1,1,Pass,0,0,0.515,0,5.05,90,1
+RET002472,SKU0059,Beauty,69.06,Changed mind,16,Damaged,0.899,0.003,1,1,Fail,1,0,0.564,2,4.14,90,0
+RET000727,SKU0012,Apparel,24.54,Changed mind,4,New/Sealed,0.697,0.0,1,1,Pass,0,0,0.842,0,3.66,127,0
+RET001332,SKU0117,Accessories,58.52,Late delivery,21,Damaged,0.897,0.229,0,0,Fail,0,0,0.471,1,2.18,90,0
+RET004977,SKU0037,Electronics,347.98,Changed mind,18,Minor Wear,0.799,0.089,1,1,Minor Flaw,0,1,0.395,0,6.33,79,0
+RET001968,SKU0118,Accessories,84.35,Changed mind,1,Like New,0.622,0.194,1,1,Pass,0,0,0.347,0,7.47,187,0
+RET001194,SKU0124,Accessories,23.43,Damaged in transit,30,Damaged,0.925,0.039,1,1,Fail,0,0,0.442,0,3.54,125,0
+RET003131,SKU0092,Books,24.18,Better price found,17,Like New,0.875,0.032,1,1,Pass,0,0,0.684,0,3.53,160,1
+RET000374,SKU0032,Electronics,111.19,Changed mind,6,New/Sealed,0.895,0.02,1,1,Pass,0,1,0.556,0,7.44,197,1
+RET003927,SKU0023,Footwear,116.21,Size/fit,25,New/Sealed,0.914,0.084,1,1,Pass,0,0,0.853,1,4.9,160,1
+RET004563,SKU0124,Accessories,23.43,Damaged in transit,6,Damaged,0.99,0.14,0,1,Fail,0,0,0.672,2,5.25,192,0
+RET006055,SKU0055,Home & Kitchen,27.17,Defective,28,Minor Wear,0.916,0.132,0,1,Pass,0,1,0.429,2,7.03,125,0
+RET000787,SKU0075,Toys,10.35,Better price found,11,New/Sealed,0.865,0.118,0,1,Pass,0,0,0.69,1,8.36,107,1
+RET001495,SKU0046,Home & Kitchen,63.34,Not as described,27,Minor Wear,0.529,0.146,1,1,Minor Flaw,0,1,0.544,0,1.72,111,0
+RET003429,SKU0005,Apparel,19.07,Size/fit,8,Like New,0.966,0.06,1,1,Pass,0,0,0.78,1,3.85,127,1
+RET001461,SKU0077,Toys,9.96,Changed mind,2,New/Sealed,0.953,0.137,1,1,Pass,0,0,0.666,1,2.18,118,1
+RET003433,SKU0012,Apparel,24.54,Not as described,4,Damaged,0.818,0.186,1,1,Fail,0,0,0.45,0,4.32,40,0
+RET001523,SKU0007,Apparel,16.76,Better price found,7,Like New,0.869,0.115,1,1,Pass,0,0,0.723,0,5.4,171,1
+RET006098,SKU0001,Apparel,20.33,Size/fit,14,Like New,0.846,0.0,1,1,Pass,0,0,0.61,0,6.25,171,1
+RET001623,SKU0048,Home & Kitchen,40.39,Not as described,3,Like New,0.72,0.215,1,1,Pass,0,1,0.755,0,6.98,107,0
+RET005828,SKU0073,Toys,89.36,Size/fit,3,New/Sealed,0.91,0.0,1,1,Pass,0,0,0.587,1,1.15,107,1
+RET005871,SKU0066,Beauty,34.69,Size/fit,5,Damaged,0.611,0.1,1,1,Fail,1,0,0.458,1,1.01,78,0
+RET003575,SKU0051,Home & Kitchen,162.77,Defective,1,Damaged,0.977,0.15,1,1,Minor Flaw,0,1,0.536,1,4.18,187,0
+RET004537,SKU0011,Apparel,16.42,Late delivery,2,New/Sealed,0.813,0.11,1,1,Pass,0,0,0.889,2,1.48,192,1
+RET002562,SKU0075,Toys,10.35,Damaged in transit,4,Damaged,0.89,0.117,1,1,Fail,0,0,0.585,1,4.97,160,0
+RET002302,SKU0003,Apparel,101.81,Changed mind,4,Like New,0.831,0.178,1,1,Pass,0,0,0.77,0,4.22,217,1
+RET006736,SKU0013,Apparel,49.2,Wrong item,13,Minor Wear,0.948,0.018,0,0,Pass,0,0,0.843,1,0.55,125,0
+RET006781,SKU0094,Books,38.53,Better price found,23,Minor Wear,0.829,0.053,0,1,Fail,0,0,0.591,3,2.05,90,0
+RET001053,SKU0086,Books,34.88,Changed mind,21,New/Sealed,0.913,0.782,1,1,Pass,0,0,0.547,1,6.25,125,0
+RET001316,SKU0045,Home & Kitchen,58.57,Size/fit,16,Damaged,0.863,0.18,1,1,Fail,0,1,0.202,0,2.81,27,0
+RET005011,SKU0039,Electronics,53.78,Not as described,27,Minor Wear,0.589,0.134,1,1,Minor Flaw,0,1,0.117,0,3.22,26,0
+RET006322,SKU0122,Accessories,121.13,Size/fit,22,Like New,0.65,0.135,1,1,Pass,0,0,0.542,0,5.4,118,0
+RET006676,SKU0026,Footwear,58.86,Size/fit,12,New/Sealed,0.976,0.092,1,1,Pass,0,0,0.547,1,1.67,125,1
+RET005979,SKU0019,Footwear,144.61,Not as described,20,New/Sealed,0.875,0.176,1,1,Pass,0,0,0.702,1,6.0,153,1
+RET002953,SKU0079,Toys,11.31,Not as described,5,Like New,0.967,0.11,1,1,Pass,0,0,0.398,0,7.83,152,0
+RET005948,SKU0073,Toys,89.36,Changed mind,30,New/Sealed,0.82,0.0,1,1,Pass,0,0,0.304,0,1.18,111,1
+RET000428,SKU0007,Apparel,16.76,Size/fit,30,New/Sealed,0.939,0.138,1,1,Pass,0,0,0.796,1,2.71,90,1
+RET003321,SKU0037,Electronics,347.98,Better price found,20,Like New,0.933,0.113,1,1,Pass,0,1,0.518,0,6.83,151,1
+RET002273,SKU0014,Apparel,16.62,Not as described,7,Damaged,0.99,0.0,1,1,Fail,0,0,0.764,3,2.79,192,0
+RET003835,SKU0082,Toys,8.11,Size/fit,10,Like New,0.882,0.069,1,1,Pass,0,0,0.313,0,2.93,81,1
+RET000736,SKU0014,Apparel,16.62,Changed mind,7,Like New,0.832,0.107,1,1,Pass,0,0,0.825,0,7.18,217,1
+RET000650,SKU0065,Beauty,10.51,Size/fit,3,New/Sealed,0.882,0.121,1,1,Pass,1,0,0.596,1,1.54,192,0
+RET001753,SKU0054,Home & Kitchen,101.72,Changed mind,14,Damaged,0.935,0.071,1,1,Fail,0,1,0.731,0,1.13,153,0
+RET000829,SKU0007,Apparel,16.76,Not as described,21,Like New,0.904,0.013,1,1,Pass,0,0,0.872,0,2.45,153,1
+RET005430,SKU0057,Beauty,18.5,Changed mind,29,Like New,0.936,0.05,1,1,Pass,1,0,0.425,1,5.51,171,0
+RET003505,SKU0018,Footwear,113.34,Not as described,18,New/Sealed,0.858,0.137,1,1,Pass,0,0,0.653,0,5.17,192,1
+RET006963,SKU0034,Electronics,489.49,Changed mind,10,New/Sealed,0.887,0.0,1,1,Pass,0,1,0.649,0,4.02,125,1
+RET004302,SKU0117,Accessories,58.52,Damaged in transit,2,Damaged,0.892,0.041,1,1,Fail,0,0,0.216,2,7.9,18,0
+RET003508,SKU0075,Toys,10.35,Better price found,21,Like New,0.944,0.0,0,1,Pass,0,0,0.331,0,8.4,110,0
+RET005680,SKU0009,Apparel,29.06,Not as described,27,New/Sealed,0.853,0.084,1,1,Pass,0,0,0.435,2,6.99,51,1
+RET004238,SKU0008,Apparel,61.78,Not as described,26,New/Sealed,0.786,0.081,1,1,Minor Flaw,0,0,0.837,0,4.54,160,1
+RET003861,SKU0048,Home & Kitchen,40.39,Changed mind,15,New/Sealed,0.743,0.089,1,1,Pass,0,1,0.54,0,3.37,111,0
+RET005052,SKU0012,Apparel,24.54,Damaged in transit,19,Minor Wear,0.799,0.094,1,1,Pass,0,0,0.469,0,1.79,26,0
+RET001714,SKU0018,Footwear,113.34,Wrong item,13,New/Sealed,0.768,0.03,1,1,Pass,0,0,0.742,0,4.95,118,1
+RET006156,SKU0045,Home & Kitchen,58.57,Not as described,8,Minor Wear,0.717,0.167,1,1,Minor Flaw,0,1,0.175,0,7.81,59,0
+RET001562,SKU0100,Sports,114.32,Wrong item,15,Like New,0.765,0.174,1,1,Pass,0,0,0.723,0,1.8,127,1
+RET003337,SKU0017,Footwear,131.1,Changed mind,3,New/Sealed,0.954,0.0,0,1,Pass,0,0,0.71,2,1.2,160,1
+RET005392,SKU0088,Books,6.47,Better price found,16,New/Sealed,0.99,0.018,1,1,Pass,0,0,0.079,1,4.6,27,1
+RET004352,SKU0083,Toys,34.67,Damaged in transit,17,Minor Wear,0.77,0.115,1,1,Pass,0,0,0.616,2,7.21,118,0
+RET000257,SKU0008,Apparel,61.78,Size/fit,19,Like New,0.862,0.069,1,1,Pass,0,0,0.499,2,3.46,51,1
+RET001268,SKU0044,Home & Kitchen,170.14,Wrong item,18,New/Sealed,0.908,0.111,1,1,Pass,0,1,0.612,2,7.74,78,1
+RET006380,SKU0026,Footwear,58.86,Size/fit,4,Like New,0.957,0.134,1,1,Pass,0,0,0.442,2,2.47,145,1
+RET006093,SKU0076,Toys,40.07,Not as described,9,New/Sealed,0.987,0.054,1,1,Pass,0,0,0.308,3,7.17,189,1
+RET002466,SKU0073,Toys,89.36,Not as described,15,New/Sealed,0.676,0.065,1,1,Pass,0,0,0.594,4,2.93,118,0
+RET005830,SKU0111,Sports,43.25,Defective,4,Minor Wear,0.966,0.158,1,1,Minor Flaw,0,0,0.664,0,2.07,217,0
+RET005242,SKU0080,Toys,12.93,Wrong item,18,Minor Wear,0.907,0.025,0,1,Pass,0,0,0.454,2,4.53,153,0
+RET000420,SKU0032,Electronics,111.19,Wrong item,14,Like New,0.578,0.241,0,1,Pass,0,1,0.659,0,7.37,192,0
+RET001637,SKU0082,Toys,8.11,Changed mind,1,Like New,0.917,0.092,1,1,Pass,0,0,0.578,1,0.82,197,1
+RET005179,SKU0052,Home & Kitchen,14.2,Changed mind,11,Like New,0.768,0.147,1,1,Pass,0,1,0.486,0,6.86,171,1
+RET002435,SKU0026,Footwear,58.86,Size/fit,1,Like New,0.798,0.093,1,1,Pass,0,0,0.665,0,2.47,118,1
+RET003887,SKU0011,Apparel,16.42,Better price found,6,Damaged,0.791,0.082,0,1,Fail,0,0,0.941,2,5.5,153,0
+RET005818,SKU0018,Footwear,113.34,Size/fit,10,Like New,0.847,0.076,1,1,Pass,0,0,0.71,2,8.03,192,1
+RET001511,SKU0001,Apparel,20.33,Size/fit,2,New/Sealed,0.78,0.0,1,1,Pass,0,0,0.493,0,4.26,40,1
+RET002214,SKU0078,Toys,8.58,Late delivery,23,Minor Wear,0.919,0.094,1,0,Minor Flaw,0,0,0.649,1,8.42,160,0
+RET004274,SKU0103,Sports,67.04,Changed mind,30,New/Sealed,0.899,0.0,1,1,Pass,0,0,0.499,2,3.15,107,1
+RET003460,SKU0010,Apparel,92.53,Not as described,25,Minor Wear,0.766,0.088,1,1,Pass,0,0,0.583,2,3.43,79,0
+RET002342,SKU0026,Footwear,58.86,Size/fit,21,New/Sealed,0.814,0.0,1,1,Pass,0,0,0.587,0,8.0,153,1
+RET005203,SKU0007,Apparel,16.76,Changed mind,12,Like New,0.806,0.257,1,1,Pass,0,0,0.882,0,5.7,153,1
+RET006521,SKU0014,Apparel,16.62,Defective,2,Minor Wear,0.86,0.113,0,0,Minor Flaw,0,0,0.581,0,2.23,78,0
+RET001071,SKU0035,Electronics,287.0,Not as described,8,Damaged,0.881,0.099,0,1,Fail,0,1,0.641,0,1.32,192,0
+RET004946,SKU0064,Beauty,41.77,Size/fit,9,New/Sealed,0.938,0.149,1,1,Minor Flaw,1,0,0.442,1,0.91,125,0
+RET001990,SKU0069,Beauty,53.52,Better price found,29,Minor Wear,0.499,0.0,1,0,Pass,1,0,0.686,2,6.88,127,0
+RET006746,SKU0111,Sports,43.25,Size/fit,9,Like New,0.643,0.007,1,1,Pass,0,0,0.538,0,5.35,171,0
+RET006899,SKU0082,Toys,8.11,Defective,21,Like New,0.689,0.031,0,1,Pass,0,0,0.458,0,7.85,197,0
+RET000802,SKU0001,Apparel,20.33,Size/fit,27,New/Sealed,0.84,0.18,1,1,Pass,0,0,0.492,1,5.43,151,1
+RET005627,SKU0012,Apparel,24.54,Wrong item,3,New/Sealed,0.572,0.142,1,1,Pass,0,0,0.731,0,5.37,171,0
+RET006106,SKU0099,Sports,189.92,Not as described,28,New/Sealed,0.86,0.089,1,1,Pass,0,0,0.041,2,7.05,24,0
+RET006888,SKU0082,Toys,8.11,Not as described,8,New/Sealed,0.867,0.252,1,1,Pass,0,0,0.377,1,3.55,187,1
+RET002807,SKU0006,Apparel,16.83,Not as described,25,New/Sealed,0.99,0.006,1,1,Fail,0,0,0.496,0,5.25,51,1
+RET006656,SKU0013,Apparel,49.2,Changed mind,16,Like New,0.843,0.084,1,1,Pass,0,0,0.828,0,6.01,160,1
+RET000014,SKU0031,Electronics,693.63,Better price found,7,Damaged,0.815,0.173,1,1,Fail,0,1,0.537,0,6.75,78,0
+RET000029,SKU0125,Accessories,38.12,Size/fit,14,Minor Wear,0.818,0.0,1,1,Minor Flaw,0,0,0.235,1,3.19,12,0
+RET006909,SKU0007,Apparel,16.76,Size/fit,21,Like New,0.842,0.036,1,1,Pass,0,0,0.529,2,3.23,45,1
+RET003868,SKU0002,Apparel,28.6,Not as described,25,New/Sealed,0.978,0.146,1,1,Pass,0,0,0.763,1,4.35,171,1
+RET001189,SKU0113,Accessories,11.03,Not as described,2,Like New,0.781,0.162,1,1,Pass,0,0,0.271,0,6.54,152,0
+RET002175,SKU0017,Footwear,131.1,Size/fit,22,Like New,0.948,0.0,1,1,Pass,0,0,0.628,0,0.92,118,1
+RET001054,SKU0043,Home & Kitchen,104.28,Not as described,15,Minor Wear,0.711,0.187,0,1,Pass,0,1,0.714,1,7.14,197,0
+RET001571,SKU0068,Beauty,8.23,Size/fit,15,Minor Wear,0.783,0.111,1,1,Minor Flaw,1,0,0.406,1,6.48,111,0
+RET006971,SKU0053,Home & Kitchen,71.76,Wrong item,6,Damaged,0.729,0.141,1,1,Minor Flaw,0,1,0.715,0,0.7,118,0
+RET001687,SKU0019,Footwear,144.61,Size/fit,2,Minor Wear,0.99,0.166,1,1,Pass,0,0,0.401,1,2.69,171,0
+RET005093,SKU0052,Home & Kitchen,14.2,Size/fit,29,New/Sealed,0.976,0.048,1,1,Pass,0,1,0.342,1,4.48,189,1
+RET005168,SKU0031,Electronics,693.63,Late delivery,8,New/Sealed,0.729,0.264,1,1,Minor Flaw,0,1,0.385,0,6.09,144,0
+RET000748,SKU0126,Accessories,12.15,Size/fit,15,Minor Wear,0.697,0.179,1,1,Pass,0,0,0.174,0,7.72,144,0
+RET006570,SKU0097,Books,23.06,Size/fit,5,Like New,0.958,0.202,1,1,Pass,0,0,0.395,0,4.94,217,1
+RET005730,SKU0012,Apparel,24.54,Late delivery,10,Like New,0.689,0.176,1,1,Minor Flaw,0,0,0.514,1,5.05,151,0
+RET000315,SKU0058,Beauty,11.5,Changed mind,17,Minor Wear,0.952,0.088,1,1,Fail,1,0,0.718,0,4.77,160,0
+RET002932,SKU0031,Electronics,693.63,Not as described,24,Damaged,0.796,0.091,1,1,Fail,0,1,0.528,1,0.87,90,0
+RET006015,SKU0024,Footwear,49.84,Changed mind,23,Minor Wear,0.782,0.099,0,1,Pass,0,0,0.368,0,4.02,81,0
+RET001249,SKU0027,Footwear,37.92,Defective,5,Like New,0.9,0.012,1,1,Fail,0,0,0.651,0,7.53,90,1
+RET006221,SKU0100,Sports,114.32,Defective,28,Like New,0.851,0.24,1,1,Minor Flaw,0,0,0.487,1,1.37,125,1
+RET003492,SKU0017,Footwear,131.1,Damaged in transit,28,Damaged,0.949,0.0,0,1,Fail,0,0,0.306,0,1.98,38,0
+RET006273,SKU0065,Beauty,10.51,Size/fit,22,Damaged,0.657,0.0,1,1,Fail,1,0,0.688,4,1.22,118,0
+RET001588,SKU0017,Footwear,131.1,Defective,9,Like New,0.658,0.062,0,1,Pass,0,0,0.271,3,8.42,50,0
+RET006042,SKU0006,Apparel,16.83,Size/fit,18,Like New,0.99,0.207,1,1,Pass,0,0,0.513,3,5.12,38,1
+RET001585,SKU0003,Apparel,101.81,Changed mind,24,Like New,0.855,0.218,1,1,Pass,0,0,0.571,1,7.38,171,1
+RET004389,SKU0047,Home & Kitchen,54.33,Changed mind,30,Like New,0.865,0.102,1,1,Pass,0,1,0.522,1,5.95,217,1
+RET005946,SKU0075,Toys,10.35,Defective,15,Damaged,0.912,0.097,1,1,Minor Flaw,0,0,0.484,0,7.45,160,0
+RET005017,SKU0119,Accessories,32.17,Not as described,28,Like New,0.845,0.087,0,1,Pass,0,0,0.582,0,4.1,127,1
+RET003053,SKU0122,Accessories,121.13,Changed mind,4,New/Sealed,0.881,0.208,1,1,Pass,0,0,0.553,0,7.93,90,1
+RET006067,SKU0121,Accessories,73.52,Defective,26,Minor Wear,0.667,0.214,1,0,Pass,0,0,0.641,0,2.3,118,0
+RET000611,SKU0095,Books,6.65,Size/fit,27,New/Sealed,0.863,0.176,0,0,Pass,0,0,0.298,1,1.4,187,1
+RET002841,SKU0003,Apparel,101.81,Not as described,9,Like New,0.803,0.098,1,1,Pass,0,0,0.921,3,2.21,192,1
+RET001451,SKU0055,Home & Kitchen,27.17,Changed mind,25,Damaged,0.61,0.167,1,1,Fail,0,1,0.511,0,5.53,110,0
+RET000477,SKU0028,Footwear,48.2,Defective,18,Damaged,0.734,0.134,1,1,Minor Flaw,0,0,0.565,0,0.77,127,0
+RET001166,SKU0041,Electronics,61.36,Size/fit,5,Like New,0.616,0.045,1,1,Pass,0,1,0.643,1,3.79,127,0
+RET003194,SKU0010,Apparel,92.53,Defective,16,Damaged,0.926,0.0,1,1,Fail,0,0,0.901,0,7.55,192,0
+RET000683,SKU0104,Sports,80.62,Defective,18,Minor Wear,0.801,0.131,0,1,Pass,0,0,0.054,0,5.05,56,0
+RET004909,SKU0033,Electronics,561.65,Better price found,22,Minor Wear,0.551,0.0,1,1,Pass,0,1,0.522,2,3.09,171,0
+RET002988,SKU0100,Sports,114.32,Changed mind,27,New/Sealed,0.858,0.103,1,1,Pass,0,0,0.612,2,3.75,160,1
+RET000901,SKU0097,Books,23.06,Better price found,14,New/Sealed,0.845,0.191,1,0,Pass,0,0,0.41,0,6.07,127,1
+RET006366,SKU0026,Footwear,58.86,Not as described,27,New/Sealed,0.889,0.114,1,1,Pass,0,0,0.461,0,2.31,152,0
+RET005422,SKU0018,Footwear,113.34,Defective,1,Minor Wear,0.721,0.075,1,1,Minor Flaw,0,0,0.431,0,2.65,81,0
+RET006951,SKU0003,Apparel,101.81,Not as described,1,Like New,0.761,0.226,1,1,Pass,0,0,0.85,0,8.36,127,1
+RET005987,SKU0032,Electronics,111.19,Changed mind,15,Like New,0.984,0.14,1,1,Pass,0,1,0.655,1,6.69,217,1
+RET005551,SKU0010,Apparel,92.53,Changed mind,21,New/Sealed,0.985,0.162,0,1,Pass,0,0,0.677,2,5.23,90,1
+RET006483,SKU0088,Books,6.47,Not as described,17,New/Sealed,0.84,0.13,1,1,Pass,0,0,0.283,2,3.85,130,1
+RET004744,SKU0105,Sports,22.03,Defective,27,Like New,0.57,0.143,0,1,Pass,0,0,0.14,1,2.84,56,0
+RET001110,SKU0049,Home & Kitchen,98.6,Size/fit,1,Minor Wear,0.705,0.258,1,1,Pass,0,1,0.579,0,4.09,90,0
+RET002706,SKU0001,Apparel,20.33,Not as described,18,Like New,0.76,0.028,1,1,Pass,0,0,0.814,0,1.58,107,1
+RET002534,SKU0123,Accessories,40.92,Defective,23,Minor Wear,0.905,0.186,1,1,Minor Flaw,0,0,0.415,0,7.57,171,0
+RET001099,SKU0018,Footwear,113.34,Size/fit,21,Damaged,0.84,0.0,1,1,Fail,0,0,0.58,0,3.03,153,0
+RET006532,SKU0016,Footwear,111.3,Changed mind,27,New/Sealed,0.965,0.16,1,1,Minor Flaw,0,0,0.688,1,0.59,118,1
+RET003591,SKU0054,Home & Kitchen,101.72,Late delivery,16,Minor Wear,0.646,0.168,1,1,Pass,0,1,0.686,0,6.25,127,0
+RET005724,SKU0005,Apparel,19.07,Not as described,15,Like New,0.824,0.214,1,1,Pass,0,0,0.415,0,6.96,189,1
+RET002488,SKU0007,Apparel,16.76,Changed mind,7,Like New,0.863,0.216,1,1,Pass,0,0,0.672,0,4.61,111,1
+RET001930,SKU0011,Apparel,16.42,Not as described,29,New/Sealed,0.464,0.115,1,1,Pass,0,0,0.63,1,1.48,12,0
+RET005259,SKU0089,Books,7.6,Size/fit,3,New/Sealed,0.833,0.074,1,1,Pass,0,0,0.491,3,1.87,192,1
+RET004267,SKU0021,Footwear,100.95,Size/fit,9,Like New,0.899,0.171,0,1,Pass,0,0,0.777,0,7.91,197,1
+RET004350,SKU0107,Sports,20.43,Late delivery,22,Minor Wear,0.8,0.093,1,1,Minor Flaw,0,0,0.046,0,3.89,18,0
+RET006214,SKU0034,Electronics,489.49,Defective,8,Damaged,0.923,0.053,1,1,Minor Flaw,0,1,0.201,0,3.49,24,0
+RET002378,SKU0009,Apparel,29.06,Defective,26,Like New,0.99,0.03,0,0,Minor Flaw,0,0,0.455,0,1.63,40,1
+RET004605,SKU0058,Beauty,11.5,Defective,22,Minor Wear,0.876,0.043,1,1,Pass,1,0,0.471,2,8.28,130,0
+RET001583,SKU0110,Sports,77.63,Defective,4,Like New,0.972,0.099,1,1,Pass,0,0,0.401,0,0.79,78,1
+RET000041,SKU0012,Apparel,24.54,Better price found,1,Minor Wear,0.99,0.148,1,1,Fail,0,0,0.605,0,2.34,171,0
+RET006262,SKU0123,Accessories,40.92,Changed mind,20,New/Sealed,0.868,0.145,1,1,Pass,0,0,0.585,0,4.66,192,1
+RET006351,SKU0006,Apparel,16.83,Damaged in transit,8,Damaged,0.841,0.122,1,1,Minor Flaw,0,0,0.673,0,1.93,171,0
+RET003551,SKU0011,Apparel,16.42,Size/fit,8,Minor Wear,0.967,0.08,1,1,Pass,0,0,0.829,0,6.07,78,0
+RET003014,SKU0039,Electronics,53.78,Changed mind,30,Minor Wear,0.77,0.16,1,1,Minor Flaw,0,1,0.482,0,6.36,125,0
+RET001134,SKU0043,Home & Kitchen,104.28,Late delivery,29,New/Sealed,0.71,0.039,0,1,Pass,0,1,0.628,0,8.33,130,0
+RET000320,SKU0053,Home & Kitchen,71.76,Damaged in transit,13,Minor Wear,0.785,0.14,0,0,Fail,0,1,0.429,2,7.97,110,0
+RET001180,SKU0113,Accessories,11.03,Defective,1,New/Sealed,0.821,0.057,1,1,Pass,0,0,0.528,0,4.44,197,1
+RET002738,SKU0044,Home & Kitchen,170.14,Not as described,15,Like New,0.846,0.14,1,1,Pass,0,1,0.38,1,6.55,40,1
+RET000476,SKU0004,Apparel,27.12,Size/fit,29,Minor Wear,0.906,0.071,1,1,Minor Flaw,0,0,0.392,2,8.18,12,0
+RET000517,SKU0077,Toys,9.96,Not as described,20,Like New,0.99,0.145,1,1,Pass,0,0,0.126,0,1.15,70,1
+RET006567,SKU0008,Apparel,61.78,Changed mind,19,New/Sealed,0.886,0.137,1,1,Pass,0,0,0.745,0,1.66,125,1
+RET000596,SKU0034,Electronics,489.49,Not as described,29,Like New,0.645,0.0,1,1,Pass,0,1,0.74,0,1.85,118,0
+RET004021,SKU0065,Beauty,10.51,Late delivery,1,Minor Wear,0.757,0.076,1,1,Fail,1,0,0.71,1,0.67,217,0
+RET003108,SKU0121,Accessories,73.52,Not as described,7,Like New,0.79,0.139,1,1,Pass,0,0,0.665,0,7.13,160,1
+RET002393,SKU0033,Electronics,561.65,Changed mind,23,Damaged,0.672,0.083,1,1,Fail,0,1,0.754,0,2.04,90,0
+RET005057,SKU0013,Apparel,49.2,Size/fit,20,Minor Wear,0.721,0.19,1,1,Pass,0,0,0.494,0,5.24,56,0
+RET002130,SKU0081,Toys,39.17,Size/fit,9,New/Sealed,0.945,0.0,1,1,Pass,0,0,0.553,1,4.8,153,1
+RET000917,SKU0084,Toys,14.25,Not as described,7,Damaged,0.782,0.088,0,1,Minor Flaw,0,0,0.151,0,1.55,38,0
+RET005362,SKU0010,Apparel,92.53,Changed mind,5,Damaged,0.758,0.061,1,1,Minor Flaw,0,0,0.953,0,1.71,160,0
+RET000820,SKU0047,Home & Kitchen,54.33,Damaged in transit,23,Damaged,0.611,0.171,1,1,Fail,0,1,0.743,1,3.01,127,0
+RET001219,SKU0118,Accessories,84.35,Not as described,13,Like New,0.851,0.128,1,1,Pass,0,0,0.417,1,6.75,78,1
+RET004781,SKU0102,Sports,173.9,Size/fit,13,Like New,0.864,0.202,1,1,Pass,0,0,0.519,3,6.69,78,1
+RET002089,SKU0037,Electronics,347.98,Size/fit,15,Minor Wear,0.526,0.199,1,1,Pass,0,1,0.667,0,2.25,192,0
+RET006358,SKU0054,Home & Kitchen,101.72,Not as described,25,Like New,0.888,0.023,1,1,Pass,0,1,0.177,0,0.55,40,1
+RET004993,SKU0104,Sports,80.62,Size/fit,30,Like New,0.93,0.042,1,1,Pass,0,0,0.221,1,1.85,144,1
+RET006534,SKU0120,Accessories,26.56,Not as described,29,New/Sealed,0.92,0.0,0,1,Fail,0,0,0.42,0,4.37,152,0
+RET002652,SKU0074,Toys,15.9,Size/fit,16,Damaged,0.823,0.023,1,1,Fail,0,0,0.812,0,8.2,192,0
+RET004096,SKU0015,Footwear,63.9,Size/fit,21,New/Sealed,0.822,0.0,0,1,Pass,0,0,0.621,0,5.33,130,1
+RET002502,SKU0071,Toys,16.61,Changed mind,15,Damaged,0.82,0.079,1,1,Minor Flaw,0,0,0.699,2,5.06,153,0
+RET004442,SKU0123,Accessories,40.92,Defective,30,Damaged,0.761,0.237,0,0,Fail,0,0,0.224,1,2.64,24,0
+RET001379,SKU0016,Footwear,111.3,Changed mind,17,New/Sealed,0.94,0.204,1,1,Pass,0,0,0.678,2,1.8,160,1
+RET006869,SKU0030,Electronics,100.81,Changed mind,11,New/Sealed,0.688,0.0,1,1,Pass,0,1,0.775,2,8.19,192,0
+RET003099,SKU0065,Beauty,10.51,Size/fit,6,Damaged,0.843,0.134,1,1,Fail,1,0,0.352,0,7.61,189,0
+RET006959,SKU0012,Apparel,24.54,Defective,13,Damaged,0.847,0.516,1,1,Minor Flaw,0,0,0.844,0,6.39,197,0
+RET000250,SKU0010,Apparel,92.53,Not as described,23,New/Sealed,0.913,0.243,1,1,Pass,0,0,0.43,0,0.74,12,1
+RET004995,SKU0011,Apparel,16.42,Damaged in transit,13,Damaged,0.865,0.128,0,1,Fail,0,0,0.545,0,2.09,110,0
+RET002187,SKU0034,Electronics,489.49,Defective,15,Like New,0.657,0.0,1,0,Pass,0,1,0.677,0,4.25,153,0
+RET000798,SKU0118,Accessories,84.35,Wrong item,14,Like New,0.876,0.0,1,1,Pass,0,0,0.185,0,4.54,50,1
+RET004908,SKU0029,Electronics,130.37,Size/fit,16,Minor Wear,0.625,0.04,1,1,Pass,0,1,0.689,3,8.11,153,0
+RET001946,SKU0007,Apparel,16.76,Size/fit,7,New/Sealed,0.865,0.09,1,1,Pass,0,0,0.894,0,5.05,153,1
+RET000570,SKU0112,Sports,68.85,Damaged in transit,5,Damaged,0.761,0.176,1,1,Fail,0,0,0.627,1,1.74,90,0
+RET001980,SKU0035,Electronics,287.0,Size/fit,30,Minor Wear,0.551,0.248,1,1,Pass,0,1,0.268,2,5.29,12,0
+RET001829,SKU0011,Apparel,16.42,Changed mind,15,Damaged,0.703,0.084,0,0,Minor Flaw,0,0,0.801,0,3.57,217,0
+RET003441,SKU0118,Accessories,84.35,Wrong item,3,New/Sealed,0.963,0.182,1,1,Pass,0,0,0.582,0,2.98,197,1
+RET006117,SKU0013,Apparel,49.2,Size/fit,20,Like New,0.85,0.153,1,1,Pass,0,0,0.544,0,1.08,145,1
+RET001593,SKU0059,Beauty,69.06,Size/fit,7,New/Sealed,0.84,0.0,1,1,Pass,1,0,0.274,0,3.96,187,0
+RET006650,SKU0042,Electronics,484.17,Not as described,12,Damaged,0.587,0.0,1,1,Minor Flaw,0,1,0.843,4,2.76,90,0
+RET002193,SKU0073,Toys,89.36,Wrong item,12,Damaged,0.905,0.252,1,0,Minor Flaw,0,0,0.388,0,2.56,171,0
+RET004883,SKU0040,Electronics,52.04,Changed mind,16,New/Sealed,0.677,0.084,1,1,Pass,0,1,0.758,2,0.77,217,0
+RET004373,SKU0101,Sports,66.07,Better price found,15,Minor Wear,0.925,0.0,1,1,Pass,0,0,0.117,0,6.37,151,0
+RET000723,SKU0014,Apparel,16.62,Better price found,5,Damaged,0.979,0.191,1,1,Fail,0,0,0.36,0,6.22,145,0
+RET004613,SKU0053,Home & Kitchen,71.76,Changed mind,15,Like New,0.923,0.081,1,0,Pass,0,1,0.43,2,6.83,18,1
+RET006969,SKU0047,Home & Kitchen,54.33,Changed mind,8,New/Sealed,0.933,0.0,0,1,Pass,0,1,0.717,0,6.18,160,1
+RET005534,SKU0034,Electronics,489.49,Not as described,7,Like New,0.886,0.039,1,1,Pass,0,1,0.639,0,7.69,160,1
+RET002788,SKU0002,Apparel,28.6,Changed mind,24,New/Sealed,0.888,0.211,1,1,Pass,0,0,0.392,0,3.27,56,1
+RET002391,SKU0010,Apparel,92.53,Size/fit,6,Minor Wear,0.941,0.178,0,1,Pass,0,0,0.56,0,8.05,187,0
+RET004835,SKU0075,Toys,10.35,Not as described,14,Like New,0.99,0.074,1,1,Pass,0,0,0.739,0,5.76,153,1
+RET002811,SKU0072,Toys,53.01,Not as described,7,Damaged,0.541,0.61,1,1,Fail,0,0,0.444,0,3.27,78,0
+RET006165,SKU0040,Electronics,52.04,Size/fit,7,Like New,0.815,0.141,0,0,Pass,0,1,0.346,0,2.35,111,1
+RET006530,SKU0013,Apparel,49.2,Defective,21,Damaged,0.99,0.212,1,1,Fail,0,0,0.809,0,1.06,118,0
+RET005485,SKU0056,Home & Kitchen,98.19,Size/fit,6,Minor Wear,0.99,0.25,1,1,Pass,0,1,0.493,1,6.38,79,0
+RET001688,SKU0066,Beauty,34.69,Wrong item,1,Damaged,0.783,0.16,1,1,Fail,1,0,0.439,1,7.73,111,0
+RET006706,SKU0074,Toys,15.9,Defective,27,Minor Wear,0.779,0.138,1,1,Minor Flaw,0,0,0.599,1,2.49,127,0
+RET003334,SKU0048,Home & Kitchen,40.39,Defective,5,Damaged,0.508,0.217,1,1,Fail,0,1,0.395,0,2.36,40,0
+RET000940,SKU0060,Beauty,19.34,Changed mind,2,Like New,0.731,0.256,1,1,Pass,1,0,0.586,1,8.29,217,0
+RET006802,SKU0060,Beauty,19.34,Changed mind,4,Like New,0.571,0.029,1,1,Pass,1,0,0.363,0,3.49,111,0
+RET005380,SKU0057,Beauty,18.5,Size/fit,9,Minor Wear,0.713,0.136,1,1,Pass,1,0,0.806,0,3.69,118,0
+RET000662,SKU0080,Toys,12.93,Not as described,1,Like New,0.883,0.0,1,1,Pass,0,0,0.692,0,5.08,192,1
+RET000725,SKU0014,Apparel,16.62,Size/fit,4,Minor Wear,0.901,0.168,1,1,Fail,0,0,0.461,0,4.31,45,0
+RET001452,SKU0010,Apparel,92.53,Size/fit,15,Like New,0.902,0.0,1,1,Pass,0,0,0.777,0,1.99,192,1
+RET006901,SKU0007,Apparel,16.76,Changed mind,28,New/Sealed,0.83,0.0,1,1,Pass,0,0,0.766,1,3.79,217,1
+RET006026,SKU0057,Beauty,18.5,Damaged in transit,7,Damaged,0.91,0.132,0,0,Minor Flaw,1,0,0.288,0,7.92,56,0
+RET002756,SKU0081,Toys,39.17,Size/fit,29,Like New,0.811,0.191,0,1,Pass,0,0,0.335,1,4.01,171,1
+RET005054,SKU0018,Footwear,113.34,Wrong item,14,Damaged,0.912,0.165,1,1,Fail,0,0,0.331,3,3.98,189,0
+RET001366,SKU0026,Footwear,58.86,Better price found,9,Like New,0.846,0.008,1,1,Pass,0,0,0.561,0,3.96,110,0
+RET000436,SKU0099,Sports,189.92,Size/fit,1,Like New,0.628,0.082,1,1,Pass,0,0,0.591,0,8.49,125,0
+RET004224,SKU0079,Toys,11.31,Changed mind,10,Minor Wear,0.754,0.179,1,1,Pass,0,0,0.403,0,6.34,40,0
+RET003582,SKU0013,Apparel,49.2,Defective,1,Damaged,0.943,0.19,1,1,Fail,0,0,0.61,0,3.85,130,0
+RET000421,SKU0036,Electronics,394.25,Defective,20,Damaged,0.837,0.318,0,1,Fail,0,1,0.78,1,5.37,217,0
+RET001047,SKU0064,Beauty,41.77,Changed mind,5,Minor Wear,0.86,0.153,1,1,Pass,1,0,0.167,0,7.47,171,0
+RET003676,SKU0009,Apparel,29.06,Not as described,11,Like New,0.738,0.107,1,1,Pass,0,0,0.603,0,4.85,111,0
+RET006647,SKU0013,Apparel,49.2,Changed mind,26,Like New,0.8,0.01,1,1,Pass,0,0,0.554,1,4.23,81,1
+RET003398,SKU0093,Books,10.03,Defective,6,Damaged,0.804,0.153,1,1,Fail,0,0,0.268,1,4.82,40,0
+RET002260,SKU0088,Books,6.47,Not as described,1,New/Sealed,0.975,0.083,0,1,Pass,0,0,0.16,0,5.01,81,1
+RET003804,SKU0061,Beauty,28.58,Late delivery,7,Damaged,0.99,0.157,1,1,Fail,1,0,0.564,1,4.77,78,0
+RET004377,SKU0034,Electronics,489.49,Size/fit,5,Minor Wear,0.607,0.17,1,1,Pass,0,1,0.634,0,8.2,160,0
+RET001482,SKU0005,Apparel,19.07,Changed mind,19,Like New,0.866,0.169,1,1,Pass,0,0,0.805,1,4.71,197,1
+RET001058,SKU0047,Home & Kitchen,54.33,Defective,8,New/Sealed,0.784,0.0,1,1,Pass,0,1,0.739,0,4.74,160,1
+RET006222,SKU0087,Books,22.56,Not as described,4,Minor Wear,0.624,0.126,1,1,Pass,0,0,0.575,0,7.08,160,0
+RET002465,SKU0065,Beauty,10.51,Better price found,8,Like New,0.869,0.117,1,1,Pass,1,0,0.226,3,4.46,187,0
+RET000327,SKU0038,Electronics,60.35,Damaged in transit,15,Damaged,0.99,0.079,1,1,Fail,0,1,0.367,0,5.13,81,0
+RET000372,SKU0044,Home & Kitchen,170.14,Wrong item,25,New/Sealed,0.679,0.116,1,1,Pass,0,1,0.631,0,1.02,110,0
+RET001216,SKU0102,Sports,173.9,Changed mind,8,Damaged,0.955,0.213,1,1,Fail,0,0,0.411,0,2.89,197,0
+RET005840,SKU0114,Accessories,36.11,Defective,5,New/Sealed,0.909,0.077,0,0,Minor Flaw,0,0,0.276,0,4.6,145,1
+RET006550,SKU0001,Apparel,20.33,Size/fit,21,Minor Wear,0.791,0.35,1,0,Pass,0,0,0.455,0,2.58,189,0
+RET001830,SKU0005,Apparel,19.07,Better price found,20,New/Sealed,0.649,0.211,1,1,Pass,0,0,0.844,3,2.41,107,0
+RET003073,SKU0113,Accessories,11.03,Not as described,2,New/Sealed,0.953,0.172,1,1,Pass,0,0,0.536,0,6.2,125,1
+RET000773,SKU0115,Accessories,47.13,Changed mind,25,Damaged,0.742,0.007,1,1,Fail,0,0,0.644,0,7.93,217,0
+RET001992,SKU0094,Books,38.53,Size/fit,7,Like New,0.828,0.146,1,1,Pass,0,0,0.319,1,2.54,189,1
+RET001937,SKU0056,Home & Kitchen,98.19,Changed mind,28,Like New,0.8,0.02,1,1,Pass,0,1,0.403,1,2.79,152,0
+RET001601,SKU0012,Apparel,24.54,Defective,19,New/Sealed,0.896,0.0,1,1,Pass,0,0,0.578,0,4.53,111,1
+RET000145,SKU0100,Sports,114.32,Not as described,3,Like New,0.966,0.044,0,1,Pass,0,0,0.699,0,0.53,160,1
+RET003590,SKU0066,Beauty,34.69,Changed mind,14,Minor Wear,0.828,0.057,1,1,Pass,1,0,0.69,0,2.49,217,0
+RET006646,SKU0119,Accessories,32.17,Damaged in transit,23,Damaged,0.967,0.165,1,0,Fail,0,0,0.48,0,6.13,118,0
+RET006903,SKU0066,Beauty,34.69,Changed mind,9,Damaged,0.78,0.099,1,1,Fail,1,0,0.549,0,1.71,217,0
+RET001805,SKU0012,Apparel,24.54,Changed mind,22,Damaged,0.852,0.042,1,1,Minor Flaw,0,0,0.442,0,7.18,79,0
+RET004333,SKU0035,Electronics,287.0,Size/fit,23,Like New,0.853,0.091,1,1,Pass,0,1,0.417,1,1.05,171,1
+RET004858,SKU0025,Footwear,40.3,Not as described,18,Like New,0.91,0.07,1,1,Pass,0,0,0.557,1,4.13,78,1
+RET006341,SKU0073,Toys,89.36,Wrong item,30,New/Sealed,0.953,0.102,1,1,Pass,0,0,0.409,0,6.36,152,0
+RET002254,SKU0118,Accessories,84.35,Better price found,17,New/Sealed,0.934,0.136,1,1,Pass,0,0,0.579,0,2.53,192,1
+RET004617,SKU0113,Accessories,11.03,Changed mind,30,New/Sealed,0.8,0.03,1,1,Pass,0,0,0.825,3,1.07,217,1
+RET005085,SKU0113,Accessories,11.03,Late delivery,2,New/Sealed,0.932,0.004,0,1,Pass,0,0,0.365,0,2.91,27,1
+RET005881,SKU0025,Footwear,40.3,Changed mind,30,Like New,0.902,0.167,1,1,Pass,0,0,0.579,1,1.47,160,1
+RET003973,SKU0102,Sports,173.9,Size/fit,28,Like New,0.909,0.114,1,1,Pass,0,0,0.39,1,6.21,152,0
+RET005448,SKU0024,Footwear,49.84,Better price found,24,New/Sealed,0.949,0.203,1,1,Pass,0,0,0.854,1,2.82,118,1
+RET006595,SKU0064,Beauty,41.77,Damaged in transit,10,New/Sealed,0.93,0.071,0,1,Pass,1,0,0.734,2,5.34,160,0
+RET006385,SKU0115,Accessories,47.13,Changed mind,3,Like New,0.633,0.215,1,1,Pass,0,0,0.387,0,5.23,130,0
+RET006962,SKU0043,Home & Kitchen,104.28,Changed mind,3,Damaged,0.796,0.067,1,1,Fail,0,1,0.623,2,1.34,107,0
+RET005113,SKU0001,Apparel,20.33,Not as described,25,New/Sealed,0.887,0.095,1,0,Pass,0,0,0.416,0,1.82,26,1
+RET005839,SKU0083,Toys,34.67,Size/fit,21,New/Sealed,0.894,0.061,1,1,Pass,0,0,0.274,0,3.76,81,1
+RET006359,SKU0069,Beauty,53.52,Size/fit,26,Like New,0.681,0.127,0,0,Pass,1,0,0.548,2,6.59,197,0
+RET003621,SKU0039,Electronics,53.78,Damaged in transit,21,Damaged,0.966,0.189,1,1,Minor Flaw,0,1,0.728,1,4.77,153,0
+RET003959,SKU0111,Sports,43.25,Changed mind,29,Minor Wear,0.853,0.163,1,1,Pass,0,0,0.514,1,0.66,130,0
+RET000288,SKU0073,Toys,89.36,Size/fit,5,Like New,0.853,0.182,0,1,Pass,0,0,0.447,0,5.86,152,0
+RET000339,SKU0012,Apparel,24.54,Changed mind,12,Like New,0.781,0.0,1,1,Pass,0,0,0.866,0,4.76,192,1
+RET003577,SKU0005,Apparel,19.07,Late delivery,3,New/Sealed,0.903,0.243,1,1,Pass,0,0,0.548,0,2.05,79,1
+RET000386,SKU0014,Apparel,16.62,Changed mind,22,Like New,0.957,0.15,1,1,Pass,0,0,0.888,0,1.57,217,1
+RET000830,SKU0091,Books,30.16,Changed mind,20,New/Sealed,0.817,0.055,0,1,Pass,0,0,0.224,0,3.39,144,1
+RET000124,SKU0008,Apparel,61.78,Size/fit,17,Like New,0.854,0.106,0,1,Pass,0,0,0.966,0,8.42,107,1
+RET005359,SKU0063,Beauty,19.03,Size/fit,23,Damaged,0.99,0.14,1,1,Fail,1,0,0.311,0,1.56,145,0
+RET003399,SKU0048,Home & Kitchen,40.39,Better price found,4,New/Sealed,0.663,0.162,1,1,Pass,0,1,0.511,2,1.81,187,0
+RET006235,SKU0060,Beauty,19.34,Defective,20,Damaged,0.813,0.074,1,0,Fail,1,0,0.64,0,2.21,118,0
+RET001931,SKU0014,Apparel,16.62,Size/fit,27,New/Sealed,0.97,0.014,1,1,Pass,0,0,0.633,0,1.23,110,0
+RET002319,SKU0015,Footwear,63.9,Size/fit,24,Like New,0.894,0.151,1,1,Pass,0,0,0.766,2,2.46,160,1
+RET000687,SKU0022,Footwear,65.33,Changed mind,23,New/Sealed,0.99,0.234,1,1,Pass,0,0,0.477,0,0.93,171,1
+RET001543,SKU0026,Footwear,58.86,Size/fit,20,Like New,0.856,0.099,1,1,Pass,0,0,0.796,0,4.05,118,1
+RET003177,SKU0060,Beauty,19.34,Changed mind,16,Minor Wear,0.982,0.167,1,1,Minor Flaw,1,0,0.588,1,6.03,111,0
+RET001492,SKU0065,Beauty,10.51,Better price found,29,New/Sealed,0.697,0.132,1,1,Minor Flaw,1,0,0.677,2,1.59,107,0
+RET005344,SKU0093,Books,10.03,Size/fit,14,New/Sealed,0.99,0.314,1,1,Pass,0,0,0.522,1,3.06,127,1
+RET005625,SKU0120,Accessories,26.56,Changed mind,24,Damaged,0.776,0.776,1,1,Fail,0,0,0.539,1,7.38,217,0
+RET005446,SKU0005,Apparel,19.07,Not as described,28,Like New,0.902,0.012,0,0,Pass,0,0,0.635,1,8.03,125,1
+RET000635,SKU0079,Toys,11.31,Changed mind,3,Like New,0.891,0.072,1,1,Pass,0,0,0.375,0,5.45,152,0
+RET004780,SKU0041,Electronics,61.36,Better price found,3,Like New,0.739,0.394,1,1,Pass,0,1,0.336,0,3.7,187,0
+RET004646,SKU0057,Beauty,18.5,Changed mind,26,Minor Wear,0.926,0.26,1,1,Pass,1,0,0.375,0,4.44,187,0
+RET005554,SKU0103,Sports,67.04,Size/fit,13,New/Sealed,0.853,0.0,1,1,Pass,0,0,0.514,1,1.87,107,1
+RET001141,SKU0019,Footwear,144.61,Size/fit,4,Minor Wear,0.896,0.0,0,0,Fail,0,0,0.307,0,5.89,51,0
+RET000063,SKU0099,Sports,189.92,Changed mind,9,Like New,0.698,0.19,1,1,Pass,0,0,0.576,0,4.98,107,0
+RET001525,SKU0117,Accessories,58.52,Damaged in transit,11,Like New,0.628,0.083,1,1,Pass,0,0,0.262,1,5.92,145,0
+RET006638,SKU0058,Beauty,11.5,Better price found,8,Damaged,0.85,0.126,1,1,Fail,1,0,0.759,0,3.05,160,0
+RET005699,SKU0003,Apparel,101.81,Not as described,6,New/Sealed,0.888,0.124,1,1,Pass,0,0,0.632,0,2.25,187,1
+RET002827,SKU0023,Footwear,116.21,Better price found,24,Like New,0.854,0.176,1,1,Pass,0,0,0.34,2,2.32,151,1
+RET002528,SKU0063,Beauty,19.03,Size/fit,28,New/Sealed,0.794,0.165,1,1,Pass,1,0,0.711,1,4.39,192,0
+RET003653,SKU0063,Beauty,19.03,Size/fit,10,Like New,0.861,0.0,1,1,Minor Flaw,1,0,0.547,1,1.59,118,0
+RET004672,SKU0068,Beauty,8.23,Size/fit,15,Damaged,0.912,0.068,1,1,Fail,1,0,0.731,0,5.64,127,0
+RET003559,SKU0034,Electronics,489.49,Defective,3,Damaged,0.959,0.086,1,1,Fail,0,1,0.336,0,7.31,38,0
+RET006918,SKU0115,Accessories,47.13,Size/fit,9,Like New,0.808,0.0,0,1,Pass,0,0,0.362,3,6.89,110,0
+RET002636,SKU0073,Toys,89.36,Not as described,15,Minor Wear,0.872,0.065,1,1,Minor Flaw,0,0,0.636,0,5.57,217,0
+RET000949,SKU0083,Toys,34.67,Size/fit,11,New/Sealed,0.854,0.105,1,1,Minor Flaw,0,0,0.343,0,1.98,45,1
+RET004009,SKU0006,Apparel,16.83,Size/fit,28,Like New,0.856,0.167,1,1,Pass,0,0,0.774,0,7.33,125,1
+RET000226,SKU0024,Footwear,49.84,Not as described,25,New/Sealed,0.871,0.176,1,0,Pass,0,0,0.555,1,5.66,125,1
+RET004323,SKU0027,Footwear,37.92,Defective,1,Like New,0.691,0.164,1,1,Pass,0,0,0.515,1,5.38,152,0
+RET003521,SKU0063,Beauty,19.03,Not as described,25,New/Sealed,0.963,0.037,1,1,Pass,1,0,0.252,2,4.9,18,0
+RET004366,SKU0069,Beauty,53.52,Late delivery,8,Minor Wear,0.676,0.03,1,1,Pass,1,0,0.71,0,8.28,107,0
+RET002506,SKU0006,Apparel,16.83,Better price found,12,Damaged,0.692,0.096,1,1,Fail,0,0,0.769,0,5.87,160,0
+RET000580,SKU0064,Beauty,41.77,Changed mind,18,Damaged,0.832,0.465,1,1,Minor Flaw,1,0,0.592,0,5.63,217,0
+RET006242,SKU0112,Sports,68.85,Changed mind,23,New/Sealed,0.874,0.0,1,0,Minor Flaw,0,0,0.629,2,7.17,217,1
+RET001642,SKU0088,Books,6.47,Better price found,9,New/Sealed,0.709,0.006,1,1,Pass,0,0,0.075,0,3.99,50,0
+RET004680,SKU0069,Beauty,53.52,Not as described,5,Minor Wear,0.818,0.142,1,1,Pass,1,0,0.685,0,8.0,153,0
+RET003402,SKU0033,Electronics,561.65,Defective,16,Like New,0.639,0.127,0,1,Pass,0,1,0.593,0,6.45,127,0
+RET005869,SKU0072,Toys,53.01,Changed mind,6,Like New,0.88,0.15,1,1,Pass,0,0,0.372,1,7.58,152,0
+RET006965,SKU0045,Home & Kitchen,58.57,Wrong item,12,Damaged,0.952,0.048,1,0,Fail,0,1,0.515,3,2.8,171,0
+RET002905,SKU0061,Beauty,28.58,Late delivery,25,Minor Wear,0.88,0.051,0,0,Minor Flaw,1,0,0.565,0,5.79,171,0
+RET005024,SKU0080,Toys,12.93,Size/fit,11,New/Sealed,0.928,0.131,1,1,Pass,0,0,0.367,0,0.52,27,1
+RET004029,SKU0004,Apparel,27.12,Changed mind,13,New/Sealed,0.851,0.095,1,1,Pass,0,0,0.833,0,8.27,118,1
+RET004187,SKU0050,Home & Kitchen,43.68,Size/fit,7,Like New,0.808,0.0,1,1,Pass,0,1,0.798,3,7.14,118,1
+RET005721,SKU0092,Books,24.18,Damaged in transit,18,Minor Wear,0.98,0.218,0,0,Fail,0,0,0.429,0,0.61,127,0
+RET004358,SKU0063,Beauty,19.03,Better price found,6,Minor Wear,0.702,0.143,1,1,Pass,1,0,0.524,0,0.74,78,0
+RET006523,SKU0011,Apparel,16.42,Wrong item,29,Minor Wear,0.99,0.092,0,1,Minor Flaw,0,0,0.949,0,1.52,90,0
+RET002561,SKU0092,Books,24.18,Defective,23,Like New,0.833,0.036,1,0,Pass,0,0,0.213,0,6.18,151,1
+RET003142,SKU0014,Apparel,16.62,Size/fit,4,New/Sealed,0.922,0.211,1,1,Pass,0,0,0.991,4,8.34,153,1
+RET006578,SKU0026,Footwear,58.86,Changed mind,18,Like New,0.861,0.128,1,1,Pass,0,0,0.576,1,1.47,153,1
+RET006511,SKU0027,Footwear,37.92,Late delivery,26,Minor Wear,0.839,0.159,1,1,Pass,0,0,0.471,0,4.45,187,0
+RET000513,SKU0066,Beauty,34.69,Defective,30,Damaged,0.906,0.094,1,1,Fail,1,0,0.513,0,7.29,152,0
+RET006279,SKU0032,Electronics,111.19,Defective,22,Like New,0.808,0.087,1,0,Pass,0,1,0.541,1,6.16,125,1
+RET002691,SKU0113,Accessories,11.03,Defective,5,Damaged,0.933,0.235,0,0,Fail,0,0,0.363,1,5.29,125,0
+RET005216,SKU0026,Footwear,58.86,Changed mind,14,Damaged,0.773,0.055,1,1,Minor Flaw,0,0,0.66,3,3.54,127,0
+RET001475,SKU0019,Footwear,144.61,Not as described,6,Minor Wear,0.766,0.058,1,1,Pass,0,0,0.338,2,8.1,171,0
+RET001415,SKU0029,Electronics,130.37,Damaged in transit,19,Damaged,0.91,0.142,1,1,Fail,0,1,0.776,0,1.94,160,0
+RET005895,SKU0120,Accessories,26.56,Not as described,15,Minor Wear,0.887,0.184,1,1,Pass,0,0,0.52,0,4.93,153,0
+RET002958,SKU0121,Accessories,73.52,Size/fit,2,Minor Wear,0.887,0.239,1,1,Minor Flaw,0,0,0.469,3,1.83,152,0
+RET001198,SKU0022,Footwear,65.33,Better price found,24,Minor Wear,0.775,0.0,1,1,Fail,0,0,0.657,0,3.91,197,0
+RET000441,SKU0017,Footwear,131.1,Not as described,16,New/Sealed,0.872,0.044,1,1,Pass,0,0,0.568,0,7.13,79,1
+RET004816,SKU0114,Accessories,36.11,Size/fit,6,Like New,0.819,0.075,0,0,Pass,0,0,0.653,0,6.2,153,1
+RET004151,SKU0042,Electronics,484.17,Size/fit,24,New/Sealed,0.81,0.181,0,1,Pass,0,1,0.441,0,6.8,171,1
+RET000837,SKU0037,Electronics,347.98,Better price found,23,Damaged,0.767,0.069,1,1,Fail,0,1,0.783,1,7.81,107,0
+RET001503,SKU0037,Electronics,347.98,Size/fit,9,New/Sealed,0.96,0.099,1,1,Pass,0,1,0.324,3,8.26,51,1
+RET001969,SKU0048,Home & Kitchen,40.39,Size/fit,4,Minor Wear,0.914,0.111,1,1,Minor Flaw,0,1,0.247,0,5.87,38,0
+RET000012,SKU0058,Beauty,11.5,Not as described,4,Like New,0.704,0.0,1,1,Pass,1,0,0.738,0,3.77,153,0
+RET002947,SKU0002,Apparel,28.6,Changed mind,6,Like New,0.88,0.071,1,1,Pass,0,0,0.463,0,4.85,130,1
+RET000581,SKU0022,Footwear,65.33,Changed mind,1,Damaged,0.843,0.0,1,1,Fail,0,0,0.485,2,1.94,152,0
+RET005947,SKU0048,Home & Kitchen,40.39,Wrong item,19,Minor Wear,0.821,0.026,1,1,Minor Flaw,0,1,0.671,0,4.63,90,0
+RET002202,SKU0009,Apparel,29.06,Better price found,29,New/Sealed,0.701,0.0,1,1,Pass,0,0,0.862,1,8.45,160,0
+RET004561,SKU0042,Electronics,484.17,Size/fit,8,Minor Wear,0.964,0.118,1,1,Pass,0,1,0.621,1,5.14,197,0
+RET004765,SKU0055,Home & Kitchen,27.17,Not as described,14,New/Sealed,0.781,0.325,1,1,Pass,0,1,0.396,4,7.44,12,1
+RET003213,SKU0092,Books,24.18,Damaged in transit,24,New/Sealed,0.99,0.245,1,1,Pass,0,0,0.222,0,6.71,56,1
+RET002877,SKU0040,Electronics,52.04,Changed mind,13,Minor Wear,0.636,0.14,1,1,Minor Flaw,0,1,0.65,1,1.04,153,0
+RET002397,SKU0114,Accessories,36.11,Not as described,28,Like New,0.861,0.153,1,1,Pass,0,0,0.233,1,2.56,151,1
+RET006084,SKU0029,Electronics,130.37,Better price found,21,Damaged,0.785,0.185,1,1,Fail,0,1,0.472,2,5.47,171,0
+RET004460,SKU0005,Apparel,19.07,Changed mind,6,New/Sealed,0.873,0.002,1,1,Pass,0,0,0.699,0,5.44,78,1
+RET000855,SKU0014,Apparel,16.62,Size/fit,19,Like New,0.899,0.198,1,1,Pass,0,0,0.548,1,1.42,111,1
+RET001709,SKU0029,Electronics,130.37,Changed mind,1,Minor Wear,0.793,0.296,1,1,Pass,0,1,0.246,0,0.8,51,0
+RET006108,SKU0020,Footwear,101.04,Late delivery,27,New/Sealed,0.985,0.12,1,1,Pass,0,0,0.595,3,4.54,110,0
+RET001751,SKU0043,Home & Kitchen,104.28,Defective,10,Damaged,0.99,0.041,0,1,Fail,0,1,0.491,0,4.75,110,0
+RET006404,SKU0107,Sports,20.43,Defective,9,Minor Wear,0.925,0.06,1,1,Pass,0,0,0.458,0,7.68,90,0
+RET003958,SKU0016,Footwear,111.3,Size/fit,12,Minor Wear,0.86,0.0,1,1,Minor Flaw,0,0,0.754,0,7.7,160,0
+RET003937,SKU0053,Home & Kitchen,71.76,Changed mind,2,Like New,0.923,0.081,1,1,Pass,0,1,0.547,0,6.75,110,0
+RET005652,SKU0055,Home & Kitchen,27.17,Changed mind,21,Like New,0.907,0.2,1,1,Pass,0,1,0.836,0,3.93,153,1
+RET003152,SKU0068,Beauty,8.23,Size/fit,5,Damaged,0.892,0.0,1,0,Minor Flaw,1,0,0.805,2,4.26,160,0
+RET003901,SKU0078,Toys,8.58,Changed mind,7,New/Sealed,0.716,0.039,1,1,Minor Flaw,0,0,0.691,1,7.79,118,0
+RET006045,SKU0100,Sports,114.32,Size/fit,11,New/Sealed,0.704,0.182,0,1,Pass,0,0,0.794,2,3.15,192,0
+RET000530,SKU0067,Beauty,31.0,Not as described,25,Like New,0.942,0.079,1,1,Pass,1,0,0.473,0,6.73,125,0
+RET004522,SKU0050,Home & Kitchen,43.68,Size/fit,15,New/Sealed,0.894,0.179,1,1,Pass,0,1,0.791,1,4.16,153,1
+RET000673,SKU0012,Apparel,24.54,Better price found,27,New/Sealed,0.833,0.127,1,1,Minor Flaw,0,0,0.822,0,2.87,130,1
+RET006223,SKU0007,Apparel,16.76,Changed mind,29,New/Sealed,0.904,0.157,1,1,Pass,0,0,0.767,1,8.4,118,1
+RET005451,SKU0047,Home & Kitchen,54.33,Changed mind,3,Like New,0.882,0.0,1,1,Pass,0,1,0.753,0,2.34,160,1
+RET000638,SKU0108,Sports,30.83,Size/fit,28,Damaged,0.924,0.087,1,1,Fail,0,0,0.445,0,3.04,217,0
+RET002070,SKU0096,Books,6.5,Not as described,2,New/Sealed,0.926,0.086,1,1,Pass,0,0,0.593,0,0.91,217,1
+RET000538,SKU0018,Footwear,113.34,Not as described,16,Like New,0.95,0.101,1,1,Pass,0,0,0.497,0,5.76,110,0
+RET003820,SKU0117,Accessories,58.52,Better price found,18,Minor Wear,0.578,0.0,1,1,Pass,0,0,0.16,0,1.28,27,0
+RET006112,SKU0039,Electronics,53.78,Better price found,27,Minor Wear,0.856,0.198,1,1,Minor Flaw,0,1,0.315,0,3.84,24,0
+RET002104,SKU0047,Home & Kitchen,54.33,Changed mind,11,Like New,0.842,0.204,1,1,Pass,0,1,0.645,0,3.86,125,1
+RET006589,SKU0028,Footwear,48.2,Changed mind,13,New/Sealed,0.76,0.047,1,1,Pass,0,0,0.715,3,4.97,217,1
+RET005932,SKU0091,Books,30.16,Size/fit,21,Like New,0.853,0.047,1,1,Pass,0,0,0.575,1,5.36,118,1
+RET003853,SKU0078,Toys,8.58,Not as described,3,New/Sealed,0.99,0.128,1,1,Pass,0,0,0.552,2,4.64,90,1
+RET005934,SKU0010,Apparel,92.53,Size/fit,16,New/Sealed,0.896,0.034,1,1,Pass,0,0,0.566,0,1.71,171,1
+RET005309,SKU0071,Toys,16.61,Defective,24,New/Sealed,0.862,0.183,1,1,Pass,0,0,0.298,0,5.39,189,1
+RET004917,SKU0115,Accessories,47.13,Changed mind,10,Like New,0.887,0.154,1,1,Pass,0,0,0.129,0,8.24,18,1
+RET006070,SKU0058,Beauty,11.5,Better price found,27,Minor Wear,0.851,0.216,0,1,Minor Flaw,1,0,0.455,0,4.32,152,0
+RET002418,SKU0071,Toys,16.61,Size/fit,22,Like New,0.99,0.076,1,1,Pass,0,0,0.612,0,5.14,192,1
+RET003156,SKU0009,Apparel,29.06,Late delivery,27,New/Sealed,0.939,0.161,0,0,Pass,0,0,0.805,0,3.89,107,1
+RET002786,SKU0047,Home & Kitchen,54.33,Size/fit,26,Like New,0.666,0.066,1,1,Pass,0,1,0.8,0,6.57,125,0
+RET001126,SKU0114,Accessories,36.11,Late delivery,12,New/Sealed,0.895,0.09,1,1,Pass,0,0,0.483,0,1.03,130,1
+RET005128,SKU0054,Home & Kitchen,101.72,Size/fit,25,Minor Wear,0.676,0.0,1,1,Pass,0,1,0.486,1,8.33,111,0
+RET002997,SKU0069,Beauty,53.52,Defective,24,Damaged,0.741,0.0,0,0,Fail,1,0,0.702,0,5.75,107,0
+RET003040,SKU0053,Home & Kitchen,71.76,Size/fit,10,Minor Wear,0.925,0.0,1,1,Pass,0,1,0.507,1,4.51,78,0
+RET003323,SKU0022,Footwear,65.33,Better price found,27,New/Sealed,0.663,0.129,1,0,Pass,0,0,0.643,0,2.68,197,0
+RET001877,SKU0079,Toys,11.31,Changed mind,7,Minor Wear,0.806,0.044,1,1,Pass,0,0,0.628,1,1.86,78,0
+RET002896,SKU0018,Footwear,113.34,Late delivery,24,Like New,0.856,0.17,1,1,Pass,0,0,0.599,1,4.04,127,1
+RET002333,SKU0014,Apparel,16.62,Late delivery,11,New/Sealed,0.656,0.13,0,1,Pass,0,0,0.668,1,0.96,78,0
+RET000547,SKU0052,Home & Kitchen,14.2,Changed mind,19,Minor Wear,0.562,0.023,1,1,Pass,0,1,0.397,0,2.51,187,0
+RET001183,SKU0068,Beauty,8.23,Better price found,27,Minor Wear,0.856,0.073,1,1,Fail,1,0,0.645,2,7.5,160,0
+RET002121,SKU0107,Sports,20.43,Late delivery,17,Like New,0.966,0.0,1,1,Pass,0,0,0.457,0,3.31,78,1
+RET001634,SKU0115,Accessories,47.13,Not as described,28,New/Sealed,0.757,0.0,0,1,Pass,0,0,0.389,0,6.94,187,1
+RET004602,SKU0116,Accessories,66.93,Late delivery,26,New/Sealed,0.824,0.0,1,1,Pass,0,0,0.469,0,4.64,153,1
+RET002426,SKU0006,Apparel,16.83,Not as described,21,Like New,0.986,0.057,1,1,Pass,0,0,0.603,0,8.34,152,0
+RET005244,SKU0059,Beauty,69.06,Not as described,30,Like New,0.697,0.002,1,1,Pass,1,0,0.507,0,1.16,160,0
+RET004020,SKU0025,Footwear,40.3,Changed mind,29,New/Sealed,0.855,0.07,1,1,Pass,0,0,0.684,3,2.33,107,1
+RET002702,SKU0057,Beauty,18.5,Not as described,10,Minor Wear,0.84,0.125,1,1,Minor Flaw,1,0,0.264,1,3.39,144,0
+RET004920,SKU0041,Electronics,61.36,Damaged in transit,1,Damaged,0.916,0.025,1,1,Fail,0,1,0.763,0,4.38,118,0
+RET000563,SKU0100,Sports,114.32,Wrong item,23,New/Sealed,0.897,0.164,1,1,Pass,0,0,0.226,0,5.68,56,1
+RET001924,SKU0120,Accessories,26.56,Better price found,16,Minor Wear,0.8,0.095,1,1,Minor Flaw,0,0,0.702,0,8.48,192,0
+RET000959,SKU0116,Accessories,66.93,Changed mind,8,Like New,0.936,0.045,0,1,Pass,0,0,0.473,0,4.49,171,1
+RET005410,SKU0001,Apparel,20.33,Size/fit,29,New/Sealed,0.945,0.186,1,1,Pass,0,0,0.556,0,2.61,45,1
+RET000838,SKU0008,Apparel,61.78,Size/fit,11,New/Sealed,0.759,0.252,1,1,Pass,0,0,0.896,0,2.39,107,1
+RET003600,SKU0094,Books,38.53,Size/fit,17,New/Sealed,0.775,0.043,0,1,Pass,0,0,0.461,0,1.82,192,1
+RET006777,SKU0055,Home & Kitchen,27.17,Changed mind,30,Like New,0.977,0.147,1,1,Pass,0,1,0.686,0,7.47,197,1
+RET006688,SKU0070,Beauty,23.0,Not as described,11,Damaged,0.787,0.038,1,1,Fail,1,0,0.733,0,4.89,90,0
+RET001133,SKU0012,Apparel,24.54,Not as described,8,New/Sealed,0.899,0.0,1,1,Pass,0,0,0.443,0,7.58,151,1
+RET001206,SKU0059,Beauty,69.06,Not as described,29,Minor Wear,0.899,0.032,1,1,Fail,1,0,0.678,1,4.85,217,0
+RET000470,SKU0092,Books,24.18,Changed mind,24,New/Sealed,0.967,0.083,1,1,Pass,0,0,0.283,2,6.39,145,1
+RET001116,SKU0013,Apparel,49.2,Changed mind,8,Damaged,0.878,0.164,1,1,Minor Flaw,0,0,0.39,0,7.99,56,0
+RET002025,SKU0084,Toys,14.25,Changed mind,30,New/Sealed,0.858,0.109,1,1,Minor Flaw,0,0,0.704,0,5.54,118,1
+RET006654,SKU0037,Electronics,347.98,Size/fit,1,New/Sealed,0.788,0.225,1,1,Pass,0,1,0.707,0,3.78,197,1
+RET000737,SKU0107,Sports,20.43,Size/fit,8,New/Sealed,0.798,0.142,1,1,Pass,0,0,0.324,0,5.5,130,1
+RET003783,SKU0090,Books,24.67,Changed mind,18,New/Sealed,0.863,0.141,1,1,Pass,0,0,0.215,1,6.9,111,1
+RET001338,SKU0081,Toys,39.17,Damaged in transit,9,Minor Wear,0.808,0.188,1,1,Pass,0,0,0.189,3,2.67,51,0
+RET001735,SKU0019,Footwear,144.61,Not as described,11,Minor Wear,0.702,0.293,1,1,Minor Flaw,0,0,0.495,0,5.2,171,0
+RET005396,SKU0061,Beauty,28.58,Changed mind,25,Damaged,0.897,0.074,1,1,Fail,1,0,0.479,0,5.01,110,0
+RET006414,SKU0011,Apparel,16.42,Not as described,12,Minor Wear,0.846,0.006,1,1,Minor Flaw,0,0,0.639,1,3.59,192,0
+RET002797,SKU0058,Beauty,11.5,Size/fit,28,Like New,0.598,0.126,1,1,Minor Flaw,1,0,0.398,0,2.66,110,0
+RET000128,SKU0102,Sports,173.9,Changed mind,19,Damaged,0.756,0.483,1,1,Fail,0,0,0.287,0,5.04,130,0
+RET005109,SKU0041,Electronics,61.36,Better price found,30,Minor Wear,0.753,0.142,1,1,Minor Flaw,0,1,0.395,0,1.89,187,0
+RET002296,SKU0076,Toys,40.07,Size/fit,5,Minor Wear,0.942,0.167,1,1,Minor Flaw,0,0,0.529,0,1.89,217,0
+RET002588,SKU0011,Apparel,16.42,Defective,17,Damaged,0.853,0.0,0,0,Fail,0,0,0.692,0,6.44,78,0
+RET000566,SKU0046,Home & Kitchen,63.34,Size/fit,23,New/Sealed,0.847,0.076,1,1,Pass,0,1,0.626,3,8.25,78,1
+RET004356,SKU0017,Footwear,131.1,Size/fit,14,New/Sealed,0.99,0.113,1,1,Pass,0,0,0.63,2,7.69,160,1
+RET003784,SKU0036,Electronics,394.25,Size/fit,6,Damaged,0.629,0.172,1,0,Fail,0,1,0.781,4,7.98,118,0
+RET005321,SKU0027,Footwear,37.92,Not as described,22,New/Sealed,0.811,0.136,1,1,Pass,0,0,0.604,1,1.42,107,1
+RET005541,SKU0099,Sports,189.92,Size/fit,17,Minor Wear,0.65,0.091,1,1,Minor Flaw,0,0,0.612,2,0.78,153,0
+RET006957,SKU0084,Toys,14.25,Late delivery,3,Damaged,0.892,0.241,1,1,Fail,0,0,0.414,0,2.38,171,0
+RET001840,SKU0100,Sports,114.32,Late delivery,4,New/Sealed,0.978,0.049,1,1,Pass,0,0,0.384,0,7.19,111,1
+RET006907,SKU0043,Home & Kitchen,104.28,Changed mind,30,Damaged,0.896,0.116,0,1,Fail,0,1,0.705,0,8.23,125,0
+RET004626,SKU0003,Apparel,101.81,Changed mind,30,New/Sealed,0.829,0.133,1,1,Pass,0,0,0.944,0,2.17,160,1
+RET005341,SKU0002,Apparel,28.6,Size/fit,4,Like New,0.811,0.0,1,0,Pass,0,0,0.909,0,3.93,153,1
+RET000209,SKU0049,Home & Kitchen,98.6,Not as described,27,Like New,0.677,0.101,1,1,Pass,0,1,0.426,2,5.94,189,0
+RET006674,SKU0036,Electronics,394.25,Defective,11,Minor Wear,0.649,0.0,0,1,Pass,0,1,0.732,0,8.08,153,0
+RET002592,SKU0081,Toys,39.17,Better price found,22,Like New,0.894,0.0,1,1,Pass,0,0,0.543,0,3.43,118,1
+RET004294,SKU0076,Toys,40.07,Changed mind,26,Minor Wear,0.881,0.141,1,1,Minor Flaw,0,0,0.611,0,5.91,127,0
+RET006607,SKU0016,Footwear,111.3,Size/fit,14,Damaged,0.867,0.472,1,1,Fail,0,0,0.531,0,3.31,110,0
+RET006662,SKU0065,Beauty,10.51,Better price found,14,Minor Wear,0.956,0.217,1,1,Minor Flaw,1,0,0.61,0,3.47,192,0
+RET002806,SKU0007,Apparel,16.76,Better price found,13,Damaged,0.954,0.102,1,1,Fail,0,0,0.8,0,7.69,192,0
+RET001544,SKU0045,Home & Kitchen,58.57,Size/fit,30,Damaged,0.833,0.066,1,1,Fail,0,1,0.336,1,2.1,59,0
+RET006313,SKU0055,Home & Kitchen,27.17,Changed mind,13,Like New,0.592,0.081,1,1,Pass,0,1,0.797,2,3.88,217,0
+RET001221,SKU0079,Toys,11.31,Defective,10,New/Sealed,0.98,0.077,1,1,Pass,0,0,0.395,0,3.86,130,1
+RET006019,SKU0021,Footwear,100.95,Defective,5,Minor Wear,0.87,0.086,1,1,Pass,0,0,0.613,0,2.64,160,0

@@ -1,0 +1,75 @@
+{
+  "model_name": "HIEN-Condition-CNN (Convolutional Neural Network)",
+  "architecture": "3-Block Conv2D + MaxPooling + GlobalAveragePooling + Dense(64) + Softmax(4)",
+  "classes": [
+    "New_Sealed",
+    "Like_New",
+    "Minor_Wear",
+    "Damaged"
+  ],
+  "input_resolution": [
+    128,
+    128,
+    3
+  ],
+  "dataset_splits": {
+    "train_samples": 1680,
+    "val_samples": 360,
+    "test_samples": 360,
+    "total_samples": 2400
+  },
+  "test_metrics": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "confusion_matrix": [
+      [
+        90,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        90,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        90,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        90
+      ]
+    ],
+    "per_class": {
+      "New_Sealed": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+      },
+      "Like_New": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+      },
+      "Minor_Wear": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+      },
+      "Damaged": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+      }
+    }
+  }
+}
